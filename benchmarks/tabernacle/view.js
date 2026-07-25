@@ -56,11 +56,6 @@ export async function mount(root) {
 function renderCards(submissions) {
   return `<div class="gallery">${submissions.map((submission) => `
     <article class="card">
-      <div class="card-thumb">
-        ${submission.thumbnail
-          ? `<img src="${escapeAttr(submission.thumbnail)}" alt="" loading="lazy">`
-          : `<span class="card-thumb-empty">No preview</span>`}
-      </div>
       <div class="card-body">
         <h4>${escapeHtml(submission.title ?? submission.id)}</h4>
         <div class="card-meta">
@@ -70,7 +65,6 @@ function renderCards(submissions) {
       </div>
       <div class="card-actions">
         <button data-open="${escapeAttr(submission.id)}" class="primary">Walk through</button>
-        <a class="button-link" href="${escapeAttr(submission.entry)}" target="_blank" rel="noopener">New tab</a>
       </div>
     </article>`).join("")}</div>`;
 }

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Tabernacle — a walkthrough in cubits</title>
+<meta name="description" content="A first-person walkthrough of the Mosaic tabernacle, built to the measurements given in Exodus.">
+<link rel="stylesheet" href="./style.css">
+
+<!--
+  Declared dimensions, in cubits, for checking against the manifest.
+  Sources: Exodus 27:18 (court), 26:16-25 (boards, and so the tent),
+  25:10 (ark), 25:23 (table), 30:2 (altar of incense), 27:1 (bronze altar),
+  26:2 (linen curtains), 26:8 (goats'-hair curtains).
+-->
+<script type="application/json" id="tabernacle-dimensions">
+{
+  "unit": "cubit",
+  "court":            { "length": 100, "width": 50, "height": 5 },
+  "tent":             { "length": 30,  "width": 10, "height": 10 },
+  "ark":              { "length": 2.5, "width": 1.5, "height": 1.5 },
+  "table":            { "length": 2,   "width": 1,  "height": 1.5 },
+  "altarOfIncense":   { "length": 1,   "width": 1,  "height": 2 },
+  "bronzeAltar":      { "length": 5,   "width": 5,  "height": 3 },
+  "curtains":         { "count": 10,   "length": 28, "width": 4 },
+  "goatHairCurtains": { "count": 11,   "length": 30, "width": 4 }
+}
+</script>
+</head>
+<body>
+
+<div id="stage">
+  <canvas id="gl"></canvas>
+
+  <div id="crosshair" aria-hidden="true">
+    <i></i><span id="hoverLabel"></span>
+  </div>
+
+  <header id="bar">
+    <div id="zone">Outside the camp</div>
+    <div id="tools">
+      <button id="mapBtn" type="button" title="Plan of the court (M)">Plan</button>
+      <button id="lockBtn" type="button" title="Mouse look">Mouse look</button>
+      <button id="helpBtn" type="button" title="Controls (H)">?</button>
+    </div>
+  </header>
+
+  <canvas id="map" width="360" height="200" aria-hidden="true"></canvas>
+
+  <div id="hint">
+    <b>&uarr; &darr;</b> walk &nbsp;<b>&larr; &rarr;</b> turn &nbsp;&middot;&nbsp;
+    drag to look &nbsp;&middot;&nbsp; click an object to read about it
+  </div>
+
+  <aside id="panel" hidden>
+    <button id="infoClose" type="button" aria-label="Close">&times;</button>
+    <h2 id="infoTitle"></h2>
+    <p id="infoSub"></p>
+    <div id="infoRef"></div>
+    <div id="infoBody"></div>
+    <ul id="infoFacts"></ul>
+    <p id="infoNote" hidden></p>
+  </aside>
+
+  <div id="help">
+    <button id="helpClose" type="button" aria-label="Close">&times;</button>
+    <h1>The Tabernacle</h1>
+    <p class="lede">
+      Everything here is built to the measurements given in Exodus 25&ndash;27,
+      30 and 36&ndash;40. Where scripture gives a number, that number is what you
+      are walking around. Where it is silent &mdash; the thickness of the boards,
+      the size of the laver, the height of the lampstand, the shape of the
+      cherubim, the form of the roof &mdash; the panel for that object says so.
+    </p>
+
+    <div class="keys">
+      <div><kbd>&uarr;</kbd><kbd>&darr;</kbd><span>Walk forward and back</span></div>
+      <div><kbd>&larr;</kbd><kbd>&rarr;</kbd><span>Turn</span></div>
+      <div><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd><span>Walk and sidestep</span></div>
+      <div><kbd>Shift</kbd><span>Walk faster</span></div>
+      <div><kbd>Drag</kbd><span>Look around</span></div>
+      <div><kbd>Click</kbd><span>Read about what you are looking at</span></div>
+      <div><kbd>M</kbd><span>Plan of the court</span></div>
+      <div><kbd>R</kbd><span>Back to the gate</span></div>
+      <div><kbd>H</kbd><span>These controls</span></div>
+    </div>
+
+    <p class="scale" id="cubitNote"></p>
+    <p class="go">Start outside the gate, on the east. It is the only way in.</p>
+    <button id="helpStart" type="button" class="primary">Walk in</button>
+  </div>
+
+  <div id="loading">Building the tabernacle&hellip;</div>
+</div>
+
+<script src="./js/core.js"></script>
+<script src="./js/textures.js"></script>
+<script src="./js/model.js"></script>
+<script src="./js/content.js"></script>
+<script src="./js/app.js"></script>
+</body>
+</html>

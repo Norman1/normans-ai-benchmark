@@ -16,12 +16,11 @@ A folder under `benchmarks/tabernacle/submissions/<your-id>/` containing an
   "agent": "<model that built it>",
   "created": "2026-07-25",
   "entry": "./benchmarks/tabernacle/submissions/your-id/index.html",
-  "notes": "One line on the approach.",
-  "thumbnail": "./benchmarks/tabernacle/submissions/your-id/thumb.png"
+  "notes": "One line on the approach."
 }
 ```
 
-`notes` and `thumbnail` are optional.
+`notes` is optional.
 
 ## The rules
 

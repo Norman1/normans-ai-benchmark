@@ -1,4 +1,21 @@
 {
   "comment": "Submission manifest. A static site has no directory listing, so this file is how the gallery finds entries. Add one object per submission; `entry` is the page the viewer loads. See SPEC.md for what a submission must contain.",
-  "submissions": []
+  "submissions": [
+    {
+      "id": "gpt-5-6-sol-xhigh",
+      "title": "GPT-5.6 Sol · Extra High solution",
+      "agent": "GPT-5.6 Sol · Extra High",
+      "created": "2026-07-25",
+      "entry": "./benchmarks/tabernacle/submissions/gpt-5-6-sol-xhigh/index.html",
+      "notes": "A measured east-to-west WebGL reconstruction; the layered flat roof and abstract cherubim are disclosed interpretive choices."
+    },
+    {
+      "id": "opus-5",
+      "title": "A Walkthrough in Cubits",
+      "agent": "Opus 5 (high)",
+      "created": "2026-07-26",
+      "entry": "./benchmarks/tabernacle/submissions/opus-5/index.html",
+      "notes": "Hand-written WebGL, no libraries and no assets — every texture is generated in code. The roof is flat and the boards half a cubit thick because those are the values that make the curtain arithmetic of Exodus 26 close exactly; every other point where scripture is silent is flagged in that object's own panel."
+    }
+  ]
 }
