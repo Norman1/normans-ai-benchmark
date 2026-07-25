@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Norman's AI Benchmark</title>
+    <!--
+      Bot code runs in Web Workers with network globals stripped, but a bot
+      could still `import()` a remote URL — that is script loading, not fetch.
+      This CSP is what actually closes it, and it costs nothing on GitHub Pages
+      where response headers are not configurable.
+    -->
+    <meta http-equiv="Content-Security-Policy"
+          content="default-src 'self'; script-src 'self' blob:; worker-src 'self' blob:; connect-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;">
+    <link rel="stylesheet" href="./src/ui/styles.css">
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <h1 class="brand">Norman&rsquo;s<br>AI Benchmark</h1>
+        <nav class="menu" id="menu"><!-- populated by the router --></nav>
+      </aside>
+
+      <main class="main" id="main"><!-- the active benchmark view --></main>
+    </div>
+
+    <script type="module" src="./src/ui/app.js"></script>
+  </body>
+</html>

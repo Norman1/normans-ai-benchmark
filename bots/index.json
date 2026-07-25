@@ -1,0 +1,19 @@
+{
+  "comment": "Bot manifest. A static site has no directory listing, so this file is how the page discovers bots. Add an entry when you add a bot. Reference bots are hand-written yardsticks, not submissions.",
+  "bots": [
+    {
+      "id": "starter-greedy",
+      "name": "Starter Greedy",
+      "url": "./bots/starter-greedy/bot.js",
+      "author": "human",
+      "reference": true
+    },
+    {
+      "id": "starter-turtle",
+      "name": "Starter Turtle",
+      "url": "./bots/starter-turtle/bot.js",
+      "author": "human",
+      "reference": true
+    }
+  ]
+}

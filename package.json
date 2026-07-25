@@ -1,0 +1,11 @@
+{
+  "name": "normans-ai-benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A private, deliberately unsaturatable AI benchmark. Static site, no backend.",
+  "scripts": {
+    "start": "node serve.mjs",
+    "test": "node --test test/"
+  }
+}

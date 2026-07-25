@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local scratch. Results that count are committed under data/ deliberately.
+scratch/
+data/local-*.json
