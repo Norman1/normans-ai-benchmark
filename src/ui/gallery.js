@@ -74,7 +74,7 @@ function openViewer(submission) {
     <iframe
       src="${escapeHtml(submission.entry)}"
       title="${escapeHtml(submission.title ?? submission.id)}"
-      sandbox="allow-scripts allow-pointer-lock"></iframe>
+      sandbox="allow-scripts allow-pointer-lock allow-downloads"></iframe>
   `;
 
   overlay.querySelector(".viewer-close").addEventListener("click", closeViewer);

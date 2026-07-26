@@ -21,9 +21,10 @@ export async function mount(root) {
   root.innerHTML = `
     <div class="view-head">
       <h2>Bac Maths (M2)</h2>
-      <p>Agents build a learning platform to take one student from wherever they
-         are to a good grade in Matematică M_tehnologic, Proba E.c). Romanian
-         exam, taught in English.</p>
+      <p>Agents build an adaptive mock-exam trainer for Matematică
+         M_tehnologic, Proba E.c). The student sits papers, the platform works
+         out what they are weak at and adjusts. Romanian exam, taught in
+         English.</p>
     </div>
 
     <div class="columns">
@@ -31,11 +32,11 @@ export async function mount(root) {
         <div class="panel">
           <h3>Rules</h3>
           <ul class="rules">
-            <li>English, for the Romanian M2 exam</li>
-            <li>Covers the whole syllabus, grades IX&ndash;XII</li>
-            <li>Every problem has a worked solution, and the maths is right</li>
-            <li>Timed mock papers, marked like the barem</li>
-            <li>Teaches, not just tests &mdash; and holds attention</li>
+            <li>Mock exams in the real format, timed</li>
+            <li>Difficulty adapts per topic, up and down</li>
+            <li>Every question links to a lesson on its topic</li>
+            <li>Save and load progress as a JSON file</li>
+            <li>English; whole syllabus, grades IX&ndash;XII</li>
           </ul>
         </div>
 
