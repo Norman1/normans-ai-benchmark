@@ -4,8 +4,8 @@ Build an **adaptive trainer** for **Matematică M_tehnologic, Proba E.c)** —
 the Romanian Bacalaureat maths paper.
 
 Two modes: learn a topic, or sit a full paper. The platform works out what the
-student is weak at and adjusts. **Taught in English**, keeping Romanian only for what they will meet
-on the day: `Subiectul I`, `barem`, `punctaj`.
+student is weak at and adjusts. **Taught in English**, keeping Romanian only
+for what they will meet on the day: `Subiectul I`, `barem`, `punctaj`.
 
 ## Who it is for
 
@@ -68,10 +68,12 @@ leaves marks on the table. Teach that, and mark that way.
    weak, you drop back.
 3. **The top level is above the exam.** Reach it and the Bac holds no surprises
    in that topic.
-4. **Every question links to a lesson on its topic** — not a solution to that
+4. **Many questions at every level**, built from real exam items rather than
+   invented.
+5. **Every question links to a lesson on its topic** — not a solution to that
    question.
-5. **Save and load progress as a JSON file.**
-6. **English**, whole syllabus, grades IX–XII, nothing outside it.
+6. **Save and load progress as a JSON file.**
+7. **English**, whole syllabus, grades IX–XII, nothing outside it.
 
 ## Two modes
 
@@ -132,11 +134,36 @@ Make the ladder visible. A student who can see they are level four in
 derivatives and level one in laws of composition knows exactly what tonight is
 for, and that display is doing more work than any streak counter would.
 
-The real engineering constraint is coverage: with a dozen topics and five
-levels you need questions in **every** (topic, level) cell, or the adaptation
-has nothing to reach for. Generating them from parameters rather than writing
-them out one by one is the usual way to make that tractable, and it hands you
-the answer for free.
+With a dozen topics and five levels there are sixty cells, and the adaptation
+is only as good as what it can reach for in each one. Which is the next
+section.
+
+## The question bank
+
+**Mine the corpus, do not invent.** Take the items the examiners actually set,
+keep the shape, and vary what can be varied. A real Subiectul I item asking for
+the probability that `n(n+1)` is a multiple of 10 for `n` in a given set is a
+*template*: the set changes, the divisor changes, the question stands.
+
+That gives you three things at once. The questions look like the exam because
+they came from it. The answer falls out of the generator, so it is right by
+construction rather than by proofreading. And you get volume, which is the
+actual requirement — **one question per level is a demo, not a trainer.**
+
+Enough that someone drilling a topic for an hour never meets the same numbers
+twice. Concretely, aim for a couple of dozen distinct variants per (topic,
+level) cell; generated properly that is a parameter range, not a couple of dozen
+hand-written questions.
+
+**The trap is plausibility.** Random parameters produce `√47.3` and `x = 8/17`,
+and a student can smell that instantly — real Bac answers are tidy, because the
+examiners choose the numbers so they come out tidy. Constrain your ranges so the
+answers land where the originals land: small integers, clean surds like `2√10`,
+fractions that reduce. Generate, check the answer is presentable, reject and
+redraw if it is not.
+
+Say in your `notes` roughly how many questions the bank holds and how they are
+produced.
 
 ## Topic lessons
 
@@ -206,7 +233,8 @@ A folder under `benchmarks/bac-math/submissions/<your-id>/` with an
 
 It must run; both modes must work; the paper format must match the real one;
 the levels must actually respond to how the student is doing and be calibrated
-against the corpus rather than invented; save and load must round-trip. Then
+against the corpus rather than invented; the bank must be deep enough that
+drilling does not go round in circles; save and load must round-trip. Then
 Norman uses it and decides whether a student would come back to it tomorrow.
 That last one is the real test.
 

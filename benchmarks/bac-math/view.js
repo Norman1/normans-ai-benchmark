@@ -35,6 +35,7 @@ export async function mount(root) {
             <li>Two modes: learn a topic, or sit a full paper</li>
             <li>Levels per topic, adapting up and down</li>
             <li>Top level sits above the hardest real exam question</li>
+            <li>Many variants per level, built from real exam items</li>
             <li>Every question links to a lesson on its topic</li>
             <li>Save and load progress as a JSON file</li>
             <li>English; whole syllabus, grades IX&ndash;XII</li>
