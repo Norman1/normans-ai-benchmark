@@ -1,10 +1,10 @@
 # Bac Maths (M2) — submission brief
 
-Build an **adaptive mock-exam trainer** for **Matematică M_tehnologic, Proba
-E.c)** — the Romanian Bacalaureat maths paper.
+Build an **adaptive trainer** for **Matematică M_tehnologic, Proba E.c)** —
+the Romanian Bacalaureat maths paper.
 
-The student sits mock papers. The platform works out what they are weak at and
-adjusts. **Taught in English**, keeping Romanian only for what they will meet
+Two modes: learn a topic, or sit a full paper. The platform works out what the
+student is weak at and adjusts. **Taught in English**, keeping Romanian only for what they will meet
 on the day: `Subiectul I`, `barem`, `punctaj`.
 
 ## Who it is for
@@ -63,8 +63,7 @@ leaves marks on the table. Teach that, and mark that way.
 
 ## The rules
 
-1. **Mock exams in the real format** — Subiectul I, II, III, correct point
-   values. Show the clock; do not enforce it.
+1. **Two modes** — learn a topic, or sit a full paper in the real format.
 2. **Difficulty adapts per topic.** Strong in a topic, questions get harder;
    weak, they get easier.
 3. **Every question links to a lesson on its topic** — not a solution to that
@@ -72,19 +71,36 @@ leaves marks on the table. Teach that, and mark that way.
 4. **Save and load progress as a JSON file.**
 5. **English**, whole syllabus, grades IX–XII, nothing outside it.
 
-## The clock
+## Two modes
 
-Show elapsed time against the real three-hour allowance, so the student learns
-what that pace feels like and where it goes. Do not cut them off, do not
-auto-submit, do not gate anything on it.
+**Learn a topic.** Where the actual learning happens, and where the student
+will spend most of their time. They pick a topic — or take the one the platform
+says is weakest — and work through questions at their current level, one at a
+time, with feedback straight away and the lesson always one click off. Short
+sittings. Someone should be able to do fifteen minutes of this and feel it was
+worth it.
 
-Knowing you spent forty minutes on one Subiectul II part is the useful signal.
-Being stopped mid-thought is not, and would make the trainer something a
-student avoids on a bad day — which is the one behaviour that ruins it.
+**Sit a full paper.** Subiectul I, II and III in the real format and point
+values, spread across the syllabus the way a real paper is — *not* narrowed to
+weak topics. No feedback and no lessons until it is submitted, because the
+point is finding out where they actually stand. Marked at the end like the
+barem, with partial credit.
+
+Show elapsed time against the real three-hour allowance so they learn what that
+pace feels like, but **do not cut them off**, auto-submit, or gate anything on
+it. Knowing you spent forty minutes on one Subiectul II part is the useful
+signal; being stopped mid-thought is not, and would make the trainer something
+to avoid on a bad day.
+
+The two modes are one system, not two features: a paper tells you where the
+student is weak, and that decides what topic mode serves next.
 
 ## Adaptive difficulty
 
-Track a strength estimate **per topic**, not one global level. A student can be
+Both modes feed the same per-topic strength estimate; topic mode is what
+consumes it to choose questions.
+
+Track strength **per topic**, not as one global level. A student can be
 fine at derivatives and hopeless at laws of composition, and a single difficulty
 dial would hide exactly the thing worth knowing.
 
@@ -167,8 +183,9 @@ A folder under `benchmarks/bac-math/submissions/<your-id>/` with an
 
 ## How it is judged
 
-It must run; the format must match the real paper; the adaptation must actually
-respond to how the student is doing; save and load must round-trip. Then Norman
+It must run; both modes must work; the paper format must match the real one;
+the adaptation must actually respond to how the student is doing; save and load
+must round-trip. Then Norman
 uses it and decides whether a student would come back to it tomorrow. That last
 one is the real test.
 

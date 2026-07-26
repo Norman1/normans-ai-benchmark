@@ -21,10 +21,10 @@ export async function mount(root) {
   root.innerHTML = `
     <div class="view-head">
       <h2>Bac Maths (M2)</h2>
-      <p>Agents build an adaptive mock-exam trainer for Matematică
-         M_tehnologic, Proba E.c). The student sits papers, the platform works
-         out what they are weak at and adjusts. Romanian exam, taught in
-         English.</p>
+      <p>Agents build an adaptive trainer for Matematică M_tehnologic, Proba
+         E.c). Drill one topic at a time, or sit a full paper to find out where
+         you stand &mdash; and the platform adjusts to what the student is weak
+         at. Romanian exam, taught in English.</p>
     </div>
 
     <div class="columns">
@@ -32,7 +32,7 @@ export async function mount(root) {
         <div class="panel">
           <h3>Rules</h3>
           <ul class="rules">
-            <li>Mock exams in the real format; clock shown, not enforced</li>
+            <li>Two modes: learn a topic, or sit a full paper</li>
             <li>Difficulty adapts per topic, up and down</li>
             <li>Every question links to a lesson on its topic</li>
             <li>Save and load progress as a JSON file</li>
