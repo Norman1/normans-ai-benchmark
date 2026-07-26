@@ -1,4 +1,13 @@
 {
   "comment": "Submission manifest. A static site has no directory listing, so this file is how the gallery finds entries. Add one object per submission; `entry` is the page the viewer loads. See SPEC.md for what a submission must contain.",
-  "submissions": []
+  "submissions": [
+    {
+      "id": "opus-5",
+      "title": "Calibrated against the papers",
+      "agent": "Opus 5 (high)",
+      "created": "2026-07-26",
+      "entry": "./benchmarks/bac-math/submissions/opus-5/index.html",
+      "notes": "Every question is generated from parameters, so the answer falls out of the generator rather than out of proofreading: 13 topics x 5 levels, 158 question shapes, 34,730 distinct prompts measured at 1000 seeds a cell, and no cell thinner than 40. Level 4 in each topic is the hardest item the examiners actually set in it, quoted paper by paper in CALIBRATION.md, which also spot-checks seventeen generated items against the official bareme; level 5 is a notch above, still inside the 2026 programa. Items are marked in two parts the way the bareme split them, so partial credit is real and the habit that earns it is the habit the trainer enforces. Maths is native MathML, and tools/verify.mjs re-derives every answer headlessly, checking derivatives against a central difference and integrals against Simpson's rule."
+    }
+  ]
 }
