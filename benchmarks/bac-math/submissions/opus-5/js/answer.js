@@ -89,10 +89,13 @@
       return value;
     }
 
+    // What may follow a value as an implicit multiplication: 2√10, 3π, 2(x+1).
+    // "|" is deliberately absent — it both opens and closes, so treating it as
+    // a fresh factor would read |−7| as |·(−7)·| and never find its closing bar.
     function startsPrimary() {
       const token = peek();
       if (!token) return false;
-      return token.type === "num" || token.type === "name" || token.type === "(" || token.type === "|";
+      return token.type === "num" || token.type === "name" || token.type === "(";
     }
 
     function term() {
@@ -173,8 +176,11 @@
     return parseExpression(tokenize(clean), vars);
   }
 
-  const near = (a, b) => Number.isFinite(a) && Number.isFinite(b)
-    && Math.abs(a - b) <= EPS * Math.max(1, Math.abs(a), Math.abs(b));
+  const near = (a, b) => {
+    if (a === b) return true;                    // covers ±∞ at an interval end
+    return Number.isFinite(a) && Number.isFinite(b)
+      && Math.abs(a - b) <= EPS * Math.max(1, Math.abs(a), Math.abs(b));
+  };
 
   /* --- Checkers per answer type ---------------------------------------- */
 

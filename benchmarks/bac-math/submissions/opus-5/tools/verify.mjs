@@ -134,6 +134,65 @@ function checkMarkup(where, label, html) {
   }
 }
 
+// The answer parser, against the forms a student will actually type.
+//
+// Marking a right answer wrong is the worst thing this trainer could do, so
+// every notation the paper or a Romanian keyboard might produce is pinned
+// here: the decimal comma, "sqrt" for √, a trailing "lei", an unsimplified
+// fraction, a union of intervals, an unordered pair of roots.
+const PARSER_CASES = [
+  ["12", { type: "number", value: 12 }, true],
+  ["−16", { type: "number", value: -16 }, true],
+  ["1/2", { type: "number", value: 0.5 }, true],
+  ["2/4", { type: "number", value: 0.5 }, true],
+  ["0,5", { type: "number", value: 0.5 }, true],
+  ["4,8", { type: "number", value: 4.8 }, true],
+  [".5", { type: "number", value: 0.5 }, true],
+  ["2√10", { type: "number", value: 2 * Math.sqrt(10) }, true],
+  ["2sqrt10", { type: "number", value: 2 * Math.sqrt(10) }, true],
+  ["2*sqrt(10)", { type: "number", value: 2 * Math.sqrt(10) }, true],
+  ["√40", { type: "number", value: 2 * Math.sqrt(10) }, true],
+  ["√3/2", { type: "number", value: Math.sqrt(3) / 2 }, true],
+  ["ln 3", { type: "number", value: Math.log(3) }, true],
+  ["3π", { type: "number", value: 3 * Math.PI }, true],
+  ["3pi", { type: "number", value: 3 * Math.PI }, true],
+  ["2e^3+1", { type: "number", value: 2 * Math.exp(3) + 1 }, true],
+  ["2+2(e-1)", { type: "number", value: 2 + 2 * (Math.E - 1) }, true],
+  ["600 de lei", { type: "number", value: 600 }, true],
+  ["|−7|", { type: "number", value: 7 }, true],
+  ["2^-1", { type: "number", value: 0.5 }, true],
+  ["7", { type: "number", value: 8 }, false],
+  ["banana", { type: "number", value: 8 }, false],
+  ["", { type: "number", value: 8 }, false],
+  ["60%", { type: "percent", value: 60 }, true],
+  ["60", { type: "percent", value: 60 }, true],
+  ["y=3x-2", { type: "expr", fn: (x) => 3 * x - 2 }, true],
+  ["-2+3x", { type: "expr", fn: (x) => 3 * x - 2 }, true],
+  ["3x+2", { type: "expr", fn: (x) => 3 * x - 2 }, false],
+  ["(x-1)e^x", { type: "expr", fn: (x) => (x - 1) * Math.exp(x), samples: [0.4, 1.2, 2.1] }, true],
+  ["x ln x - x", { type: "expr", fn: (x) => x * Math.log(x) - x, samples: [1.3, 2.2] }, true],
+  ["x∈[-3,1]", { type: "interval", parts: [{ lo: -3, hi: 1, openLo: false, openHi: false }] }, true],
+  ["[−3;1]", { type: "interval", parts: [{ lo: -3, hi: 1, openLo: false, openHi: false }] }, true],
+  ["(-3,1]", { type: "interval", parts: [{ lo: -3, hi: 1, openLo: false, openHi: false }] }, false],
+  ["(-∞,-3]∪[1,∞)", {
+    type: "interval",
+    parts: [{ lo: -Infinity, hi: -3, openLo: true, openHi: false }, { lo: 1, hi: Infinity, openLo: false, openHi: true }]
+  }, true],
+  ["1,-4", { type: "set", values: [-4, 1] }, true],
+  ["{-4, 1}", { type: "set", values: [-4, 1] }, true],
+  ["-4 and 1", { type: "set", values: [-4, 1] }, true],
+  ["-4", { type: "set", values: [-4, 1] }, false],
+  ["a=3, b=4", { type: "pair", values: [3, 4] }, true],
+  ["4,3", { type: "pair", values: [3, 4] }, false]
+];
+
+for (const [typed, spec, want] of PARSER_CASES) {
+  const got = BAC.answer.check(typed, spec).ok;
+  if (got !== want) {
+    fail("answer parser", `"${typed}" (${spec.type}) was ${got ? "accepted" : "rejected"}, expected the opposite`);
+  }
+}
+
 // Lessons are hand-written prose, so they get the same treatment once.
 for (const [topicId, lesson] of Object.entries(BAC.lessons)) {
   const strings = [lesson.onThePaper];

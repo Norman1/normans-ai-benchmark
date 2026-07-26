@@ -189,6 +189,15 @@
           levelPips(weakestEntry.level),
           el("span", { class: "muted" }, `${LEVEL_NAMES[weakestEntry.level]} · ${weakest.slot}`)))));
 
+    if (app.exam && !app.exam.result) {
+      wrap.append(el("section", { class: "panel strip in-progress" },
+        el("span", { class: "eyebrow" }, "Paper in progress"),
+        el("strong", { class: "grade" }, formatTime(Date.now() - app.exam.startedAt)),
+        el("span", { class: "muted" }, `elapsed · ${countAnswered()} of ${totalFields()} answers given`),
+        el("span", { class: "right" },
+          el("button", { class: "small primary", onclick: () => go("exam") }, "Back to the paper"))));
+    }
+
     if (BAC.progress.state.papers.length) {
       const last = BAC.progress.state.papers[BAC.progress.state.papers.length - 1];
       wrap.append(el("section", { class: "panel strip" },

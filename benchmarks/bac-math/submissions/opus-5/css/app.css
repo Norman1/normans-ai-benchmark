@@ -217,6 +217,7 @@ button.small { padding: 5px 11px; font-size: 13px; }
 .strip { display: flex; align-items: center; gap: 14px; padding: 12px 20px; }
 .strip .grade { font-size: 22px; color: var(--gold); }
 .strip .right { margin-left: auto; }
+.strip.in-progress { border-color: var(--gold-deep); background: var(--gold-soft); }
 
 .subject-head { color: var(--faint); text-transform: uppercase; font-size: 11px; letter-spacing: 0.1em; }
 
