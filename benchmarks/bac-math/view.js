@@ -32,7 +32,7 @@ export async function mount(root) {
         <div class="panel">
           <h3>Rules</h3>
           <ul class="rules">
-            <li>Mock exams in the real format, timed</li>
+            <li>Mock exams in the real format; clock shown, not enforced</li>
             <li>Difficulty adapts per topic, up and down</li>
             <li>Every question links to a lesson on its topic</li>
             <li>Save and load progress as a JSON file</li>
@@ -48,7 +48,7 @@ export async function mount(root) {
               <tr><td>Subiectul II</td><td class="num">2 &times; 3 &times; 5p</td></tr>
               <tr><td>Subiectul III</td><td class="num">2 &times; 3 &times; 5p</td></tr>
               <tr><td>Ex officio</td><td class="num">10p</td></tr>
-              <tr><td>Time</td><td class="num">3 hours</td></tr>
+              <tr><td>Real allowance</td><td class="num">3 hours</td></tr>
             </tbody>
           </table>
           <p class="card-notes">Total /100, divided by ten for the grade. Needs

@@ -64,13 +64,23 @@ leaves marks on the table. Teach that, and mark that way.
 ## The rules
 
 1. **Mock exams in the real format** — Subiectul I, II, III, correct point
-   values, timed.
+   values. Show the clock; do not enforce it.
 2. **Difficulty adapts per topic.** Strong in a topic, questions get harder;
    weak, they get easier.
 3. **Every question links to a lesson on its topic** — not a solution to that
    question.
 4. **Save and load progress as a JSON file.**
 5. **English**, whole syllabus, grades IX–XII, nothing outside it.
+
+## The clock
+
+Show elapsed time against the real three-hour allowance, so the student learns
+what that pace feels like and where it goes. Do not cut them off, do not
+auto-submit, do not gate anything on it.
+
+Knowing you spent forty minutes on one Subiectul II part is the useful signal.
+Being stopped mid-thought is not, and would make the trainer something a
+student avoids on a bad day — which is the one behaviour that ruins it.
 
 ## Adaptive difficulty
 
