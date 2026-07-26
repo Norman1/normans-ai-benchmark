@@ -417,6 +417,19 @@ input.answer:disabled { color: var(--muted); }
   border: 1px solid var(--line-strong);
   font-size: 14px;
 }
+.save-nudge {
+  margin-top: 14px;
+  padding: 10px 13px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  color: var(--muted);
+}
+
 .level-move.up { border-color: rgba(111, 191, 115, 0.4); background: var(--ok-soft); }
 .level-move.down { border-color: rgba(226, 92, 80, 0.35); background: var(--bad-soft); }
 

@@ -392,6 +392,14 @@
         el("span", { class: "muted hint" }, scored === drill.item.points
           ? "Clean. Two more like that and you climb."
           : "The barem for the parts you missed is above, and the full working is under “How it is done”.")));
+
+      // Nothing is stored anywhere, so a sitting that is never saved is a
+      // sitting that never happened. Say so once the work is worth keeping.
+      if (drill.done >= 5 && app.dirty) {
+        holder.append(el("div", { class: "save-nudge" },
+          el("span", {}, `${drill.done} questions in. Nothing is stored in this page — download your progress and load it back next time.`),
+          el("button", { class: "small primary", onclick: saveFile }, "Save now")));
+      }
     }
 
     wrap.append(holder);
