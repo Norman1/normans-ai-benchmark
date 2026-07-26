@@ -64,12 +64,14 @@ leaves marks on the table. Teach that, and mark that way.
 ## The rules
 
 1. **Two modes** — learn a topic, or sit a full paper in the real format.
-2. **Difficulty adapts per topic.** Strong in a topic, questions get harder;
-   weak, they get easier.
-3. **Every question links to a lesson on its topic** — not a solution to that
+2. **Levels per topic**, adapting automatically. Strong in a topic, you climb;
+   weak, you drop back.
+3. **The top level is above the exam.** Reach it and the Bac holds no surprises
+   in that topic.
+4. **Every question links to a lesson on its topic** — not a solution to that
    question.
-4. **Save and load progress as a JSON file.**
-5. **English**, whole syllabus, grades IX–XII, nothing outside it.
+5. **Save and load progress as a JSON file.**
+6. **English**, whole syllabus, grades IX–XII, nothing outside it.
 
 ## Two modes
 
@@ -95,27 +97,46 @@ to avoid on a bad day.
 The two modes are one system, not two features: a paper tells you where the
 student is weak, and that decides what topic mode serves next.
 
-## Adaptive difficulty
+## Levels
 
-Both modes feed the same per-topic strength estimate; topic mode is what
-consumes it to choose questions.
+Every topic has its own ladder, and the student climbs it. Say five levels —
+the count matters less than where the two ends sit.
 
-Track strength **per topic**, not as one global level. A student can be
-fine at derivatives and hopeless at laws of composition, and a single difficulty
-dial would hide exactly the thing worth knowing.
+**Calibrate against the corpus, not against a feeling.** You have several years
+of real papers in `exams/`. For each topic, find the hardest item the examiners
+have actually set. That is your **level four**. **Level five sits a notch
+above it** — so a student at the top of a topic is working past anything the
+Bac has ever asked, and the real thing feels easy. That is the whole point:
+max level should mean a straight A is not in doubt.
 
-- Give every question a topic and a difficulty band. Three or four bands is
-  plenty; more is false precision.
-- Move a topic up after consistent success, down after repeated failure. Move
-  down faster than up — an over-faced student stops, a bored one does not.
-- Serve a mix. A paper made only of a student's weakest topics is demoralising
-  and unlike the real exam, which always spreads across the syllabus.
+**Level one** is the easiest thing that still counts as the topic — for
+somebody starting from nothing, not a slightly gentler exam question.
 
-The real engineering constraint is coverage: with a dozen topics and four bands
-you need enough questions in **every** (topic, band) cell, or the adaptation has
-nothing to reach for. Generating questions from parameters rather than writing
-them out one by one is the usual way to make that tractable, and it also gives
-you the answer for free.
+This anchoring is what makes the gamification honest. "Level five in
+derivatives" is not a score you farmed; it is a claim about readiness that the
+exam will bear out. Points and badges that mean nothing would be worse than no
+gamification at all, because this student needs to be able to trust the number.
+
+## Adapting
+
+Levels move on their own — the student does not pick their difficulty, though
+letting them drop back and drill something easier on purpose is fine.
+
+- Climb after consistent success; drop back after repeated failure.
+- **Drop faster than you climb.** An over-faced student stops; a bored one
+  does not.
+- Both modes feed the same per-topic estimate. A paper is what tells you a
+  level was flattering.
+
+Make the ladder visible. A student who can see they are level four in
+derivatives and level one in laws of composition knows exactly what tonight is
+for, and that display is doing more work than any streak counter would.
+
+The real engineering constraint is coverage: with a dozen topics and five
+levels you need questions in **every** (topic, level) cell, or the adaptation
+has nothing to reach for. Generating them from parameters rather than writing
+them out one by one is the usual way to make that tractable, and it hands you
+the answer for free.
 
 ## Topic lessons
 
@@ -131,8 +152,8 @@ the answer to the item they are on.
 There is no login and no storage — see the constraints below. So the student
 saves by **downloading a JSON file** and restores by **uploading it**.
 
-Save **what they are good and bad at**, not exact session state. Per-topic
-strength and enough history to keep adapting. Not the current paper, not which
+Save **where they are on each ladder**, not exact session state. Per-topic
+level plus enough history to keep adapting. Not the current paper, not which
 question they are on. A save file should stay useful after you have added new
 questions.
 
@@ -141,13 +162,13 @@ questions.
   "version": 1,
   "updated": "2026-07-26",
   "topics": {
-    "derivatives":        { "strength": 0.72, "seen": 41, "correct": 30 },
-    "laws-of-composition":{ "strength": 0.18, "seen": 12, "correct": 3 }
+    "derivatives":         { "level": 4, "seen": 41, "correct": 30 },
+    "laws-of-composition": { "level": 1, "seen": 12, "correct": 3 }
   }
 }
 ```
 
-Use your own topic ids and your own strength scale — just version the file and
+Use your own topic ids and your own level scale — just version the file and
 fail gracefully on one you cannot read, rather than throwing away the student's
 progress.
 
@@ -184,10 +205,10 @@ A folder under `benchmarks/bac-math/submissions/<your-id>/` with an
 ## How it is judged
 
 It must run; both modes must work; the paper format must match the real one;
-the adaptation must actually respond to how the student is doing; save and load
-must round-trip. Then Norman
-uses it and decides whether a student would come back to it tomorrow. That last
-one is the real test.
+the levels must actually respond to how the student is doing and be calibrated
+against the corpus rather than invented; save and load must round-trip. Then
+Norman uses it and decides whether a student would come back to it tomorrow.
+That last one is the real test.
 
 One thing that would sink a submission: worked solutions that are wrong. It is
 a study tool for a real exam, so spot-checks against the bareme are part of
