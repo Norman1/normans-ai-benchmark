@@ -1,0 +1,176 @@
+           INSPECTORATUL ŞCOLAR JUDEŢEAN SIBIU                               MINISTERUL
+                                                                             EDUCAȚIEI ȘI
+                                                                             CERCETĂRII
+
+                           Examenul naţional de bacalaureat 2025
+                                             Proba E. c)
+
+                                   Matematică M_tehnologic
+
+                                                                             Model aprilie 2025
+
+                      BAREM DE EVALUARE ŞI DE NOTARE
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate
+
+calificările profesionale; profilul tehnic, toate calificările profesionale
+
+• Pentru orice soluţie corectă, chiar dacă este diferită de cea din barem, se acordă punctajul
+
+corespunzător.
+
+• Nu se acordă fracţiuni de punct, dar se pot acorda punctaje intermediare pentru rezolvări
+
+parţiale, în limitele punctajului indicat în barem.
+
+• Se acordă 10 puncte din oficiu. Nota finală se calculează prin împărţirea la 10 a punctajului
+
+total acordat pentru lucrare.
+
+79 SUBIECTUL I                                                    (30 puncte)
+
+      z +1 = 4                                                                 2p
+
+1.                5
+
+      z = 1  z + 3 = 4 și 5 z +1 = 4 , deci egalitate adevărată               3p
+
+2. f (0,3) = −0, 6 + 4 și f (−0,3) = 0, 6 + 4                                  2p
+
+      f (0,3) + f (−0,3) = 8 număr natural                                     3p
+
+3. lg x −1 = lg 35  x −1 = 35                                                 3p
+
+      x −1 = 35  x −34,36 care convin ( x  1)                            2p
+
+4. Cn2 = 45, n  N, n  2                                                      2p
+
+      n (n −1) = 90 cu soluția n = 10                                          3p
+
+5.    mAC  =−1    și  mBD  = 2  mAC  mBD  = −1    AC ⊥ BD                   2p
+               2
+
+      M (−1,3) este mijlocul lui AC și al lui BD                               3p
+
+       deci ABCD romb                                                                      2p
+        sin 50 sin130 = sin2 50                                                           3p
+6. 1− sin2 40 = cos2 40 = sin2 50 și concluzia                    (30 puncte)
+79 SUBIECTUL al II-lea
+
+      A0 (0, 2025), A1 (1, 2026)                                               2p
+
+1.a)            x y1
+
+      A0 A1 : 0 2025 1 = 0 , A0 A1 : x − y + 2025 = 0                          3p
+
+                1 2026 1
+
+b) A2 (2, 2027) verifică ecuația x − y + 2025 = 0                              3p
+
+      Deci A2  A0 A1 și punctele A0, A1, A2 sunt coliniare                    2p
+
+                                                                              Str. Lucian Blaga, nr. 26
+                                                                                           550169, Sibiu
+
+                                                                             Tel: +40 (0) 369 10 12 02
+                                                                             Fax: +40 (0) 269 21 08 17
+
+                                                                                            www.sbisj.ro
+             INSPECTORATUL ŞCOLAR JUDEŢEAN SIBIU                                                     MINISTERUL
+                                                                                                     EDUCAȚIEI ȘI
+                                                                                                     CERCETĂRII
+
+c)                                                     0            01
+
+    An+1 (n +1, n + 2026) și  = n n + 2025 1 = −2025                                                    3p
+
+                                                     n +1 n + 2026 1
+
+    AOAn An+1  =  2025         deci nu depinde de               n                                       2p
+                     2
+
+2.a) 6 8 = 62 + 82                                                                                      2p
+
+    6 8 = 10                                                                                            3p
+
+b) ( x +1)2 + (3x)2 = 3  ( x +1)2 + (3x)2 = 9                                                           2p
+
+    5x2   +  x  −  4  =     0    x      4  ,  −1  și  x = −1   nu convine, iar  x= 4   convine      3p
+                                          5                                            5
+                                        
+
+    ( x  y)  z = x2 + y2 + z2 x, y, z 0, )                                                         2p
+
+c)                                                                                                       3p
+
+     x ( y  z ) = x2 + y2 + z2 x, y, z 0, ) și legea este asociativă
+
+79 SUBIECTUL al III-lea                                                                     (30 puncte)
+
+     f ( x) = (ex ) − x −1 x  R
+                                                                                                              3p
+
+1.a) f ( x) = ex −1, x  R
+
+    f (0) = 0                                                                                           2p
+
+b)  lim   f ( x) − f (1)              f (1)  și    f ( x) = ex   f (1) = e                      3p
+
+                          =
+    x→1         x −1
+
+    lim ex − 2 = e  lim f ( x) − f (1) = lim ex − 2                                                   2p
+    x→ x +                      x→1            x −1            x→ x + 
+
+c) f ( x) = 0  ex −1 = 0  x = 0 soluție unică                                                         2p
+
+    Pentru x 0, )  f ( x)  0  funcția f este crescatoare pe 0, )
+
+    ( ) ( )  f 2024  f 2025  e 2024 − 2024  e 2025 − 2025 și concluzia                               3p
+
+   2.a)1              1  x2                1                                                          2p
+    0  f  ( x) dx  =     0  x2  +1 dx +       0   2x      dx  =
+                                +1               x2 +  1
+
+                1 x2 +1 
+       ( ) 1                      dx = 1+ ln 2 = ln (2e)                                                 3p
+    =  dx + 
+                      x2 +1
+       0        0
+
+( ) ( )   b)        1                       1
+    V Cg =  g 2 ( x)dx =  x2 + 2x +1 2 dx
+                                                                                                         2p
+
+                      0                       0
+
+      =  1 ( x +1)4 dx =  1 ( x +1)4 ( x +1) 'dt =  ( x +1)5 1 = 31  5        5                   3p
+
+          0                          0                                         0
+
+                                                                                             Str. Lucian Blaga, nr. 26
+                                                                                                          550169, Sibiu
+
+                                                                                            Tel: +40 (0) 369 10 12 02
+                                                                                            Fax: +40 (0) 269 21 08 17
+
+                                                                                                           www.sbisj.ro
+   INSPECTORATUL ŞCOLAR JUDEŢEAN SIBIU          MINISTERUL
+                                                EDUCAȚIEI ȘI
+ ( ) 1 f  x  a f (x)dx = = a f (x) 1 =       CERCETĂRII
+         ln a
+0                  0                                        2p
+
+c) = a2 − a de unde obținem ecuația a2 − a = 2              3p
+   ln a
+
+a = −1 nu convine, a = 2 convine
+
+                                                 Str. Lucian Blaga, nr. 26
+                                                              550169, Sibiu
+
+                                                Tel: +40 (0) 369 10 12 02
+                                                Fax: +40 (0) 269 21 08 17
+
+                                                               www.sbisj.ro
+

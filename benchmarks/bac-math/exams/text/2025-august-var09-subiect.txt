@@ -1,0 +1,108 @@
+                                                    Ministerul Educației și Cercetării
+                                            Centrul Național pentru Curriculum și Evaluare
+
+                                        Examenul național de bacalaureat 2025
+                                                          Proba E. c)
+
+                                                 Matematică M_tehnologic
+                                                                                                                      Varianta 9
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale;
+profilul tehnic, toate calificările profesionale
+• Toate subiectele sunt obligatorii. Se acordă zece puncte din oficiu.
+• Timpul de lucru efectiv este de trei ore.
+
+SUBIECTUL I                                                                                                                           (30 de puncte)
+
+5p 1. Arătați că 5⋅(0,7 − 0,2) + 0,5 = 3 .
+
+5p 2. Se consideră funcția f : ℝ → ℝ , f ( x) = 6x − 2 . Determinați numărul real m pentru care
+
+    f (m) =10 .
+
+5p 3. Rezolvați în mulțimea numerelor reale ecuația 16 − 3x = 1 .
+5p 4. După o scumpire cu 60% , un obiect costă 320 de lei. Determinați prețul obiectului înainte de
+
+      scumpire.
+
+5p 5. În reperul cartezian xOy se consideră punctele A(3,0) , B(3,2) și C (a,b) , unde a și b sunt
+
+      numere reale. Determinați numerele reale a și b , știind că punctul B este mijlocul segmentului AC .
+
+5p 6. Arătați că 5cos60° − sin 30° + 4(sin 60°)2 = 5 .
+
+SUBIECTUL al II-lea                                                                                                                   (30 de puncte)
+
+    1.  Se consideră matricele              I2    1    0    și  A(  x  )  =      2           x      ,  unde  x  este număr real.
+                                                =  0  1                       −x          −2  
+
+5p a) Arătați că det ( A(5)) = 21.
+
+5p b) Arătați că 2A(−1) + A(5) = 3A(1) .
+
+( ) 5p c) Determinați mulțimea numerelor reale x pentru care det A( x) ⋅ A(−x) − x2I2 ≥ 0 .
+
+    2. Se consideră polinomul f = X 3 + mX 2 − X − m , unde m este număr real.
+
+5p a) Arătați că f (1) = 0 , pentru orice număr real m .
+
+5p b) Pentru m = −3 , arătați că 3 este rădăcină a polinomului f .
+
+5p c) Determinați numărul real m pentru care ( x1x2 + x1x3 + x2x3 )2 + x1x2x3 ( x1 + x2 + x3 ) = 1 , unde x1,
+
+       x2 și x3 sunt rădăcinile polinomului f .
+
+SUBIECTUL al III-lea                                                                                                                  (30 de puncte)
+
+     1. Se consideră funcția f : (0,+∞) → ℝ , f ( x) = 2x2 −1+ 4 .
+
+                                                                             x
+
+                 ( ) 4 x3 −1
+
+5p a) Arătați că f '( x) = x2 , x ∈(0, +∞) .
+
+5p b) Determinați ecuația tangentei la graficul funcției f în punctul de abscisă x = 2 , situat pe graficul
+      funcției f .
+
+5p  c) Arătați  că  6 ≤ 2x2      +       4  ≤ 33 ,  pentru    orice  x  ∈      1   ,  4  .
+                                         x                                    4
+
+    2. Se consideră funcția f : (0,+∞) → ℝ , f ( x) = x −1+ 2ln x .
+
+                              3
+
+5p a) Arătați că  ( f ( x) − 2ln x) dx = 2 .
+
+                              1
+
+5p  b) Arătați  că  e  f         ( x) −  x  +1     =1.
+                                               dx
+                                x
+
+                    1
+
+Probă scrisă la matematică M_tehnologic                                                                                               Varianta 9
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic,
+
+toate calificările profesionale
+
+                                                                  Pagina 1 din 2
+                                                          Ministerul Educației și Cercetării
+                                                 Centrul Național pentru Curriculum și Evaluare
+
+5p c) Determinați numărul real a , știind că aria suprafeței plane delimitate de graficul funcției
+
+     g : (0, +∞) → ℝ , g ( x) = 3x( f ( x) +1) , axa Ox și dreptele de ecuații x = 1 și x = 3 este egală cu
+
+       a + 27 ln 3 .
+
+Probă scrisă la matematică M_tehnologic                  Varianta 9
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic,
+
+toate calificările profesionale
+
+                                         Pagina 2 din 2
+

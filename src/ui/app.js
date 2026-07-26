@@ -5,8 +5,9 @@
 
 import * as warapp from "../../benchmarks/warapp/view.js";
 import * as tabernacle from "../../benchmarks/tabernacle/view.js";
+import * as bacMath from "../../benchmarks/bac-math/view.js";
 
-const BENCHMARKS = [warapp, tabernacle];
+const BENCHMARKS = [warapp, tabernacle, bacMath];
 
 const menuEl = document.getElementById("menu");
 const mainEl = document.getElementById("main");

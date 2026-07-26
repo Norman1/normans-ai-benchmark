@@ -1,0 +1,95 @@
+                                                              Ministerul Educaţiei
+                                            Centrul Naţional de Politici și Evaluare în Educație
+
+                                            Examenul național de bacalaureat 2025
+                                                              Proba E. c)
+
+                                                    Matematică M_tehnologic
+
+                                                                                                                          Model
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale;
+
+profilul tehnic, toate calificările profesionale
+ Toate subiectele sunt obligatorii. Se acordă zece puncte din oficiu.
+ Timpul de lucru efectiv este de trei ore.
+
+SUBIECTUL I                                                                                                               (30 de puncte)
+
+   5p 1. Arătați că 3  3 2  2  3 2  4  10 .
+
+5p 2. Se consideră funcția f : ℝ  ℝ , f  x  3x  6 . Arătați că f 0  f 2  f 4 .
+
+5p 3. Rezolvați în mulțimea numerelor reale ecuația 2x 1  3  0 .
+
+5p 4. Prețul unui obiect este de 400 de lei. Determinați prețul obiectului după o ieftinire cu 25% .
+
+5p 5. În reperul cartezian xOy se consideră punctele A2,3 , B 5,6 și C 6, 2 . Arătați că triunghiul
+
+      ABC este isoscel.
+5p 6. Se consideră triunghiul ABC , dreptunghic în A , cu AC  4 și măsura unghiului C egală cu 60 .
+
+      Arătați că BC  8 .
+
+SUBIECTUL al II-lea                                                                                                       (30 de puncte)
+
+    1. Se consideră           matricele  I2            1  0    și  A    x       1  1
+                                                       0  1                      2  x  , unde x este număr real.
+
+5p a) Arătați că det  A3  1.
+
+5p b) Arătați că A2  A6  2A4 .
+
+5p c) Determinați numărul real x pentru care A x  A x  3I2 .
+
+      2. Pe mulțimea numerelor reale se definește legea de compoziție x y  x  y  6 .
+
+5p a) Arătați că 1 3  4 .
+
+5p b) Determinați numărul real x pentru care x 2  3x .
+
+  5p c) Arătați că x2  2 1 6x  0 , pentru orice număr real x .
+
+SUBIECTUL al III-lea                                                                                                      (30 de puncte)
+
+    1. Se consideră funcția            f : 1,   ℝ ,              f    x    5x  2    .
+                                                                                    x 1
+
+5p  a) Arătați că          f  'x        3            ,  x 1,  .
+
+                                        x   12
+
+5p b) Determinați ecuația tangentei la graficul funcției f în punctul de abscisă x  2 , situat pe graficul
+
+    funcției f .
+
+5p c) Demonstrați că funcția f este convexă.
+
+    2. Se consideră funcția f : ℝ  ℝ , f  x  2x  3 .
+
+5p  a)  Arătați  că        1    f   x  3 dx   1.
+
+                           
+
+                           0
+
+                              1
+
+5p b) Arătați că  ex f  x dx  3e 1 .
+
+                           0
+
+5p  c)  Determinați           a  0,    pentru          care  2   x  f x     dx       ln  a  .
+                                                                         x  3                 2
+                                                                  
+
+                                                                  1
+
+Probă scrisă la matematică M_tehnologic                                                                                   Model
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic, toate
+
+calificările profesionale
+
+                                                                      Pagina 1 din 1
+

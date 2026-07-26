@@ -1,0 +1,89 @@
+                                                         Ministerul Educației și Cercetării
+                                                 Centrul Național pentru Curriculum și Evaluare
+
+                                                 Examenul național de bacalaureat 2025
+                                                                   Proba E. c)
+
+                                                 Matematică M_tehnologic
+                                                                                                                      Varianta 3
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale;
+profilul tehnic, toate calificările profesionale
+• Toate subiectele sunt obligatorii. Se acordă zece puncte din oficiu.
+• Timpul de lucru efectiv este de trei ore.
+
+SUBIECTUL I                                                                                                                             (30 de puncte)
+
+5p 1. Determinați termenul a3 al progresiei aritmetice (an )n≥1, în care a1 = 3 și a2 = 9 .
+5p 2. Se consideră funcția f : ℝ → ℝ , f ( x) = 3x − 5 . Arătați că f (3) + f (2) + f (0) = 0 .
+
+5p 3. Rezolvați în mulțimea numerelor reale ecuația 9x − 5 = 2 .
+5p 4. După o ieftinire cu 30% , un obiect costă 56 de lei. Determinați prețul obiectului înainte de
+
+      ieftinire.
+
+5p 5. În reperul cartezian xOy se consideră punctele A(0,1) , B (5,6) și C (7, 2) . Arătați că AB = AC .
+
+5p 6. Arătați că (sin 30° + 3cos 60°) ⋅ (sin 45°)2 = 1.
+
+SUBIECTUL al II-lea                                                                                                                     (30 de puncte)
+
+    1. Se  consideră matricele                       =  1    0     ,     =  1          2    și  B(x)   =  2     x     ,  unde     este număr real.
+                                                 I2          1        A                                         2x             x
+                                                          0                   −2       1                    −1      
+
+5p a) Arătați că det A = 5 .
+
+5p b) Arătați că A + 3I2 = 2B (1) .
+
+5p c) Determinați numerele reale x pentru care det ( B (2x) − B ( x) ⋅ A) = x2 .
+
+    2. Pe mulțimea numerelor reale se definește legea de compoziție x ∗ y = xy − 8x − 8y + 8 .
+
+5p a) Arătați că 0 ∗1 = 0 .
+5p b) Determinați numărul real x pentru care x ∗ 2 = 2x .
+
+5p c) Determinați perechile (m, n) de numere naturale, cu m < n , pentru care (8 + m) ∗ (8 + n) = 2 .
+
+SUBIECTUL al III-lea                                                                                                                    (30 de puncte)
+
+    1. Se consideră funcția                   f : (− 4,+∞) → ℝ ,           f  (  x  )  =  4x + 7        .
+                                                                                          x+4
+
+5p  a) Arătați că   f  '( x)           =  (x  9         ,  x ∈(− 4,+∞) .
+
+                                              + 4)2
+
+5p b) Determinați ecuația asimptotei orizontale spre +∞ la graficul funcției f .
+
+5p c) Determinați a ∈(− 4, +∞) , știind că panta tangentei la graficul funcției f în punctul A(a, f (a))
+
+    este egală cu 1.
+
+    2. Se consideră funcția f : (−3, +∞) → ℝ , f ( x) = 2x + x + 3 .
+
+                               2
+
+( ) 5p a) Arătați că  f ( x) − x + 3 dx = 3 .
+                    1
+
+5p  b) Arătați  că  6  f         (  x  1   2  x  dx  =  2  .
+
+                                      )−
+
+                    1
+
+5p c) Arătați că volumul corpului obținut prin rotația graficului funcției g :[0,6] → ℝ ,
+
+    g(x) =  f      x                , în jurul axei           Ox  este egal cu         9π       ln 3 .
+
+                (x) − 2x
+
+Probă scrisă la matematică M_tehnologic                                                                                                 Varianta 3
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic,
+
+toate calificările profesionale
+
+                                                                        Pagina 1 din 1
+

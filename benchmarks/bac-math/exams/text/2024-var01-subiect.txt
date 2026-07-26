@@ -1,0 +1,95 @@
+                                                                           Ministerul Educaţiei
+                                                         Centrul Naţional de Politici și Evaluare în Educație
+
+                                                         Examenul național de bacalaureat 2024
+                                                                           Proba E. c)
+
+                                                                 Matematică M_tehnologic
+
+                                                                                                                                                                  Varianta 1
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale;
+profilul tehnic, toate calificările profesionale
+• Toate subiectele sunt obligatorii. Se acordă zece puncte din oficiu.
+• Timpul de lucru efectiv este de trei ore.
+
+SUBIECTUL I                                                                                                                                                (30 de puncte)
+
+5p  1.  Arătați  că           1  +  1     ⋅  4  =   1   .
+                             2     4       3
+
+5p 2. Se consideră funcția f : ℝ → ℝ , f ( x) = 2x − 8 . Determinați numărul real a pentru care f (a) = 0 .
+
+5p 3. Rezolvați în mulțimea numerelor reale ecuația 3x − 2 = 1 .
+
+5p 4. Calculați probabilitatea ca, alegând un număr n din mulțimea A = {11,12,13,14,15,16,17,18,19,20} ,
+
+      acesta să aibă suma cifrelor egală cu 2 .
+
+5p 5. În reperul cartezian xOy se consideră punctele A(3,4) și B(6,8) . Arătați că OA = AB .
+
+5p 6. Se consideră triunghiul ABC , dreptunghic în A , cu AB =12 , AC = 8 și punctul M mijlocul laturii
+      AB . Arătați că CM =10 .
+
+SUBIECTUL al II-lea                                                                                                                                        (30 de puncte)
+
+    1. Se  consideră           matricele                     =  1       0    și        (     )  =     x  −  1     2    ,  unde            este  număr  real.
+                                                      I2                            A     x              1                         x
+                                                                  0     1                                         x
+
+5p a) Arătați că det ( A(2)) = 0 .
+
+5p b) Arătați că A(3) + 2I2 = A(5) .
+
+5p c) Determinați numerele reale x pentru care det ( A( x) + xI2 ) = 0 .
+
+      2. Pe mulțimea numerelor reale se definește legea de compoziție x y = 2x + 2 y −1 .
+5p a) Arătați că 2 1 = 5 .
+
+5p b) Determinați numărul real x pentru care x ( x +1) = 5 .
+
+5p c) Arătați că x x ≤ 4x2 , pentru orice număr real x .
+
+SUBIECTUL al III-lea                                                                                                                                       (30 de puncte)
+
+    1. Se consideră funcția f : (0,+∞) → ℝ , f ( x) = x − 2ln x .
+
+5p a) Arătați că f '( x) = x − 2 , x ∈(0,+∞) .
+
+                                  x
+5p b) Determinați ecuația tangentei la graficul funcției f în punctul de abscisă x =1 situat pe graficul
+
+      funcției f .
+
+5p  c)  Demonstrați            că    ln       x     ≤   x−2         ,  pentru       orice       x∈(0,+∞) .
+                                             2          2
+
+    2. Se consideră funcția                       f :ℝ→ℝ,                   f  (  x)  =       1      1  .
+                                                                                            x2 +
+
+5p  a)  Arătați  că        3   f  1            = 12 .
+
+                                 ( x) dx
+
+                           0
+
+                              3
+
+5p b) Arătați că  2x f ( x)dx = ln 2 .
+
+                           2
+
+5p  c)  Determinați            numărul            real       a  pentru care              2     f  ex  )  dx    =  e  (  ae    −  a  +  1)  .
+
+                                                                                                 (x
+
+                                                                                         1
+
+Probă scrisă la matematică M_tehnologic                                                                                                                           Varianta 1
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic, toate
+
+calificările profesionale
+
+                                                                                      Pagina 1 din 1
+

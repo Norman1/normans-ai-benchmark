@@ -1,0 +1,108 @@
+                                                               Ministerul Educației și Cercetării
+                                                       Centrul Național pentru Curriculum și Evaluare
+
+                                        Examenul național de bacalaureat 2025
+                                                          Proba E. c)
+
+                                                 Matematică M_tehnologic
+                                                                                                                      Varianta 1
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale;
+profilul tehnic, toate calificările profesionale
+• Toate subiectele sunt obligatorii. Se acordă zece puncte din oficiu.
+• Timpul de lucru efectiv este de trei ore.
+
+SUBIECTUL I                                                                                                              (30 de puncte)
+
+5p  1.  Arătați  că  1   +          3  ⋅     1  −  1     =1.
+                     10                     2     5  
+
+5p 2. Se consideră funcția f : ℝ → ℝ , f ( x) = 6x − 3 . Determinați numărul real a pentru care
+
+    f (2) = a + f (0) .
+
+5p 3. Rezolvați în mulțimea numerelor reale ecuația 52x = 53−x .
+
+5p 4. Determinați probabilitatea ca, alegând un număr n din mulțimea A = {0,1, 2,3, 4,5,6,7,8,9} , acesta
+
+      să verifice inegalitatea 6n > 25 .
+
+5p 5. În reperul cartezian xOy se consideră punctele A(2,0) , B(2,1) și C (6,4) . Determinați numărul
+
+      real a pentru care BC = a ⋅ AB .
+5p 6. Se consideră triunghiul MNP , dreptunghic în M , cu MN = 4 ⋅ MP și MN = 8 . Arătați că aria
+
+      triunghiului MNP este egală cu 8 .
+
+SUBIECTUL al II-lea                                                                                                      (30 de puncte)
+
+    1. Se consideră matricele                           5           2     ,      5    3    și  I2    1    0     .
+                                                    A =  2         1       B =  3  −1          =  0  1  
+
+5p a) Arătați că det A =1.
+5p b) Determinați numărul real x pentru care 3A − 5I2 = xB .
+
+5p c) Determinați mulțimea numerelor reale x pentru care det ( A⋅ ( B − A) + xI2 ) ≤ 2 .
+
+    2. Se consideră polinomul f = X 3 − 3X 2 + X + m , unde m este număr real.
+
+5p a) Pentru m = 1, arătați că f (1) = 0 .
+
+5p b) Determinați numărul real m pentru care 2x1 + 2x2 + 2x3 = 1 + x1x2x3 , unde x1 , x2 și x3 sunt
+      rădăcinile polinomului f .
+
+5p c) Știind că restul împărțirii polinomului f la polinomul X − 2 este −5 , arătați că f este divizibil
+
+      cu polinomul X 2 +1 .
+
+SUBIECTUL al III-lea                                                                                                     (30 de puncte)
+
+    1. Se consideră funcția                      f :ℝ→ℝ,                f   (  x)  =  x−2  .
+                                                                                       ex
+
+5p  a) Arătați că    f  '( x)          =      3−    x  ,   x∈ℝ .
+                                               ex
+
+5p b) Determinați ecuația tangentei la graficul funcției f în punctul de abscisă x = 0 , situat pe graficul
+
+    funcției f .
+
+5p c) Demonstrați că −ex−1 ≤ x − 2 ≤ ex−3 , pentru orice x ∈[1, 4].
+
+    2. Se consideră funcția f : ℝ → ℝ , f ( x) = x2 + 4x + 8 .
+
+                              1
+
+( ) 5p a) Arătați că  f ( x) − x2 − 8 dx = 2 .
+                     0
+
+5p  b) Arătați   că  8  f        (   x        4x    dx     = ln 3 .
+
+                                   x) −
+
+                     0
+
+Probă scrisă la matematică M_tehnologic                                                                                  Varianta 1
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic,
+
+toate calificările profesionale
+
+                                                                                   Pagina 1 din 2
+                                                 Ministerul Educației și Cercetării
+                                         Centrul Național pentru Curriculum și Evaluare
+
+5p  c) Determinați  a ∈(0,+∞)            pentru care  a  f  (  1   −  4  dx  =  1  .
+                                                                                4
+                                                              x)
+
+                                                      0
+
+Probă scrisă la matematică M_tehnologic                                                  Varianta 1
+
+Filiera tehnologică: profilul servicii, toate calificările profesionale; profilul resurse, toate calificările profesionale; profilul tehnic,
+
+toate calificările profesionale
+
+                                                         Pagina 2 din 2
+

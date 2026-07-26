@@ -1,0 +1,2341 @@
+                         PROGRAMA
+       pentru simularea examenului național de
+
+                      bacalaureat 2026
+              DISCIPLINA MATEMATICĂ
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică
+                                   PROGRAMA M_mate-info
+
+Filiera teoretică, profilul real, specializarea matematică-informatică
+Filiera vocaţională, profilul militar, specializarea matematică-informatică
+
+                         COMPETENŢE DE EVALUAT ŞI CONŢINUTURI
+
+                                   CLASA a IX-a - 4 ore/săpt. (TC+CD)
+
+    Competenţe specifice                                      Conţinuturi
+
+1.  Identificarea, în limbaj cotidian sau în           Mulţimi şi elemente de logică matematică
+2.  probleme de matematică, a unor noţiuni              Mulţimea numerelor reale: operaţii algebrice cu
+3.  specifice logicii matematice şi teoriei
+    mulţimilor                                             numere reale, ordonarea numerelor reale, modulul
+    Utilizarea proprietăţilor operaţiilor algebrice        unui număr real, aproximări prin lipsă sau prin
+    ale numerelor, a estimărilor şi aproximărilor în       adaos, partea întreagă, partea fracţionară a unui
+    contexte variate                                       număr real; operaţii cu intervale de numere reale
+    Alegerea formei de reprezentare a unui număr        Propoziţie, predicat, cuantificatori
+
+    real şi utilizarea unor algoritmi pentru  Operaţii logice elementare (negaţie, conjuncţie,
+                                                       disjuncţie, implicaţie, echivalenţă), corelate cu
+    optimizarea calculelor cu numere reale
+                                                       operaţiile şi cu relaţiile dintre mulţimi
+4. Deducerea unor rezultate şi verificarea
+                                                       (complementară, intersecţie, reuniune, incluziune,
+    acestora utilizând inducţia matematică sau alte
+                                                       egalitate); raţionament prin reducere la absurd
+    raţionamente logice
+5. Redactarea rezolvării unei probleme, corelând  Inducţia matematică
+
+    limbajul uzual cu cel al logicii matematice şi al
+
+    teoriei mulţimilor
+
+6. Transpunerea unei situaţii-problemă în limbaj
+
+    matematic, rezolvarea problemei obţinute şi
+
+    interpretarea rezultatului
+
+1. Recunoaşterea unor corespondenţe care sunt          Şiruri
+    funcţii, şiruri, progresii                          Modalităţi de a defini un şir, șiruri mărginite, șiruri
+
+2. Utilizarea unor modalităţi variate de descriere        monotone
+    a funcţiilor în scopul caracterizării acestora      Şiruri particulare: progresii aritmetice, progresii
+
+3. Descrierea unor şiruri/funcţii utilizând               geometrice, formula termenului general în funcţie
+    reprezentarea geometrică a unor cazuri                de un termen dat şi raţie, suma primilor n termeni
+    particulare şi raţionamentul inductiv                 ai unei progresii
+                                                        Condiţia ca n numere să fie în progresie aritmetică
+4. Caracterizarea unor şiruri folosind diverse            sau geometrică, pentru n  3
+    reprezentări (formule, grafice) sau proprietăţi
+    algebrice ale acestora
+
+5. Analizarea unor valori particulare în vederea
+
+    determinării formei analitice a unei funcţii
+
+    definite pe prin raţionament de tip inductiv
+
+6. Transpunerea unor situaţii-problemă în limbaj
+
+    matematic utilizând funcţii definite pe
+
+1.  Identificarea valorilor unei funcţii folosind      Funcţii; lecturi grafice
+2.  reprezentarea grafică a acesteia                    Reper cartezian, produs cartezian; reprezentarea
+    Caracterizarea egalităţii a două funcţii prin
+3.  utilizarea unor modalităţi variate de descriere a      prin puncte a unui produs cartezian de mulţimi
+    funcţiilor                                             numerice; condiţii algebrice pentru puncte aflate în
+    Operarea cu funcţii reprezentate în diferite           cadrane; drepte în plan de forma x  m sau y  m ,
+
+    moduri şi caracterizarea calitativă a acestor      cu m
+
+    reprezentări                                        Funcţia: definiţie, exemple, exemple de
+
+4. Caracterizarea unor proprietăţi ale funcţiilor      corespondenţe care nu sunt funcţii, modalităţi de a
+
+    numerice prin utilizarea graficelor acestora şi a  descrie o funcţie, lecturi grafice. Egalitatea a două
+
+    ecuaţiilor asociate                                funcţii, imaginea unei mulţimi printr-o funcţie,
+
+5. Deducerea unor proprietăţi ale funcţiilor           graficul unei funcţii, restricţii ale unei funcţii
+
+    numerice prin lectură grafică                       Funcţii numerice F   f : D  , D   ;
+
+6. Analizarea unor situaţii practice şi descrierea     reprezentarea geometrică a graficului: intersecţia
+    lor cu ajutorul funcţiilor
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                               1
+                                                            cu axele de coordonate, rezolvări grafice ale unor
+
+                                                            ecuaţii         şi             inecuaţii                 de  forma
+
+                                                            f  x  g  x, , , ,  ; proprietăţi ale
+
+                                                            funcţiilor numerice introduse prin lectură grafică:
+
+                                                            mărginire, monotonie; alte proprietăţi:
+
+                                                            paritate/imparitate, simetria graficului faţă de
+
+                                                            drepte de forma x  m , m , periodicitate
+
+                                                          Compunerea funcţiilor; exemple pe funcţii
+
+                                                            numerice
+
+1.  Recunoaşterea funcţiei de gradul I descrisă în       Funcţia de gradul I                                              funcţiei
+2.  moduri diferite                                       Definiţie; reprezentarea grafică a                            a,b ,
+    Utilizarea unor metode algebrice şi grafice
+    pentru rezolvarea ecuaţiilor, inecuaţiilor şi            f :  , f  x  ax  b , unde
+
+    sistemelor                                              intersecţia graficului cu axele de coordonate,
+
+3. Descrierea unor proprietăţi desprinse din                ecuaţia f  x  0
+
+    reprezentarea grafică a funcţiei de gradul I sau       Interpretarea grafică a proprietăţilor algebrice ale
+    din rezolvarea ecuaţiilor, inecuaţiilor şi              funcţiei: monotonia şi semnul funcţiei; studiul
+
+    sistemelor de ecuații                                   monotoniei prin semnul diferenţei f  x1  f  x2 
+
+4. Exprimarea legăturii între funcţia de gradul I           (sau prin studierea semnului raportului
+
+    şi reprezentarea ei geometrică
+
+5. Interpretarea graficului funcţiei de gradul I            f   x1  f  x2   ,   x1, x2      , x1  x2 )
+    utilizând proprietăţile algebrice ale funcţiei
+                                                                 x1  x2
+6. Modelarea unor situaţii concrete prin utilizarea
+    ecuaţiilor şi/sau a inecuaţiilor, rezolvarea           Inecuaţii de forma ax  b 0 (,,) studiate pe
+    problemei obţinute şi interpretarea rezultatului
+                                                               sau pe intervale de numere reale
+
+                                                          Poziţia relativă a două drepte, sisteme de ecuaţii de
+
+                                                            tipul   ax    by      c  ,  a,b,c,m,n, p          numere  reale
+                                                                   mx    ny      p
+
+                                                          Sisteme de inecuaţii de gradul I
+
+1. Diferenţierea, prin exemple, a variaţiei liniare      Funcţia de gradul al II-lea
+    de cea pătratică                                      Reprezentarea grafică a funcţiei f :  ,
+
+2. Completarea unor tabele de valori pentru                 f  x  ax2  bx  c , cu a,b,c  și a  0
+    trasarea graficului funcţiei de gradul al II-lea
+                                                            intersecţia graficului cu axele de coordonate,
+3. Aplicarea unor algoritmi pentru trasarea
+    graficului funcţiei de gradul al II-lea (prin           ecuaţia f  x  0 , simetria faţă de drepte de forma
+    puncte semnificative)
+                                                              x  m , cu m
+4. Exprimarea proprietăţilor unei funcţii prin            Relaţiile lui Viète, rezolvarea sistemelor de forma
+    condiţii algebrice sau geometrice
+                                                            x    ys   ,  cu   s,  p
+5. Utilizarea relaţiilor lui Viète pentru                         p
+    caracterizarea soluţiilor ecuaţiei de gradul al II-       xy
+    lea şi pentru rezolvarea unor sisteme de ecuaţii
+                                                         Interpretarea geometrică a proprietăţilor algebrice
+6. Utilizarea funcţiilor în rezolvarea unor probleme
+    şi în modelarea unor procese                         ale funcţiei de gradul al II-lea
+
+1. Recunoaşterea corespondenţei dintre seturi de          Monotonie; studiul monotoniei prin semnul
+    date şi reprezentări grafice
+                                                            diferenţei f  x1  f  x2  sau prin rata creşterii
+2. Determinarea unor funcţii care verifică
+    anumite condiţii precizate                              /descreşterii:       f   x1    f  x2    ,  x1,  x2     , x1  x2 ,
+                                                                                           
+3. Utilizarea unor algoritmi pentru rezolvarea                                        x1      x2
+    ecuaţiilor, inecuaţiilor şi a sistemelor de ecuaţii
+    şi pentru reprezentarea grafică a soluţiilor            punct de extrem, vârful parabolei
+    acestora
+                                                          Poziţionarea parabolei faţă de axa Ox , semnul
+4. Exprimarea prin reprezentări grafice a unor
+    condiţii algebrice; exprimarea prin condiţii            funcţiei, inecuaţii de forma ax2  bx  c  0
+    algebrice a unor reprezentări grafice
+                                                            (,,) , a,b,c  , a  0 , studiate pe sau pe
+5. Utilizarea unor metode algebrice sau grafice
+    pentru determinarea sau aproximarea soluţiilor          intervale de numere reale, interpretare geometrică:
+    ecuaţiei asociate funcţiei de gradul al II-lea
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+
+                                                         2
+6. Interpretarea informaţiilor conţinute în imagini ale unor intervale (proiecţiile unor porţiuni
+
+    reprezentări grafice prin utilizarea de estimări, de parabolă pe axa Oy )
+
+    aproximări şi strategii de optimizare              Poziţia relativă a unei drepte faţă de o parabolă:
+
+                                                         rezolvarea      sistemelor  de    forma           mx     n y     y  ,
+                                                                                                          ax2   bx  c 
+
+                                                         a, b, c, m, n 
+
+1.  Identificarea unor elemente de geometrie          Vectori în plan
+2.  vectorială în diferite contexte                    Segment orientat, vectori, vectori coliniari
+    Transpunerea unor operaţii cu vectori în
+                                                       Operaţii cu vectori: adunarea (regula triunghiului,
+    contexte geometrice date
+                                                         regula paralelogramului), proprietăţi ale operaţiei
+3. Utilizarea operaţiilor cu vectori pentru a
+                                                         de adunare; înmulţirea cu un scalar, proprietăţi ale
+    descrie o problemă practică
+                                                         înmulţirii cu un scalar; condiţia de coliniaritate,
+4. Utilizarea limbajului calculului vectorial
+                                                         descompunerea după doi vectori necoliniari
+    pentru a descrie configuraţii geometrice
+
+5. Identificarea condiţiilor necesare pentru ca o
+    configuraţie geometrică să verifice cerinţe date
+
+6. Aplicarea calculului vectorial în rezolvarea
+
+    unor probleme de fizică
+
+1.  Descrierea sintetică sau vectorială a             Coliniaritate, concurenţă, paralelism                           -     calcul
+2.  proprietăţilor unor configuraţii geometrice în    vectorial în geometria plană
+    plan                                               Vectorul de poziţie a unui punct
+    Caracterizarea sintetică sau/şi vectorială a
+                                                       Vectorul de poziţie a punctului care împarte un
+    unei configuraţii geometrice date
+                                                         segment într-un raport dat, teorema lui Thales
+3. Alegerea metodei adecvate de rezolvare a
+                                                         (condiţii de paralelism)
+    problemelor de coliniaritate, concurenţă sau
+                                                       Vectorul de poziţie a centrului de greutate al unui
+    paralelism
+                                                         triunghi (concurenţa medianelor unui triunghi)
+4. Trecerea de la caracterizarea sintetică la cea
+    vectorială (şi invers) într-o configuraţie  Teorema lui Menelau, teorema lui Ceva
+
+    geometrică dată
+
+5. Interpretarea coliniarităţii, concurenţei sau
+    paralelismului în relaţie cu proprietăţile
+
+    sintetice sau vectoriale ale unor configuraţii
+
+    geometrice
+6. Analizarea comparativă a rezolvărilor
+
+    vectorială şi sintetică ale aceleiaşi probleme
+
+1. Identificarea legăturilor între coordonate Elemente de trigonometrie
+
+    unghiulare, coordonate metrice şi coordonate  Cercul trigonometric, definirea funcţiilor
+
+    carteziene pe cercul trigonometric                   trigonometrice: sin :0,2  1,1 ,
+
+2. Calcularea unor măsuri de unghiuri şi arce            cos :0,2  1,1 ,      tg    :  0,    \             ,
+    utilizând relaţii trigonometrice                                                                           
+                                                                                                            2  
+3. Determinarea măsurii unor unghiuri şi a
+
+    lungimii unor segmente utilizând relaţii metrice     ctg : 0,  
+
+4.  Caracterizarea unor configuraţii geometrice         Definirea funcţiilor trigonometrice:
+    plane utilizând calculul trigonometric
+                                                         sin : 1,1, cos : 1,1 , tg :                        \D       ,
+5. Determinarea unor proprietăţi ale funcţiilor
+
+    trigonometrice prin lecturi grafice                  cu  D         k  k      ,  ctg :       \D            , cu
+6. Optimizarea calculului trigonometric prin                                        
+                                                                     2              
+    alegerea adecvată a formulelor
+                                                         D  k k  
+
+                                                       Reducerea la primul cadran; formule
+
+                                                         trigonometrice: sin a  b , sin a  b ,
+
+                                                         cosa  b , cosa  b , sin 2a , cos 2a ,
+
+                                                         sin a  sin b , sin a  sin b , cos a  cosb ,
+
+                                                         cos a  cosb (transformarea sumei în produs)
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                               3
+1.  Identificarea unor metode posibile în                Aplicaţii ale trigonometriei şi ale produsului
+2.  rezolvarea problemelor de geometrie                  scalar a doi vectori în geometria plană
+    Aplicarea unor metode diverse pentru                  Produsul scalar a doi vectori: definiţie, proprietăţi.
+3.  determinarea unor distanţe, a unor măsuri de
+    unghiuri şi a unor arii                                  Aplicaţii: teorema cosinusului, condiţii de
+    Prelucrarea informaţiilor oferite de o                   perpendicularitate, rezolvarea triunghiului
+    configuraţie geometrică pentru deducerea unor            dreptunghic
+    proprietăţi ale acesteia                              Aplicaţii vectoriale şi trigonometrice în geometrie:
+
+4. Analizarea unor configuraţii geometrice                  teorema sinusurilor, rezolvarea triunghiurilor
+
+    pentru alegerea algoritmilor de rezolvare               oarecare
+
+5. Aplicarea unor metode variate pentru  Calcularea razei cercului înscris şi a razei cercului
+                                                            circumscris în triunghi, calcularea lungimilor unor
+    optimizarea calculelor de distanţe, de măsuri de
+                                                            segmente importante din triunghi, calcularea unor
+    unghiuri şi de arii
+                                                            arii
+6. Modelarea unor configuraţii geometrice
+
+    utilizând metode vectoriale sau sintetice
+
+                             CLASA a X-a - 4 ore/săpt. (TC+CD)
+
+    Competenţe specifice                                                   Conţinuturi
+
+1.  Identificarea caracteristicilor tipurilor de         Mulţimi de numere
+2.  numere utilizate în algebră şi a formei de scriere    Numere reale: proprietăţi ale puterilor cu
+    a unui număr real în contexte specifice
+    Determinarea echivalenţei între forme diferite            exponent raţional, iraţional şi real ale unui
+    de scriere a unui număr, compararea şi ordonarea          număr pozitiv nenul, aproximări raţionale pentru
+    numerelor reale                                           numere reale
+
+3. Aplicarea unor algoritmi specifici calculului cu  Radical de ordin n ( n  și n  2 ) dintr-un
+
+    numere reale sau complexe pentru optimizarea            număr, proprietăţi ale radicalilor
+
+    unor calcule şi rezolvarea de ecuaţii                 Noţiunea de logaritm, proprietăţi ale
+
+4. Alegerea formei de reprezentare a unui număr             logaritmilor, calcule cu logaritmi, operaţia de
+
+    real sau complex în funcţie de contexte în              logaritmare
+
+    vederea optimizării calculelor                        Mulţimea . Numere complexe sub formă
+
+5. Alegerea strategiilor de rezolvare în vederea            algebrică, conjugatul unui număr complex,
+
+    optimizării calculelor                                  operaţii cu numere complexe. Interpretarea
+
+6. Determinarea unor analogii între proprietăţile           geometrică a operaţiilor de adunare şi de scădere
+
+    operaţiilor cu numere reale sau complexe scrise         a numerelor complexe şi a înmulţirii acestora cu
+
+    în forme variate şi utilizarea acestora în              un număr real
+
+    rezolvarea unor ecuaţii                               Rezolvarea în a ecuaţiei de gradul al doilea
+
+                                                            având coeficienţi reali. Ecuaţii bipătrate
+
+1.  Trasarea prin puncte a graficelor unor funcţii       Funcţii şi ecuaţii                                 D,
+2.  Prelucrarea informaţiilor ilustrate prin graficul     Funcţia putere cu exponent natural: f :
+    unei funcţii în scopul deducerii unor proprietăţi
+
+    algebrice ale acesteia (monotonie, semn,                f  x  xn, n , n  2 și
+
+    bijectivitate, inversabilitate, convexitate)            funcţia radical: f : D  , f  x  n x, n
+3. Utilizarea de proprietăţi ale funcţiilor în trasarea     şi n  2 , unde D  0, pentru n par şi
+
+    graficelor şi în rezolvarea de ecuaţii
+
+4. Exprimarea în limbaj matematic a unor situaţii           D  pentru n impar
+
+    concrete şi reprezentarea prin grafice a unor          Funcţia exponenţială: f :    0, ,
+    funcţii care descriu situaţii practice
+                                                                  f  x  ax , a 0,, a  1 şi
+5. Interpretarea, pe baza lecturii grafice, a
+
+    proprietăţilor algebrice ale funcţiilor                 funcţia logaritmică: f : 0,  ,
+6. Utilizarea echivalenţei dintre bijectivitate şi           f  x  loga x , a 0,, a  1
+
+    inversabilitate în trasarea unor grafice şi în
+
+    rezolvarea unor ecuaţii algebrice şi  Injectivitate, surjectivitate, bijectivitate; funcţii
+
+    trigonometrice                                          inversabile: definiţie, proprietăţi grafice, condiţia
+
+                                                            necesară şi suficientă ca o funcţie să fie
+
+                                                            inversabilă
+
+                                                          Funcţii trigonometrice directe şi inverse
+
+                                                          Rezolvări de ecuaţii folosind proprietăţile
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                               4
+                                                         funcţiilor:
+                                                         1. Ecuaţii care conţin radicali de ordinul 2 sau
+
+                                                             de ordinul 3
+                                                         2. Ecuaţii exponenţiale, ecuaţii logaritmice
+                                                         3. Ecuaţii trigonometrice:
+
+                                                            sin x  a , cos x  a , a 1,1 ,
+
+                                                         tgx  a , ctgx  a , a  ,
+
+                                                         sin f  x  sin g  x , cos f  x  cos g  x ,
+
+                                                         tg f  x  tg g  x , ctg f  x  ctg g  x
+
+                                                         Notă: Pentru toate tipurile de funcţii se vor studia:
+
+                                                         intersecţia cu axele de coordonate, ecuaţia f  x  0 ,
+
+                                                         reprezentarea grafică prin puncte, simetrie, lectura
+
+                                                         grafică a proprietăţilor algebrice ale funcţiilor:
+
+                                                         monotonie, bijectivitate, inversabilitate, semn,
+
+                                                         convexitate.
+
+1.  Diferenţierea problemelor în funcţie de numărul      Metode de numărare
+2.  de soluţii admise                                     Mulţimi finite ordonate. Numărul funcţiilor
+    Identificarea tipului de formulă de numărare
+    adecvată unei situaţii-problemă date                      f : A  B , unde A şi B sunt mulţimi finite
+
+3. Utilizarea unor formule combinatoriale în  Permutări
+
+    raţionamente de tip inductiv                         - numărul de mulţimi ordonate care se obţin
+
+4. Exprimarea, în moduri variate, a                      prin ordonarea unei mulţimi finite cu n
+
+    caracteristicilor unor probleme în scopul            elemente
+
+    simplificării modului de numărare                    - numărul funcţiilor bijective f : A  B , unde
+
+5. Interpretarea unor situaţii-problemă având            A şi B sunt mulţimi finite
+
+    conţinut practic cu ajutorul funcţiilor şi a  Aranjamente
+
+    elementelor de combinatorică                         - numărul submulţimilor ordonate cu câte k
+
+6. Alegerea strategiilor de rezolvare a unor situaţii    elemente fiecare, k  n , care se pot forma cu
+    practice în scopul optimizării rezultatelor          cele n elemente ale unei mulţimi finite
+
+                                                         - numărul funcţiilor injective f : A  B , unde
+
+                                                         A şi B sunt mulţimi finite
+
+                                                          Combinări - numărul submulţimilor cu câte k
+
+                                                         elemente, unde 0  k  n , ale unei mulţimi finite
+
+                                                         cu n elemente. Proprietăţi: formula combinărilor
+
+                                                         complementare, numărul tuturor submulţimilor
+
+                                                         unei mulţimi cu n elemente
+
+                                                          Binomul lui Newton
+
+1.  Recunoaşterea unor date de tip probabilistic sau     Matematici financiare
+2.  statistic în situaţii concrete                        Elemente de calcul financiar: procente, dobânzi,
+    Interpretarea primară a datelor statistice sau
+    probabilistice cu ajutorul calculului financiar, al      TVA
+
+    graficelor şi al diagramelor                          Culegerea, clasificarea şi prelucrarea datelor
+
+3. Utilizarea unor algoritmi specifici calculului        statistice: date statistice, reprezentarea grafică a
+
+    financiar, statisticii sau probabilităţilor pentru   datelor statistice
+
+    analiza de caz                                        Interpretarea datelor statistice prin parametri de
+
+4. Transpunerea în limbaj matematic prin poziţie: medii, dispersia, abateri de la medie
+    mijloace statistice sau probabilistice a unor  Evenimente aleatoare egal probabile, operaţii cu
+                                                         evenimente, probabilitatea unui eveniment
+    probleme practice
+5. Analizarea şi interpretarea unor situaţii compus din evenimente egal probabile
+
+    practice cu ajutorul conceptelor statistice sau      Notă: Aplicaţiile vor fi din domeniul financiar: profit, preţ
+
+    probabilistice                                       de cost al unui produs, amortizări de investiţii, tipuri de
+                                                         credite, metode de finanţare, buget personal, buget
+6.  Corelarea datelor statistice sau probabilistice în   familial.
+    scopul predicţiei comportării unui sistem prin
+
+    analogie cu modul de comportare în situaţii
+
+    studiate
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                               5
+1.  Descrierea unor configuraţii geometrice              Geometrie
+2.  analitic sau utilizând vectori                        Reper cartezian în plan, coordonatele unui vector
+3.  Descrierea analitică, sintetică sau vectorială a
+    relaţiilor de paralelism şi de perpendicularitate       în plan, coordonatele sumei vectoriale,
+    Utilizarea informaţiilor oferite de o                   coordonatele produsului dintre un vector şi un
+    configuraţie geometrică pentru deducerea unor           număr real, coordonate carteziene ale unui punct
+    proprietăţi ale acesteia şi calcularea unor             din plan, distanţa dintre două puncte în plan
+    distanţe şi a unor arii                               Ecuaţii ale dreptei în plan determinate de un punct
+
+4. Exprimarea analitică, sintetică sau vectorială a şi de o direcţie dată şi ale dreptei determinate de
+    caracteristicilor matematice ale unei două puncte distincte
+                                                          Condiţii de paralelism, condiţii de
+    configuraţii geometrice
+5. Interpretarea perpendicularităţii în relaţie cu perpendicularitate a două drepte din plan;
+                                                         calcularea unor distanţe şi a unor arii
+    paralelismul şi minimul distanţei
+
+6. Modelarea unor configuraţii geometrice
+
+    analitic, sintetic sau vectorial
+
+                                       CLASA a XI-a - 4 ore/săpt.
+
+                  Competenţe specifice                                           Conţinuturi
+1. Identificarea unor situaţii practice concrete,
+                                                         ELEMENTE DE CALCUL MATRICEAL ŞI
+      care necesită asocierea unui tabel de date cu      SISTEME DE ECUAŢII LINIARE
+      reprezentarea matriceală a unui proces specific    Permutări
+      domeniului economic sau tehnic                      Noţiunea de permutare, operaţii, proprietăţi
+2. Asocierea unui tabel de date cu reprezentarea          Inversiuni, semnul unei permutări
+      matriceală a unui proces                           Matrice
+3. Aplicarea algoritmilor de calcul în situaţii           Tabel de tip matriceal. Matrice, mulţimi de
+      practice
+4. Rezolvarea unor ecuaţii şi sisteme utilizând              matrice
+      algoritmi specifici                                 Operaţii cu matrice: adunarea, înmulţirea,
+5. Stabilirea unor condiţii de existenţă şi/sau
+      compatibilitate a unor sisteme şi identificarea        înmulţirea unei matrice cu un scalar, proprietăţi
+      unor metode adecvate de rezolvare a acestora       Determinanţi
+6. Optimizarea rezolvării unor probleme sau               Determinant de ordin n, proprietăţi
+      situaţii-problemă prin alegerea unor strategii şi  Sisteme de ecuaţii liniare
+      metode adecvate (de tip algebric, vectorial,
+      analitic, sintetic)                                 Matrice inversabile din n  , n  4
+
+1. Caracterizarea unor şiruri şi a unor funcţii           Ecuaţii matriceale
+    utilizând reprezentarea geometrică a unor cazuri      Sisteme liniare cu cel mult 4 necunoscute,
+    particulare
+                                                              sisteme de tip Cramer, rangul unei matrice
+2. Interpretarea unor proprietăţi ale şirurilor şi ale    Studiul compatibilităţii şi rezolvarea sistemelor:
+    altor funcţii cu ajutorul reprezentărilor grafice
+                                                              proprietatea Kroneker-Capelli, proprietatea
+3. Aplicarea unor algoritmi specifici calculului              Rouchè, metoda Gauss
+    diferenţial în rezolvarea unor probleme şi            Aplicaţii: ecuaţia unei drepte determinate de
+    modelarea unor procese                                    două puncte distincte, aria unui triunghi şi
+                                                              coliniaritatea a trei puncte în plan
+4. Exprimarea cu ajutorul noţiunilor de limită,
+    continuitate, derivabilitate, monotonie, a unor      ELEMENTE DE ANALIZĂ MATEMATICĂ
+    proprietăţi cantitative şi/sau calitative ale unei   Limite de funcţii
+    funcţii                                               Noţiuni elementare despre mulţimi de puncte pe
+
+5. Studierea unor funcţii din punct de vedere                 dreapta reală: intervale, mărginire, vecinătăţi,
+    cantitativ şi/sau calitativ utilizând diverse             dreapta încheiată, simbolurile  şi 
+    procedee: majorări sau minorări pe un interval        Funcţii reale de variabilă reală: funcţia
+                                                              polinomială, funcţia raţională, funcţia putere,
+                                                              funcţia radical, funcţia logaritm, funcţia
+                                                              exponenţială, funcţii trigonometrice directe şi
+                                                              inverse
+                                                          Limita unui şir utilizând vecinătăţi, șiruri
+                                                             convergente
+                                                          Monotonie, mărginire, limite; proprietatea lui
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                               6
+    dat, proprietăţi algebrice şi de ordine ale                   Weierstrass. Exemple semnificative: an ,
+    mulţimii numerelor reale în studiul calitativ                                                                                            n
+    local, utilizare a reprezentării grafice a unei
+    funcţii pentru verificarea unor rezultate şi/sau             na   ,      1    1  n         (fără demonstraţie), numărul
+    pentru identificarea unor proprietăţi                                             n      n
+6. Explorarea unor proprietăţi cu caracter local                       n
+    şi/sau global ale unor funcţii utilizând
+    reprezentarea grafică, continuitatea sau                    e; limita şirului               1       un    1       ,  un  0 ,  un  0 ,
+    derivabilitatea                                                                                              n
+                                                                                                               un
+Note:
+ - În introducerea noţiunilor de limită a unui şir într-un      pentru orice număr natural n
+
+      punct şi de şir convergent nu se vor introduce             Operaţii cu şiruri care au limită
+      definiţiile cu  şi nici teorema de convergenţă cu  .
+                                                                 Limite de funcţii: interpretarea grafică a limitei
+- Se utilizează exprimarea „proprietatea lui ...”,
+                                                                unei funcţii într-un punct utilizând vecinătăţi,
+      „regula lui …”, pentru a sublinia faptul că se face
+      referire la un rezultat matematic utilizat în aplicaţii,  limite laterale
+      dar a cărui demonstraţie este în afara programei.
+                                                                 Calculul limitelor pentru funcţiile studiate;
+
+                                                                cazuri exceptate la calculul limitelor de funcţii:
+
+                                                                0 ,  ,  , 0  , 1 , 0, 00
+                                                                0
+
+                                                                 Asimptotele graficului funcţiilor studiate:
+
+                                                                asimptote verticale, oblice
+
+                                                                Continuitate
+
+                                                                 Continuitatea unei funcții într-un punct al
+
+                                                                domeniului de definiție, funcții continue,
+
+                                                                interpretarea grafică a continuităţii unei funcţii,
+
+                                                                studiul continuităţii în puncte de pe dreapta reală
+
+                                                                pentru funcţiile studiate, operaţii cu funcţii
+
+                                                                continue
+
+                                                                 Proprietatea lui Darboux, semnul unei funcţii
+
+                                                                continue pe un interval de numere reale, studiul
+
+                                                                existenţei soluţiilor unor ecuaţii în
+
+                                                                Derivabilitate
+
+                                                                 Tangenta la o curbă, derivata unei funcţii într-un
+
+                                                                punct, funcţii derivabile, operaţii cu funcţii
+
+                                                                derivabile, calculul derivatelor de ordin I şi al II-
+
+                                                                lea pentru funcţiile studiate
+
+                                                                 Funcţii derivabile pe un interval: puncte de
+
+                                                                extrem ale unei funcţii, teorema lui Fermat,
+
+                                                                teorema lui Rolle, teorema lui Lagrange şi
+
+                                                                interpretarea lor geometrică, corolarul teoremei
+
+                                                                lui Lagrange referitor la derivata unei funcţii
+
+                                                                într-un punct
+
+                                                                 Rolul derivatei I în studiul funcţiilor: monotonia
+
+                                                                funcţiilor, puncte de extrem
+
+                                                                 Rolul derivatei a II-a în studiul funcţiilor:
+
+                                                                concavitate, convexitate, puncte de inflexiune
+
+                                                                 Regulile lui l’Hospital
+
+                                                                Reprezentarea grafică a funcţiilor
+
+                                                                 Reprezentarea grafică a funcţiilor
+
+                                                                 Rezolvarea grafică a ecuaţiilor, utilizarea
+
+                                                                reprezentării grafice a funcţiilor în determinarea
+
+                                                                numărului de soluţii ale unei ecuaţii
+
+                                                                 Reprezentarea grafică a conicelor (cerc, elipsă,
+
+                                                                hiperbolă, parabolă)
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                           7
+                                    CLASA a XII-a – 4 ore/săpt.
+
+      Competențe specifice                                                     Conținuturi
+
+1. Identificarea proprietăților operațiilor cu care ELEMENTE DE ALGEBRĂ
+
+      este înzestrată o mulțime                       Grupuri
+
+2. Evidențierea asemănărilor și a deosebirilor • Lege de compoziție internă (operație algebrică),
+
+      dintre proprietățile unor operații definite pe     tabla operației, parte stabilă
+
+      mulțimi diferite                                • Grup, exemple: grupuri numerice, grupuri de
+
+3.1. Determinarea și verificarea proprietăților          matrice, grupuri de permutări, grupul aditiv al
+
+      structurilor algebrice, inclusiv verificarea       claselor de resturi modulo n
+
+      faptului că o funcție dată este morfism sau • Subgrup
+      izomorfism
+                                                      • Grup finit, tabla operației, ordinul unui element
+4. Utilizarea unor proprietăți ale operațiilor în • Morfism, izomorfism de grupuri
+      calcule specifice unei structuri algebrice
+                                                      Inele și corpuri
+5.1.  Utilizarea unor proprietăți ale structurilor
+      algebrice în rezolvarea unor probleme de        •  Inel, exemple: inele numerice (  ,  ,  ,  ),
+      aritmetică                                         n , inele de matrice, inele de funcții reale
+
+6.1. Transferarea, între structuri izomorfe, a • Corp, exemple: corpuri numerice (  ,  ,  ),
+
+      datelor inițiale și a rezultatelor, pe baza         p , p prim
+
+      proprietăților operațiilor                      • Morfisme de inele și de corpuri
+
+1. Identificarea legăturilor dintre o funcție ELEMENTE DE ANALIZĂ MATEMATICĂ
+
+      continuă și derivata sau primitiva acesteia     • Probleme care conduc la noțiunea de integrală
+
+2. Identificarea unor metode de calcul ale Primitive (antiderivate)
+
+      integralelor, prin realizarea de legături cu • Primitivele unei funcții definite pe un interval.
+
+      reguli de derivare                                 Integrala nedefinită a unei funcții, proprietăți ale
+
+3. Utilizarea algoritmilor pentru calcularea unor        integralei nedefinite, liniaritate. Primitive uzuale
+
+      integrale definite                              Integrala definită
+
+4. Explicarea opțiunilor de calcul al integralelor • Diviziuni ale unui interval [a,b] , norma unei
+       definite, în scopul optimizării soluțiilor
+5. Folosirea proprietăților unei funcții continue,       diviziuni, sistem de puncte intermediare, sume
+                                                         Riemann, interpretare geometrică. Definiția
+       pentru calcularea integralei acesteia pe un
+       interval                                          integrabilității unei funcții pe un interval [a,b]
+
+6.1. Utilizarea proprietăților de monotonie a • Proprietăți ale integralei definite: liniaritate,
+
+      integralei în estimarea valorii unei integrale     monotonie, aditivitate în raport cu intervalul de
+
+      definite și în probleme cu conținut practic        integrare.
+
+6.2. Modelarea comportării unei funcții prin • Formula Leibniz – Newton
+      utilizarea primitivelor sale
+                                                      • Integrabilitatea funcțiilor continue, teorema de
+
+                                                         medie, interpretare geometrică, teorema de
+
+                                                         existență a primitivelor unei funcții continue
+
+                                                      • Metode de calcul al integralelor definite:
+
+                                                         integrarea prin părți, integrarea prin schimbare
+
+                                                         de variabilă. Calculul integralelor de forma
+
+                                                         b P(x)
+                                                         ∫              dx  ,  gradQ ≤ 4                prin  metoda
+                                                            Q  (  x  )
+                                                         a
+
+                                                         descompunerii în fracții simple
+
+                                                      Notă: Se utilizează exprimarea „proprietate” sau
+                                                      „regulă”, pentru a sublinia faptul că se face referire la
+                                                      un rezultat matematic utilizat în aplicații, dar a cărui
+                                                      demonstrație este în afara programei.
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_mate-info
+                                                                           8
+                                           PROGRAMA M_şt-nat
+
+Filiera teoretică, profilul real, specializarea ştiinţe ale naturii
+
+                         COMPETENŢE DE EVALUAT ŞI CONŢINUTURI
+
+                                   CLASA a IX-a - 4 ore/săpt. (TC+CD)
+
+    Competenţe specifice                                                  Conţinuturi
+
+1.  Identificarea, în limbaj cotidian sau în           Mulţimi şi elemente de logică matematică
+2.  probleme de matematică, a unor noţiuni              Mulţimea numerelor reale: operaţii algebrice cu
+    specifice logicii matematice şi teoriei
+    mulţimilor                                             numere reale, ordonarea numerelor reale, modulul
+    Utilizarea proprietăţilor operaţiilor algebrice        unui număr real, aproximări prin lipsă sau prin
+    ale numerelor, a estimărilor şi aproximărilor în       adaos, partea întreagă, partea fracţionară a unui
+    contexte variate                                       număr real; operaţii cu intervale de numere reale
+
+3. Alegerea formei de reprezentare a unui număr  Propoziţie, predicat, cuantificatori
+    real şi utilizarea unor algoritmi pentru  Operaţii logice elementare (negaţie, conjuncţie,
+                                                       disjuncţie, implicaţie, echivalenţă), corelate cu
+    optimizarea calculelor cu numere reale
+                                                       operaţiile şi cu relaţiile dintre mulţimi
+4. Deducerea unor rezultate şi verificarea
+                                                       (complementară, intersecţie, reuniune, incluziune,
+    acestora utilizând inducţia matematică sau alte
+                                                       egalitate); raţionament prin reducere la absurd
+    raţionamente logice
+5. Redactarea rezolvării unei probleme, corelând  Inducţia matematică
+
+    limbajul uzual cu cel al logicii matematice şi al
+
+    teoriei mulţimilor
+
+6. Transpunerea unei situaţii-problemă în limbaj
+
+    matematic, rezolvarea problemei obţinute şi
+
+    interpretarea rezultatului
+
+1.  Recunoaşterea unor corespondenţe care sunt          Şiruri
+2.  funcţii, şiruri, progresii                          Modalităţi de a defini un şir, șiruri mărginite, șiruri
+    Utilizarea unor modalităţi variate de descriere
+    a funcţiilor în scopul caracterizării acestora         monotone
+
+3. Descrierea unor şiruri/funcţii utilizând  Şiruri particulare: progresii aritmetice, progresii
+                                                       geometrice, formula termenului general în funcţie
+    reprezentarea geometrică a unor cazuri
+                                                       de un termen dat şi raţie, suma primilor n termeni
+    particulare şi raţionamentul inductiv
+                                                       ai unei progresii
+4. Caracterizarea unor şiruri folosind diverse
+    reprezentări (formule, grafice) sau proprietăţi  Condiţia ca n numere să fie în progresie aritmetică
+                                                       sau geometrică, pentru n  3
+    algebrice ale acestora
+
+5. Analizarea unor valori particulare în vederea
+
+    determinării formei analitice a unei funcţii
+
+    definite pe prin raţionament de tip inductiv
+
+6. Transpunerea unor situaţii-problemă în limbaj
+
+    matematic utilizând funcţii definite pe
+
+1.  Identificarea valorilor unei funcţii folosind      Funcţii; lecturi grafice
+2.  reprezentarea grafică a acesteia                    Reper cartezian, produs cartezian; reprezentarea
+    Caracterizarea egalităţii a două funcţii prin
+3.  utilizarea unor modalităţi variate de descriere a      prin puncte a unui produs cartezian de mulţimi
+    funcţiilor                                             numerice; condiţii algebrice pentru puncte aflate în
+    Operarea cu funcţii reprezentate în diferite           cadrane; drepte în plan de forma x  m sau y  m ,
+
+    moduri şi caracterizarea calitativă a acestor      cu m
+
+    reprezentări                                        Funcţia: definiţie, exemple, exemple de
+
+4. Caracterizarea unor proprietăţi ale funcţiilor      corespondenţe care nu sunt funcţii, modalităţi de a
+
+    numerice prin utilizarea graficelor acestora şi a  descrie o funcţie, lecturi grafice. Egalitatea a două
+
+    ecuaţiilor asociate                                funcţii, imaginea unei mulţimi printr-o funcţie,
+
+5. Deducerea unor proprietăţi ale funcţiilor           graficul unei funcţii, restricţii ale unei funcţii
+
+    numerice prin lectură grafică                       Funcţii numerice F   f : D  , D   ;
+
+6. Analizarea unor situaţii practice şi descrierea     reprezentarea geometrică a graficului: intersecţia
+    lor cu ajutorul funcţiilor                         cu axele de coordonate, rezolvări grafice ale unor
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                               9
+                                                             ecuaţii şi inecuaţii de forma f  x  g  x ,
+
+                                                               (, , , ) ; proprietăţi ale funcţiilor numerice
+
+                                                              introduse prin lectură grafică: mărginire,
+                                                              monotonie; alte proprietăţi: paritate/imparitate,
+                                                              simetria graficului faţă de drepte de forma x  m ,
+                                                               m , periodicitate
+                                                           Compunerea funcţiilor; exemple pe funcţii
+                                                              numerice
+
+1. Recunoaşterea funcţiei de gradul I descrisă în         Funcţia de gradul I
+    moduri diferite                                        Definiţie; reprezentarea grafică a funcţiei
+
+2. Utilizarea unor metode algebrice şi grafice                f :  , f  x  ax  b , unde a,b ,
+     pentru rezolvarea ecuaţiilor, inecuaţiilor şi
+     sistemelor de ecuații                                intersecţia graficului cu axele de coordonate,
+
+3. Descrierea unor proprietăţi desprinse din              ecuaţia f  x  0
+     reprezentarea grafică a funcţiei de gradul I sau
+     din rezolvarea ecuaţiilor, inecuaţiilor şi            Interpretarea grafică a proprietăţilor algebrice ale
+     sistemelor de ecuații
+                                                          funcţiei: monotonia şi semnul funcţiei; studiul
+4. Exprimarea legăturii între funcţia de gradul I
+     şi reprezentarea ei geometrică                       monotoniei prin semnul diferenţei f  x1  f  x2 
+
+5. Interpretarea graficului funcţiei de gradul I          (sau prin studierea semnului raportului
+     utilizând proprietăţile algebrice ale funcţiei
+                                                          f   x1  f  x2   ,  x1, x2       , x1  x2 )
+6. Modelarea unor situaţii concrete prin utilizarea
+     ecuaţiilor şi/sau a inecuaţiilor, rezolvarea              x1  x2
+     problemei obţinute şi interpretarea rezultatului
+                                                           Inecuaţii de forma ax  b 0 (,,) studiate pe
+1. Diferenţierea, prin exemple, a variaţiei liniare
+    de cea pătratică                                              sau pe intervale de numere reale
+                                                           Poziţia relativă a două drepte, sisteme de ecuaţii de
+2. Completarea unor tabele de valori pentru
+     trasarea graficului funcţiei de gradul al II-lea     tipul   ax   by  c   ,      a, b, c, m, n,   p
+                                                                 mx   ny  p
+3. Aplicarea unor algoritmi pentru trasarea
+     graficului funcţiei de gradul al II-lea (prin         Sisteme de inecuaţii de gradul I
+     puncte semnificative)
+                                                          Funcţia de gradul al II-lea
+4. Exprimarea proprietăţilor unei funcţii prin             Reprezentarea grafică a funcţiei f :  ,
+     condiţii algebrice sau geometrice
+                                                          f  x  ax2  bx  c , cu a,b,c  și a  0 ,
+5. Utilizarea relaţiilor lui Viète pentru
+     caracterizarea soluţiilor ecuaţiei de gradul al II-  intersecţia graficului cu axele de coordonate,
+     lea şi pentru rezolvarea unor sisteme de ecuaţii
+                                                          ecuaţia f  x  0 , simetria faţă de drepte de forma
+6. Utilizarea funcţiilor în rezolvarea unor probleme
+     şi în modelarea unor procese                              x  m , cu m
+                                                           Relaţiile lui Viète, rezolvarea sistemelor de forma
+1. Recunoaşterea corespondenţei dintre seturi de
+     date şi reprezentări grafice                         x  y  s   , cu    s, p 
+                                                          
+2. Determinarea unor funcţii care verifică                  xy  p
+     anumite condiţii precizate
+                                                          Interpretarea geometrică a proprietăţilor algebrice
+3. Utilizarea unor algoritmi pentru rezolvarea
+     ecuaţiilor, inecuaţiilor şi a sistemelor de ecuaţii  ale funcţiei de gradul al II-lea
+     şi pentru reprezentarea grafică a soluţiilor
+     acestora                                              Monotonie; studiul monotoniei prin semnul
+
+4. Exprimarea prin reprezentări grafice a unor            diferenţei f  x1  f  x2  sau prin rata creşterii
+     condiţii algebrice; exprimarea prin condiţii
+     algebrice a unor reprezentări grafice                /descreşterii:       f   x1    f  x2    ,  x1,  x2    , x1  x2 ,
+                                                                                         
+5. Utilizarea unor metode algebrice sau grafice                                     x1      x2
+     pentru determinarea sau aproximarea soluţiilor
+     ecuaţiei asociate funcţiei de gradul al II-lea       punct de extrem, vârful parabolei
+
+                                                           Poziţionarea parabolei faţă de axa Ox , semnul
+
+                                                          funcţiei, inecuaţii de forma ax2  bx  c  0 ,
+
+                                                          (, , ) , a, b, c , a  0 , studiate pe sau pe
+
+                                                          intervale de numere reale, interpretare geometrică:
+
+                                                          imagini ale unor intervale (proiecţiile unor porţiuni
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                          10
+6. Interpretarea informaţiilor conţinute în              de parabolă pe axa Oy )
+    reprezentări grafice prin utilizarea de estimări, 
+    aproximări şi strategii de optimizare                Poziţia relativă a unei drepte faţă de o parabolă:
+
+                                                         rezolvarea sistemelor de        forma                  mx     n y     y  ,
+                                                                                                               ax2   bx  c 
+
+                                                         a, b, c, m, n 
+
+1.  Identificarea unor elemente de geometrie          Vectori în plan
+2.  vectorială în diferite contexte                    Segment orientat, vectori, vectori coliniari
+    Transpunerea unor operaţii cu vectori în
+                                                       Operaţii cu vectori: adunarea (regula triunghiului,
+    contexte geometrice date
+                                                         regula paralelogramului), proprietăţi ale operaţiei
+3. Utilizarea operaţiilor cu vectori pentru a
+                                                         de adunare; înmulţirea cu un scalar, proprietăţi ale
+    descrie o problemă practică
+                                                         înmulţirii cu un scalar; condiţia de coliniaritate,
+4. Utilizarea limbajului calculului vectorial
+                                                         descompunerea după doi vectori necoliniari
+    pentru a descrie configuraţii geometrice
+
+5. Identificarea condiţiilor necesare pentru ca o
+
+    configuraţie geometrică să verifice cerinţe date
+
+6. Aplicarea calculului vectorial în rezolvarea
+
+    unor probleme de fizică
+
+1.  Descrierea sintetică sau vectorială a             Coliniaritate, concurenţă, paralelism                                -     calcul
+2.  proprietăţilor unor configuraţii geometrice în    vectorial în geometria plană
+    plan                                               Vectorul de poziţie a unui punct
+    Caracterizarea sintetică sau/şi vectorială a
+                                                       Vectorul de poziţie a punctului care împarte un
+    unei configuraţii geometrice date
+                                                         segment într-un raport dat, teorema lui Thales
+3. Alegerea metodei adecvate de rezolvare a
+                                                         (condiţii de paralelism)
+    problemelor de coliniaritate, concurenţă sau
+                                                       Vectorul de poziţie a centrului de greutate al unui
+    paralelism
+                                                         triunghi (concurenţa medianelor unui triunghi)
+4. Trecerea de la caracterizarea sintetică la cea
+    vectorială (şi invers) într-o configuraţie  Teorema lui Menelau, teorema lui Ceva
+
+    geometrică dată
+
+5. Interpretarea coliniarităţii, concurenţei sau
+
+    paralelismului în relaţie cu proprietăţile
+
+    sintetice sau vectoriale ale unor configuraţii
+
+    geometrice
+
+6. Analizarea comparativă a rezolvărilor
+
+    vectorială şi sintetică ale aceleiaşi probleme
+
+1.  Identificarea legăturilor între coordonate        Elemente de trigonometrie
+2.  unghiulare, coordonate metrice şi coordonate       Cercul trigonometric, definirea funcţiilor
+    carteziene pe cercul trigonometric
+    Calcularea unor măsuri de unghiuri şi arce           trigonometrice: sin :0,2  1,1 ,
+
+    utilizând relaţii trigonometrice                     cos :0,2  1,1 ,    tg    :  0,           \             ,
+3. Determinarea măsurii unor unghiuri şi a                                                                          
+                                                                                                                 2  
+    lungimii unor segmente utilizând relaţii metrice
+4. Caracterizarea unor configuraţii geometrice           ctg : 0,  
+
+    plane utilizând calculul trigonometric             Definirea funcţiilor trigonometrice:
+
+5. Determinarea unor proprietăţi ale funcţiilor          sin : 1,1, cos : 1,1 , tg : \ D  ,
+    trigonometrice prin lecturi grafice
+                                                         cu  D         k  k    ,  ctg :              \D            , cu
+6. Optimizarea calculului trigonometric prin                                      
+    alegerea adecvată a formulelor                                   2            
+
+                                                         D  k k  
+
+                                                       Reducerea la primul cadran; formule
+
+                                                         trigonometrice: sin a  b , sin a  b ,
+
+                                                         cosa  b , cosa  b , sin 2a , cos 2a ,
+
+                                                         sin a  sin b , sin a  sin b , cos a  cosb ,
+
+                                                         cos a  cosb (transformarea sumei în produs)
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                              11
+1.  Identificarea unor metode posibile în                Aplicaţii ale trigonometriei şi ale produsului scalar
+2.  rezolvarea problemelor de geometrie                  a doi vectori în geometria plană
+    Aplicarea unor metode diverse pentru                  Produsul scalar a doi vectori: definiţie, proprietăţi.
+3.  determinarea unor distanţe, a unor măsuri de
+    unghiuri şi a unor arii                                  Aplicaţii: teorema cosinusului, condiţii de
+    Prelucrarea informaţiilor oferite de o                   perpendicularitate, rezolvarea triunghiului
+    configuraţie geometrică pentru deducerea unor            dreptunghic
+    proprietăţi ale acesteia                              Aplicaţii vectoriale şi trigonometrice în geometrie:
+
+4. Analizarea unor configuraţii geometrice                  teorema sinusurilor, rezolvarea triunghiurilor
+
+    pentru alegerea algoritmilor de rezolvare               oarecare
+
+5. Aplicarea unor metode variate pentru  Calcularea razei cercului înscris şi a razei cercului
+                                                            circumscris în triunghi, calcularea lungimilor unor
+    optimizarea calculelor de distanţe, de măsuri de
+                                                            segmente importante din triunghi, calcularea unor
+    unghiuri şi de arii
+                                                            arii
+6. Modelarea unor configuraţii geometrice
+
+    utilizând metode vectoriale sau sintetice
+
+                         CLASA a X-a - 4 ore/săpt. (TC+CD)
+
+    Competenţe specifice                                                  Conţinuturi
+
+1. Identificarea caracteristicilor tipurilor de Mulţimi de numere
+
+    numere utilizate în algebră şi a formei de scriere  Numere reale: proprietăţi ale puterilor cu
+
+    a unui număr real în contexte specifice                 exponent raţional, iraţional şi real ale unui
+
+2. Determinarea echivalenţei între forme diferite           număr pozitiv nenul, aproximări raţionale pentru
+
+    de scriere a unui număr, compararea şi ordonarea        numere reale
+
+    numerelor reale                                       Radical de ordin n ( n  și n  2 ) dintr-un
+
+3. Aplicarea unor algoritmi specifici calculului cu         număr, proprietăţi ale radicalilor
+
+    numere reale sau complexe pentru optimizarea  Noţiunea de logaritm, proprietăţi ale
+    unor calcule şi în rezolvarea de ecuaţii
+                                                            logaritmilor, calcule cu logaritmi, operaţia de
+4. Alegerea formei de reprezentare a unui număr
+                                                            logaritmare
+    real sau complex în funcţie de contexte în
+    vederea optimizării calculelor                         Mulţimea . Numere complexe sub formă
+5. Alegerea strategiilor de rezolvare în vederea           algebrică, conjugatul unui număr complex,
+    optimizării calculelor                                  operaţii cu numere complexe. Interpretarea
+6. Determinarea unor analogii între proprietăţile           geometrică a operaţiilor de adunare şi de scădere
+    operaţiilor cu numere reale sau complexe scrise         a numerelor complexe şi a înmulţirii acestora cu
+    în forme variate şi utilizarea acestora în              un număr real
+    rezolvarea unor ecuaţii                                 Rezolvarea în a ecuaţiei de gradul al doilea
+                                                            având coeficienţi reali. Ecuaţii bipătrate
+
+1. Trasarea prin puncte a graficelor unor funcţii        Funcţii şi ecuaţii                              D,
+2. Prelucrarea informaţiilor ilustrate prin graficul      Funcţia putere cu exponent natural: f :
+
+    unei funcţii în scopul deducerii unor proprietăţi
+
+    algebrice ale acesteia (monotonie, semn,                f  x  xn, n şi n  2 și funcţia radical:
+
+    bijectivitate, inversabilitate, convexitate)            f : D  , f  x  n x, n şi n  2 , unde
+3. Utilizarea de proprietăţi ale funcţiilor în trasarea     D  0, pentru n par şi D  pentru n
+
+    graficelor şi rezolvarea de ecuaţii
+
+4. Exprimarea în limbaj matematic a unor situaţii           impar
+
+    concrete şi reprezentarea prin grafice a unor          Funcţia exponenţială: f :   0, ,
+    funcţii care descriu situaţii practice
+                                                                  f  x  ax , a 0,, a  1 şi
+5. Interpretarea, pe baza lecturii grafice, a
+
+    proprietăţilor algebrice ale funcţiilor                 funcţia logaritmică: f : 0,  ,
+6. Utilizarea echivalenţei dintre bijectivitate şi           f  x  loga x , a 0,, a  1
+
+    inversabilitate în trasarea unor grafice şi în
+
+    rezolvarea unor ecuaţii algebrice şi  Injectivitate, surjectivitate, bijectivitate; funcţii
+
+    trigonometrice                                          inversabile: definiţie, proprietăţi grafice, condiţia
+
+                                                            necesară şi suficientă ca o funcţie să fie
+
+                                                            inversabilă
+
+                                                          Funcţii trigonometrice directe şi inverse
+
+                                                          Rezolvări de ecuaţii folosind proprietăţile
+
+                                                            funcţiilor:
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                              12
+1. Diferenţierea problemelor în funcţie de numărul             1. Ecuaţii care conţin radicali de ordinul 2 sau
+    de soluţii admise                                              de ordinul 3
+
+2. Identificarea tipului de formulă de numărare                2. Ecuaţii exponenţiale, ecuaţii logaritmice
+    adecvată unei situaţii-problemă date                       3. Ecuaţii trigonometrice:
+
+3. Utilizarea unor formule combinatoriale în                     sin x  a , cos x  a , a 1,1 ,
+    raţionamente de tip inductiv
+                                                                    tgx  a , ctgx  a , a  ,
+4. Exprimarea, în moduri diferite, a
+    caracteristicilor unor probleme în scopul                    sin f  x  sin g  x , cos f  x  cos g  x ,
+    simplificării modului de numărare                             tg f  x  tg g  x , ctg f  x  ctg g  x
+
+5. Interpretarea unor situaţii-problemă având             Notă: Pentru toate tipurile de funcţii se vor studia:
+    conţinut practic cu ajutorul funcţiilor şi a
+    elementelor de combinatorică                          intersecţia cu axele de coordonate, ecuaţia f  x  0 ,
+
+6. Alegerea strategiilor de rezolvare a unor situaţii     reprezentarea grafică prin puncte, simetrie, lectura
+    practice în scopul optimizării rezultatelor           grafică a proprietăţilor algebrice ale funcţiilor:
+                                                          monotonie, bijectivitate, inversabilitate, semn, convexitate
+1. Recunoaşterea unor date de tip probabilistic
+     sau statistic în situaţii concrete                   Metode de numărare
+                                                           Mulţimi finite ordonate. Numărul funcţiilor
+2. Interpretarea primară a datelor statistice sau
+     probabilistice cu ajutorul calculului financiar, al       f : A  B , unde A şi B sunt mulţimi finite
+     graficelor şi al diagramelor
+                                                           Permutări
+3. Utilizarea unor algoritmi specifici calculului             - numărul de mulţimi ordonate care se obţin
+     financiar, statisticii sau probabilităţilor pentru           prin ordonarea unei mulţimi finite cu n
+     analiza de caz                                               elemente
+                                                              - numărul funcţiilor bijective f : A  B , unde
+4. Transpunerea în limbaj matematic prin                           A şi B sunt mulţimi finite
+     mijloace statistice sau probabilistice a unor
+     probleme practice                                     Aranjamente
+                                                              - numărul submulţimilor ordonate cu câte k
+5. Analizarea şi interpretarea unor situaţii                      elemente fiecare, k  n , care se pot forma cu
+     practice cu ajutorul conceptelor statistice sau              cele n elemente ale unei mulţimi finite
+     probabilistice                                           - numărul funcţiilor injective f : A  B , unde
+                                                                   A şi B sunt mulţimi finite
+6. Corelarea datelor statistice sau probabilistice în
+     scopul predicţiei comportării unui sistem prin        Combinări - numărul submulţimilor cu câte k
+     analogie cu modul de comportare în situaţii              elemente, unde 0  k  n , ale unei mulţimi finite
+     studiate                                                 cu n elemente. Proprietăţi: formula combinărilor
+                                                              complementare, numărul tuturor submulţimilor
+1. Descrierea unor configuraţii geometrice analitic           unei mulţimi cu n elemente
+     sau utilizând vectori
+                                                           Binomul lui Newton
+2. Descrierea analitică, sintetică sau vectorială a
+                                                          Matematici financiare
+                                                           Elemente de calcul financiar: procente, dobânzi,
+
+                                                               TVA
+                                                           Culegerea, clasificarea şi prelucrarea datelor
+
+                                                               statistice: date statistice, reprezentarea grafică a
+                                                               datelor statistice
+                                                           Interpretarea datelor statistice prin parametri de
+                                                               poziţie: medii, dispersia, abateri de la medie
+                                                           Evenimente aleatoare egal probabile, operaţii cu
+                                                               evenimente, probabilitatea unui eveniment
+                                                               compus din evenimente egal probabile
+
+                                                          Notă: Aplicaţiile vor fi din domeniul financiar: profit, preţ
+                                                          de cost al unui produs, amortizări de investiţii, tipuri de
+                                                          credite, metode de finanţare, buget personal, buget
+
+                                                          familial.
+
+                                                          Geometrie
+                                                           Reper cartezian în plan, coordonatele unui vector
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                          13
+    relaţiilor de paralelism şi de perpendicularitate    în plan, coordonatele sumei vectoriale,
+
+3. Utilizarea informaţiilor oferite de o coordonatele produsului dintre un vector şi un
+
+    configuraţie geometrică pentru deducerea unor număr real, coordonate carteziene ale unui punct
+
+    proprietăţi ale acesteia şi calcularea unor din plan, distanţa dintre două puncte în plan
+
+    distanţe şi a unor arii                               Ecuaţii ale dreptei în plan determinate de un punct
+
+4. Exprimarea analitică, sintetică sau vectorială a şi de o direcţie dată şi ale dreptei determinate de
+
+    caracteristicilor matematice ale unei două puncte distincte
+
+    configuraţii geometrice                               Condiţii de paralelism, condiţii de
+
+5. Interpretarea perpendicularităţii în relaţie cu       perpendicularitate a două drepte din plan;
+
+    paralelismul şi minimul distanţei                    calcularea unor distanţe şi a unor arii
+
+6. Modelarea unor configuraţii geometrice
+
+    analitic, sintetic sau vectorial
+
+                                       CLASA a XI-a - 3 ore/săpt.
+
+               Competenţe specifice                                        Conţinuturi
+
+1.  Identificarea unor situaţii practice concrete, care  ELEMENTE DE CALCUL MATRICEAL ŞI
+2.  necesită asocierea unui tabel de date cu             SISTEME DE ECUAŢII LINIARE
+    reprezentarea matriceală a unui proces specific      Matrice
+    domeniului economic sau tehnic                        Tabel de tip matriceal. Matrice, mulţimi de
+    Asocierea unui tabel de date cu reprezentarea
+    matriceală a unui proces                                  matrice
+
+3. Aplicarea algoritmilor de calcul cu matrice în  Operaţii cu matrice: adunarea, înmulţirea,
+                                                         înmulţirea unei matrice cu un scalar, proprietăţi
+    situaţii practice
+4. Rezolvarea unor sisteme utilizând algoritmi Determinanţi
+                                                          Determinantul unei matrice pătratice de ordin cel
+    specifici
+                                                         mult 3, proprietăţi
+5. Stabilirea unor condiţii de existenţă şi/sau
+    compatibilitate a unor sisteme şi identificarea Sisteme de ecuaţii liniare
+                                                          Matrice inversabile din n  , n  2,3
+    unor metode adecvate de rezolvare a acestora
+
+6. Optimizarea rezolvării unor probleme sau  Ecuaţii matriceale
+    situaţii-problemă prin alegerea unor strategii şi  Sisteme liniare cu cel mult 3 necunoscute; forma
+    metode adecvate (de tip algebric, vectorial,
+                                                         matriceală a unui sistem liniar
+    analitic, sintetic)
+                                                          Metoda Cramer de rezolvare a sistemelor liniare
+
+                                                          Aplicaţii: ecuaţia unei drepte determinate de
+
+                                                         două puncte distincte, aria unui triunghi şi
+
+                                                         coliniaritatea a trei puncte în plan
+
+1.  Caracterizarea unor funcţii utilizând                Elemente de analiză matematică
+    reprezentarea geometrică a unor cazuri               Limite de funcţii
+2.  particulare                                           Noţiuni elementare despre mulţimi de puncte pe
+3.  Interpretarea unor proprietăţi ale funcţiilor cu
+4.  ajutorul reprezentărilor grafice                          dreapta reală: intervale, mărginire, vecinătăţi,
+    Aplicarea unor algoritmi specifici calculului             dreapta încheiată, simbolurile  şi 
+    diferenţial în rezolvarea unor probleme               Limite de funcţii: interpretarea grafică a limitei
+    Exprimarea cu ajutorul noţiunilor de limită,              unei funcţii într-un punct utilizând vecinătăţi,
+
+    continuitate, derivabilitate, monotonie, a unor      limite laterale
+
+    proprietăţi cantitative şi/sau calitative ale unei  Calculul limitelor pentru funcţia de gradul I,
+                                                         funcţia de gradul al II-lea, funcţia logaritmică,
+    funcţii
+
+5. Utilizarea reprezentării grafice a unei funcţii       exponenţială, funcţia putere ( n  2,3), funcţia
+
+    pentru verificarea unor rezultate şi pentru          radical ( n  2,3), funcţia raport de două funcţii
+
+    identificarea unor proprietăţi                       cu grad cel mult 2; cazuri exceptate la calculul
+
+6. Determinarea unor optimuri situaţionale prin          limitelor de funcţii: 0 ,  , 0  
+    aplicarea calculului diferenţial în probleme                              0
+
+    practice                                              Asimptotele graficului funcţiilor studiate:
+
+                                                         asimptote verticale, orizontale şi oblice
+
+                                                         Funcţii continue
+
+                                                          Continuitatea unei funcții într-un punct al
+
+                                                         domeniului de definiție, funcții continue,
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                              14
+                                                             interpretarea grafică a continuită‫܊‬ii unei func‫܊‬ii,
+                                                             opera‫܊‬ii cu func‫܊‬ii continue
+                                                         • Proprietatea lui Darboux, semnul unei func‫܊‬ii
+
+                                                             continue pe un interval de numere reale
+                                                         Func‫܊‬ii derivabile
+                                                         • Tangenta la o curbă. Derivata unei func‫܊‬ii într-un
+
+                                                             punct, func‫܊‬ii derivabile
+                                                         • Opera‫܊‬ii cu func‫܊‬ii derivabile, calculul
+
+                                                             derivatelor de ordin I ‫܈‬i al II-lea pentru func‫܊‬iile
+
+                                                             studiate
+
+                                                         • Regulile lui l’Hospital pentru cazurile 0 , ∞
+                                                                                                             0∞
+
+                                                         Studiul func‫܊‬iilor cu ajutorul derivatelor
+                                                         • Rolul derivatelor de ordin I ‫܈‬i de ordinul al II-lea
+
+                                                             în studiul func‫܊‬iilor: monotonie, puncte de
+
+                                                             extrem, concavitate, convexitate
+                                                         • Reprezentarea grafică a func‫܊‬iilor
+                                                         Notă:
+                                                         - Se utilizează exprimarea „proprietatea lui ...”,
+
+                                                              „regula lui …”, pentru a sublinia faptul că se face
+                                                              referire la un rezultat matematic utilizat în aplicaаii,
+                                                              dar a cărui demonstraаie este în afara programei.
+
+                            CLASA a XII-a – 3 ore/săpt.
+
+      Competen‫܊‬e specifice                                             Con‫܊‬inuturi
+
+1.    Recunoa‫܈‬terea structurilor algebrice, a            ELEMENTE DE ALGEBRĂ
+2.1.  mul‫܊‬imilor de numere ‫܈‬i de matrice
+2.2.                                                     Grupuri
+      Identificarea unei structuri algebrice prin        • Lege de compozi‫܊‬ie internă, tabla opera‫܊‬iei
+      verificarea proprietă‫܊‬ilor acesteia                • Grup, exemple: grupuri numerice, grupuri de
+      Determinarea ‫܈‬i verificarea proprietă‫܊‬ilor
+                                                             matrice, grupul aditiv al claselor de resturi modulo
+3.1.  unei structuri                                         n
+4.    Verificarea faptului că o func‫܊‬ie dată este
+                                                         • Morfism ‫܈‬i izomorfism de grupuri
+      morfism sau izomorfism                             Inele ‫܈‬i corpuri
+                                                         • Inel, exemple: inele numerice ( ] , _ , \ , ^ ),
+      Explicarea modului în care sunt utilizate, în
+      calcule specifice, proprietă‫܊‬ile opera‫܊‬iilor unei  ]n , inele de matrice, inele de func‫܊‬ii reale
+
+      structuri algebrice
+
+5.1. Utilizarea structurilor algebrice în rezolvarea • Corp, exemple: corpuri numerice (_ , \ ,^ ),
+
+       de probleme practice                              ] p , p prim
+6.1. Exprimarea unor probleme practice, folosind
+
+      structuri algebrice sau calcul polinomial
+
+1.    Identificarea legăturilor dintre o func‫܊‬ie         ELEMENTE DE ANALIZĂ MATEMATICĂ
+2.    continuă ‫܈‬i derivata sau primitiva acesteia        • Probleme care conduc la no‫܊‬iunea de integrală
+      Stabilirea unor proprietă‫܊‬i ale calculului
+3.    integral, prin analogie cu proprietă‫܊‬i ale         Primitive (antiderivate)
+      calculului diferen‫܊‬ial                             • Primitivele unei func‫܊‬ii definite pe un interval.
+
+      Utilizarea algoritmilor pentru calcularea unor         Integrala nedefinită a unei func‫܊‬ii continue,
+
+      integrale definite                                 proprietatea de liniaritate a integralei nedefinite.
+
+4.    Explicarea op‫܊‬iunilor de calcul al integralelor        Primitive uzuale
+6.    definite, în scopul optimizării solu‫܊‬iilor         Integrala definită
+      Aplicarea calculului diferen‫܊‬ial sau integral în
+                                                         • Definirea integralei Riemann a unei func‫܊‬ii
+
+      probleme practice                                      continue prin formula Leibniz-Newton
+                                                         • Proprietă‫܊‬i ale integralei definite: liniaritate,
+
+                                                         monotonie, aditivitate în raport cu intervalul de
+
+                                                         integrare
+
+                                                         • Metode de calcul al integralelor definite:
+                                                             integrarea prin păr‫܊‬i, integrarea prin schimbare de
+
+                                                             variabilă. Calculul integralelor de forma
+
+    Programa pentru simularea examenului na‫܊‬ional de bacalaureat 2026, disciplina Matematică – 0BЮWQDW
+                                                                              15
+b P(x)
+∫              dx  ,  gradQ ≤ 4                                                                      prin  metoda
+   Q  (  x  )
+a
+
+descompunerii în fracții simple
+
+Notă: Se utilizează exprimarea „proprietate” sau
+„regulă”, pentru a sublinia faptul că se face referire la
+un rezultat matematic utilizat în aplicații, dar a cărui
+demonstrație este în afara programei.
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_șt-nat
+                                                                          16
+                                       PROGRAMA M_tehnologic
+
+Filiera tehnologică, profilul servicii, toate calificările profesionale, profilul resurse naturale şi protecţia
+mediului, toate calificările profesionale, profilul tehnic, toate calificările profesionale
+
+                        COMPETENŢE DE EVALUAT ŞI CONŢINUTURI
+
+                                CLASA a IX-a - 3 ore/săpt. (TC+CD)
+
+    Competenţe specifice                                      Conţinuturi
+
+1.  Identificarea în limbaj cotidian sau în            Mulţimi şi elemente de logică matematică
+    probleme de matematică a unor noţiuni               Mulţimea numerelor reale: operaţii algebrice cu
+2.  specifice logicii matematice şi teoriei
+3.  mulţimilor                                             numere reale, ordonarea numerelor reale, modulul
+4.  Reprezentarea adecvată a mulţimilor şi a               unui număr real, aproximări prin lipsă sau prin
+    operaţiilor logice în scopul identificării unor        adaos; operaţii cu intervale de numere reale
+    proprietăţi ale acestora                            Propoziție, predicat, cuantificatori
+    Alegerea şi utilizarea de algoritmi pentru          Operaţii logice elementare (negaţie, conjuncţie,
+    efectuarea unor operaţii cu numere reale, cu           disjuncţie, implicaţie, echivalenţă), corelate cu
+    mulţimi, cu propoziții/predicate                       operaţiile şi cu relaţiile dintre mulţimi
+    Deducerea unor rezultate și verificarea                (complementară, intersecţie, reuniune, incluziune,
+    acestora utilizând inducția matematică sau alte        egalitate)
+    raționamente logice                                 Inducția matematică
+
+5. Redactarea rezolvării unei probleme, corelând
+
+    limbajul uzual cu cel al logicii matematice şi al
+
+    teoriei mulţimilor
+
+6. Transpunerea unei situaţii-problemă în limbaj
+
+    matematic, rezolvarea problemei obținute şi
+
+    interpretarea rezultatului
+
+1.  Recunoaşterea unor corespondenţe care sunt         Şiruri
+2.  şiruri, progresii aritmetice sau geometrice         Modalităţi de a descrie un şir; şiruri particulare:
+    Calcularea valorilor unor șiruri care
+3.  modelează situaţii practice în scopul                  progresii aritmetice, progresii geometrice,
+    caracterizării acestora                                determinarea termenului general al unei progresii;
+    Alegerea şi utilizarea unor modalităţi                 suma primilor n termeni ai unei progresii
+
+    adecvate de calculare a elementelor unui șir  Condiția ca n numere să fie în progresie
+                                                       aritmetică sau geometrică, pentru n  3
+4. Interpretarea grafică a unor relaţii provenite
+
+    din probleme practice
+
+5. Analizarea datelor în vederea aplicării unor
+
+    formule de recurenţă sau a raţionamentului de
+
+    tip inductiv în rezolvarea problemelor
+
+6. Analizarea şi adaptarea scrierii termenilor
+
+    unui şir în funcţie de context
+
+1.  Identificarea valorilor unei funcţii folosind      Funcţii; lecturi grafice
+2.  reprezentarea grafică a acesteia                    Reper cartezian, produs cartezian, reprezentarea
+3.  Determinarea soluţiilor unor ecuaţii, inecuaţii
+    utilizând reprezentările grafice                        prin puncte a unui produs cartezian de mulţimi
+    Alegerea şi utilizarea unei modalităţi                  numerice; condiții algebrice pentru puncte aflate
+    adecvate de reprezentare grafică în vederea             în cadrane; drepte în plan de forma x  m sau de
+
+    evidenţierii unor proprietăţi ale funcțiilor       forma y  m , m
+
+4. Exprimarea monotoniei unei funcţii prin  Funcţia: definiţie, exemple, exemple de
+
+    condiţii algebrice sau geometrice                  corespondenţe care nu sunt funcţii, modalităţi de
+
+5. Reprezentarea geometrică a graficului unei          a descrie o funcţie, egalitatea a două funcţii,
+    funcții prin puncte şi aproximarea acestuia        imaginea unei funcţii
+
+    printr-o curbă continuă                             Funcţii numerice f : I  , I interval de numere
+
+6. Deducerea unor proprietăţi ale funcţiilor           reale; graficul unei funcții, reprezentarea
+
+    numerice prin lectură grafică                      geometrică a graficului, intersecţia graficului cu
+
+                                                       axele de coordonate, interpretarea grafică a unor
+
+                                                       ecuații de forma f  x  g  x ; proprietăţi ale
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_tehnologic
+                                                                              17
+                                                             funcţiilor numerice introduse prin lectură grafică:
+                                                             mărginire, monotonie, paritate/imparitate
+                                                             (simetria graficului față de axa Oy sau origine),
+
+                                                             periodicitate
+
+                                                          Compunerea funcțiilor; exemple de funcții
+
+                                                             numerice
+
+1.  Recunoaşterea funcţiei de gradul I descrisă în       Funcţia de gradul I                                   funcţiei
+2.  moduri diferite                                       Definiţie; reprezentarea grafică a                 a,b ,
+    Utilizarea unor metode algebrice sau grafice
+    pentru rezolvarea ecuaţiilor, inecuaţiilor,              f :  , f  x  ax  b , unde
+
+    sistemelor de ecuații                                    intersecţia graficului cu axele de coordonate,
+
+3. Descrierea unor proprietăţi desprinse din                 ecuaţia f  x  0
+
+    reprezentarea grafică a funcţiei de gradul I sau        Interpretarea grafică a proprietăţilor algebrice ale
+    din rezolvarea ecuaţiilor, inecuaţiilor,                 funcţiei: monotonie, semnul funcţiei
+                                                             Inecuaţii de forma ax  b 0 (,,) , a,b ,
+4.  sistemelor de ecuații                                
+    Exprimarea legăturii între funcţia de gradul I           studiate pe
+                                                             Poziţia relativă a două drepte, sisteme de tipul
+    şi reprezentarea ei geometrică
+5. Interpretarea graficului funcţiei de gradul I 
+
+    utilizând proprietăţile algebrice ale funcţiei            ax  by  c   ,   a,b,c,m,n, p  numere        reale
+6. Rezolvarea cu ajutorul funcţiilor a unei                  mx  ny  p
+
+    situaţii-problemă şi interpretarea rezultatului
+
+1.  Diferenţierea, prin exemple, a variaţiei liniare     Funcţia de gradul al II-lea           funcţiei       f:  ,
+2.  de cea pătratică                                      Reprezentarea grafică a                            și a  0 ,
+    Completarea unor tabele de valori necesare
+
+    pentru trasarea graficului funcției de gradul al         f  x  ax2  bx  c cu a,b,c 
+
+    II-lea                                                   intersecţia graficului cu axele de coordonate,
+3. Aplicarea unor algoritmi pentru trasarea
+                                                             ecuaţia f  x  0 , simetria față de drepte de forma
+    graficului funcției de gradul al II-lea (prin
+    puncte semnificative)                                    x  m cu m
+
+4. Exprimarea proprietăţilor unei funcţii prin  Relaţiile lui Viète, rezolvarea sistemelor de forma
+
+    condiţii algebrice sau geometrice                        x    ys      cu  s,  p
+5. Utilizarea relaţiilor lui Viète pentru                                ,
+                                                               xy
+    caracterizarea soluţiilor ecuației de gradul al II-             p
+
+    lea şi pentru rezolvarea unor sisteme de ecuații
+
+6. Identificarea unor metode grafice de rezolvare
+
+    a ecuaţiilor sau a sistemelor de ecuaţii
+
+1.  Recunoașterea corespondenței dintre seturi de        Interpretarea geometrică a proprietăţilor algebrice
+2.  date și reprezentări grafice                         ale funcţiei de gradul al II-lea
+3.  Reprezentarea grafică a unor date diverse în          Monotonie; punct de extrem, vârful parabolei,
+    vederea comparării variației lor
+    Aplicarea formulelor de calcul şi a lecturii             interpretare geometrică
+
+    grafice pentru rezolvarea de ecuaţii, inecuaţii şi  Poziționarea parabolei față de axa Ox , semnul
+                                                             funcţiei, inecuaţii de forma ax2  bx  c  0
+    sisteme de ecuații
+
+4. Exprimarea prin reprezentări grafice a unor               (,,) , a,b,c  , a  0 , interpretare
+
+    condiţii algebrice; exprimarea prin condiţii             geometrică
+
+    algebrice a unor reprezentări grafice                   Poziția relativă a unei drepte față de o parabolă:
+
+5. Determinarea unor relații între condiţii                                                          mx     n y
+                                                                                                    ax2   bx  c 
+    algebrice date şi graficul funcţiei de gradul al         rezolvarea      sistemelor  de  forma                         ,
+
+    II-lea                                                                                                              y
+
+6. Utilizarea monotoniei şi a punctelor de extrem            cu a,b,c,m,n , interpretare geometrică
+    în optimizarea rezultatelor unor probleme
+
+    practice
+
+1.  Identificarea unor elemente de geometrie             Vectori în plan
+2.  vectorială în diferite contexte                       Segment orientat, vectori, vectori coliniari
+    Aplicarea regulilor de calcul pentru
+    determinarea caracteristicilor unor segmente  Operaţii cu vectori: adunarea (regula triunghiului,
+                                                             regula paralelogramului), proprietăți ale operației
+    orientate pe configuraţii date
+                                                             de adunare; înmulţirea cu un scalar, proprietăți ale
+3. Utilizarea operaţiilor cu vectori pentru a
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_tehnologic
+
+                                                         18
+    descrie configuraţii geometrice date                 înmulțirii cu un scalar; condiţia de coliniaritate,
+
+4. Utilizarea limbajului calculului vectorial descompunerea după doi vectori
+
+    pentru a descrie anumite configuraţii
+
+    geometrice
+
+5. Identificarea condiţiilor necesare pentru ca o
+
+    configuraţie geometrică să verifice cerinţe date
+
+6. Aplicarea calculului vectorial în rezolvarea
+
+    unor probleme din domenii conexe
+
+1.  Identificarea elementelor necesare pentru            Trigonometrie și aplicaţii ale trigonometriei în
+2.  calcularea unor lungimi de segmente şi a unor        geometrie
+    măsuri de unghiuri                                    Rezolvarea triunghiului dreptunghic
+    Utilizarea unor tabele și formule pentru
+                                                          Cercul trigonometric, definirea funcţiilor
+    calcule în trigonometrie şi în geometrie
+                                                         trigonometrice: sin :0,2  1,1 ,
+3. Determinarea măsurii unor unghiuri şi a
+
+    lungimii unor segmente utilizând relaţii metrice     cos :0,2  1,1   ,   tg :0,  \                     ,
+4. Transpunerea într-un limbaj specific                                                                        
+                                                                                                            2  
+    trigonometriei şi geometriei a unor probleme
+    practice                                             ctg : 0,  
+
+5. Utilizarea unor elemente de trigonometrie în  Definirea funcţiilor trigonometrice:
+
+    rezolvarea triunghiului oarecare                     sin : 1,1, cos : 1,1 ,
+6. Analizarea şi interpretarea rezultatelor
+                                                         tg :   \D      ,  cu  D           k  k               ,
+    obţinute prin rezolvarea unor probleme practice                                                               
+                                                                                       
+                                                                                          2                        
+
+                                                         ctg : \ D  , cu D  k k  
+
+                                                          Reducerea la primul cadran; formule
+
+                                                         trigonometrice:           sin a  b ,                   sin a  b ,
+
+                                                         cosa  b , cosa  b , sin 2a , cos 2a ,
+
+                                                          Modalităţi de calcul a lungimii unui segment şi a
+                                                             măsurii unui unghi: teorema sinusurilor şi teorema
+                                                             cosinusului
+
+                              CLASA a X-a - 3ore/săpt. (TC+CD)
+
+                Competenţe specifice                                         Conţinuturi
+
+1. Identificarea caracteristicilor tipurilor de Mulţimi de numere
+
+    numere utilizate în algebră şi a formei de scriere  Numere reale: proprietăţi ale puterilor cu
+
+    a unui număr real în contexte specifice              exponent raţional, iraţional şi real ale unui
+
+2. Compararea şi ordonarea numerelor reale               număr pozitiv nenul
+
+    utilizând metode variate                              Media aritmetică, media ponderată, media
+
+3. Aplicarea unor algoritmi specifici calculului cu      geometrică, media armonică
+
+    puteri, radicali, logaritmi în contexte variate       Radical unui număr (de ordin sau de ordin 3),
+
+4. Alegerea formei de reprezentare a unui număr          proprietăţi ale radicalilor
+
+    real în vederea optimizării calculelor                Noţiunea de logaritm, proprietăţi ale
+
+5. Alegerea strategiilor de rezolvare în vederea         logaritmilor, calcule cu logaritmi, operaţia de
+
+    optimizării calculelor                               logaritmare
+
+6. Determinarea unor analogii între proprietăţile  Mulţimea . Numere complexe sub formă
+    operaţiilor cu numere reale scrise în forme
+                                                         algebrică, conjugatul unui număr complex,
+    variate şi utilizarea acestora în rezolvarea unor
+                                                         operaţii cu numere complexe. Rezolvarea în
+    ecuaţii
+                                                         a ecuaţiei de gradul al doilea având coeficienţi
+
+                                                         reali
+
+1. Trasarea prin puncte a graficelor unor funcţii        Funcţii şi ecuaţii     f:             ,   f x  xn, n          ,
+2. Prelucrarea informaţiilor ilustrate prin graficul      Funcţia putere:
+
+    unei funcţii în scopul deducerii unor proprietăţi
+
+    ale acesteia (monotonie, semn, bijectivitate,        n  2 și
+
+    inversabilitate, continuitate, convexitate)          funcţia radical: f : D  , f  x  n x ,
+3. Utilizarea de proprietăţi ale funcţiilor în trasarea  n  2,3 , unde D  0, pentru n par şi
+
+    graficelor şi în rezolvarea de ecuaţii
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_tehnologic
+                                                                              19
+4. Exprimarea în limbaj matematic a unor situaţii              D  pentru n impar                        f :  0, ,
+    concrete şi reprezentarea prin grafice a unor          Funcţia exponenţială
+    funcţii care descriu situaţii practice
+                                                          f  x  ax , a 0,, a  1 şi
+5. Interpretarea, pe baza lecturii grafice, a
+    proprietăţilor algebrice ale funcţiilor               funcţia  logaritmică                           f : 0,  ,
+
+6. Utilizarea echivalenţei dintre bijectivitate şi             f  x  loga x , a 0,, a  1
+    inversabilitate în trasarea unor grafice şi în
+    rezolvarea unor ecuaţii algebrice                      Injectivitate, surjectivitate, bijectivitate; funcţii
+                                                              inversabile: definiţie, proprietăţi grafice, condiţia
+Notă: Pentru toate tipurile de funcţii se vor studia:         necesară şi suficientă ca o funcţie să fie
+                                                              inversabilă
+intersecţia cu axele de coordonate, ecuaţia f  x  0 ,
+                                                           Funcții trigonometrice directe și inverse
+reprezentarea grafică prin puncte, simetrie, lectura       Rezolvări de ecuaţii folosind proprietăţile
+grafică a proprietăţilor algebrice ale funcţiilor:
+monotonie, bijectivitate, inversabilitate, semn,              funcţiilor:
+convexitate.                                                  - Ecuaţii care conţin radicali de ordinul 2 sau
+
+1. Diferenţierea problemelor în funcţie de numărul                 de ordinul 3
+    de soluţii admise                                         - Ecuaţii exponenţiale, ecuaţii logaritmice,
+
+2. Identificarea tipului de formulă de numărare                    utilizarea unor substituţii care conduc la
+    adecvată unei situaţii-problemă date                           rezolvarea de ecuaţii algebrice
+
+3. Utilizarea unor formule combinatoriale în              Metode de numărare
+    raţionamente de tip inductiv                           Mulţimi finite: permutări, aranjamente,
+
+4. Exprimarea caracteristicilor unor probleme în               combinări, numărul tuturor submulţimilor unei
+    scopul simplificării modului de numărare                   mulţimi cu n elemente
+
+5. Interpretarea unor situaţii-problemă având             Matematici financiare
+    conţinut practic, cu ajutorul elementelor de           Elemente de calcul financiar: procente, dobânzi,
+    combinatorică
+                                                               TVA
+6. Alegerea strategiilor de rezolvare a unor               Culegerea, clasificarea şi prelucrarea datelor
+    probleme în scopul optimizării rezultatelor
+                                                               statistice: date statistice, reprezentarea grafică a
+1. Recunoaşterea unor date de tip probabilistic sau            datelor statistice
+    statistic în situaţii concrete                         Interpretarea datelor statistice prin lectura
+                                                               reprezentărilor grafice
+2. Interpretarea primară a datelor statistice sau          Evenimente aleatoare egal probabile;
+    probabilistice cu ajutorul calculului financiar, a         probabilitatea unui eveniment compus din
+    graficelor şi a diagramelor                                evenimente egal probabile
+
+3. Utilizarea unor algoritmi specifici calculului         Notă: Aplicaţiile vor fi din domeniul financiar: profit, preţ
+    financiar, statisticii sau probabailităţilor pentru   de cost al unui produs, amortizări de investiţii, tipuri de
+    analiza de caz                                        credite, metode de finanţare, buget personal, buget
+                                                          familial.
+4. Transpunerea în limbaj matematic prin
+    mijloace statistice, probabilistice a unor            Geometrie
+    probleme practice                                      Reper cartezian în plan, coordonatele unui
+
+5. Analizarea şi interpretarea unor situaţii                   vector în plan, coordonatele sumei vectoriale,
+    practice cu ajutorul conceptelor statistice sau            coordonatele produsului dintre un vector şi un
+    probabilistice                                             număr real, coordonate carteziene ale unui punct
+                                                               din plan, distanţa dintre două puncte în plan
+6. Corelarea datelor statistice sau probabilistice în      Ecuaţii ale dreptei în plan determinate de un
+    scopul predicţiei comportării unui sistem prin
+    analogie cu modul de comportare în situaţii
+    studiate
+
+1. Descrierea unor configuraţii geometrice analitic
+    sau utilizând vectori
+
+2. Descrierea analitică, sintetică sau vectorială a
+    relaţiilor de paralelism
+
+3. Utilizarea informaţiilor oferite de o configuraţie
+    geometrică pentru deducerea unor proprietăţi ale
+    acesteia şi calcularea unor distanţe şi a unor arii
+
+4. Exprimarea analitică, sintetică sau vectorială a
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_tehnologic
+                                                                          20
+    caracteristicilor matematice ale unei configuraţii           punct şi de o direcţie dată şi ale dreptei
+
+    geometrice                                                   determinate de două puncte distincte
+
+5. Interpretarea perpendicularităţii în relaţie cu  Condiţii de paralelism, condiţii de
+
+    paralelismul şi minimul distanţei                            perpendicularitate a două drepte în plan; linii
+
+6. Modelarea unor configuraţii geometrice analitic,              importante în triunghi, calcularea unor distanţe
+
+    sintetic sau vectorial                                       şi a unor arii
+
+                                    CLASA a XI-a - 3 ore/săpt. (TC+CD)
+
+                 Competenţe specifice                                                Conţinuturi
+
+1. Identificarea unor situaţii practice concrete, care ELEMENTE DE CALCUL MATRICEAL ŞI
+    necesită asocierea unui tabel de date cu SISTEME DE ECUAŢII LINIARE
+    reprezentarea matriceală a unui proces specific Matrice
+    domeniului economic sau tehnic
+                                                                  Tabel de tip matriceal. Matrice, mulţimi de
+2. Asocierea unui tabel de date cu reprezentarea
+                                                                 matrice
+    matriceală a unui proces
+                                                                  Operaţii cu matrice: adunarea, înmulţirea,
+3. Aplicarea algoritmilor de calcul cu matrice în
+                                                                 înmulţirea unei matrice cu un scalar, proprietăţi
+    situaţii practice
+                                                                 Determinanţi
+4. Rezolvarea unor sisteme utilizând algoritmi  Determinantul unei matrice pătratice de ordin cel
+    specifici
+                                                                 mult 3, proprietăţi
+5.  Stabilirea unor condiţii de existenţă şi/sau
+    compatibilitate a unor sisteme şi identificarea              Sisteme de ecuaţii liniare
+
+    unor metode adecvate de rezolvare a acestora                  Matrice inversabile din            n  , n  2,3
+
+6. Optimizarea rezolvării unor probleme sau  Ecuaţii matriceale
+
+    situații-problemă prin alegerea unor strategii şi  Sisteme liniare cu cel mult 3 necunoscute; forma
+
+    metode adecvate (de tip algebric, vectorial,                 matriceală a unui sistem liniar
+
+    analitic, sintetic)                                           Metoda lui Cramer de rezolvare a sistemelor
+
+                                                                 liniare
+
+                                                                  Aplicaţii: ecuaţia unei drepte determinate de
+
+                                                                 două puncte distincte, aria unui triunghi şi
+
+                                                                 coliniaritatea a trei puncte în plan
+
+1. Caracterizarea unor funcţii utilizând ELEMENTE DE ANALIZĂ MATEMATICĂ
+    reprezentarea geometrică a unor cazuri Limite de funcţii
+    particulare
+                                                                  Noţiuni elementare despre mulţimi de puncte pe
+2. Interpretarea unor proprietăţi ale funcţiilor cu
+                                                                 dreapta reală: intervale, mărginire, vecinătăţi,
+    ajutorul reprezentărilor grafice
+                                                                 dreapta încheiată, simbolurile  şi 
+3. Aplicarea unor algoritmi specifici calculului  Limite de funcţii: interpretarea grafică a limitei
+    diferenţial în rezolvarea unor probleme
+                                                                 unei funcţii într-un punct utilizând vecinătăţi,
+4. Exprimarea cu ajutorul noţiunilor de limită,
+                                                                 limite laterale
+    continuitate, derivabilitate, monotonie, a unor  Calculul limitelor pentru funcţia de gradul I,
+    proprietăţi cantitative şi calitative ale unei funcţii
+                                                                 funcţia de gradul al II-lea, funcţia logaritmică,
+5. Utilizarea reprezentării grafice a unei funcţii
+                                                                 exponenţială, funcţia putere ( n  2,3), funcţia
+    pentru verificarea unor rezultate şi pentru
+
+    identificarea unor proprietăţi                               radical ( n  2,3), funcţia raport de două funcţii
+
+6. Determinarea unor optimuri situaţionale prin                  cu grad cel mult 2, cazuri exceptate la calculul
+    aplicarea calculului diferenţial în probleme
+    practice                                                     limitelor  de  funcţii:  0  ,    ,  0
+                                                                                          0     
+
+Notă: Se utilizează exprimarea „proprietatea lui ...”,            Asimptotele graficului funcţiilor studiate:
+„regula lui …” pentru a sublinia faptul că se face referire           asimptote verticale, orizontale şi oblice
+la un rezultat matematic utilizat în aplicaţii, dar a cărui
+demonstraţie este în afara programei.                            Funcţii continue
+                                                                  Continuitatea unei funcții într-un punct al
+
+                                                                      domeniului de definiție, funcții continue,
+
+                                                                 interpretarea grafică a continuităţii unei funcţii,
+
+                                                                 operaţii cu funcţii continue
+
+                                                                  Proprietatea lui Darboux, semnul unei funcţii
+
+                                                                 continue pe un interval de numere reale
+
+                                                                 Funcţii derivabile
+
+                                                                  Tangenta la o curbă. Derivata unei funcţii într-un
+
+                                                                 punct, funcţii derivabile
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_tehnologic
+
+                                                             21
+                                                           • Operații cu funcții derivabile, calculul
+                                                               derivatelor de ordin I și de ordinul al II-lea
+                                                               pentru funcțiile studiate
+
+                                                           • Regulile lui l’Hospital pentru cazurile 0 , ∞
+                                                                                                               0∞
+
+                                                           Studiul funcțiilor cu ajutorul derivatelor
+                                                           • Rolul derivatei de ordin I și de ordinul al II-lea
+
+                                                               în studiul funcțiilor: monotonie, puncte de
+                                                               extrem, concavitate, convexitate
+                                                           • Reprezentarea grafică a funcțiilor
+
+                              CLASA a XII-a – 3 ore/săpt. (TC+CD)
+
+      Competențe specifice                                                       Conținuturi
+
+1.    Recunoașterea structurilor algebrice, a              ELEMENTE DE ALGEBRĂ
+2.1.  mulțimilor de numere și de matrice                   Grupuri
+2.2.  Identificarea unei structuri algebrice prin          • Lege de compoziție internă, tabla operației
+      verificarea proprietăților acesteia                  • Grup, exemple: grupuri numerice, grupul aditiv
+      Determinarea și verificarea proprietăților
+      unei structuri algebrice                                 al claselor de resturi modulo n
+
+3.1. Verificarea faptului că o funcție dată este • Morfism și izomorfism de grupuri
+                                                           Inele și corpuri
+      morfism sau izomorfism
+4. Explicarea modului în care sunt utilizate, în • Inel, exemple: inele numerice (  ,  ,  ,  ), n
+
+      calcule specifice, proprietățile operațiilor unei • Corp, exemple: corpuri numerice (  ,  ,  ),
+
+       structuri algebrice                                  p , p prim
+5.1. Utilizarea structurilor algebrice în rezolvarea
+
+      unor probleme practice
+
+6.1. Exprimarea unor probleme practice, folosind
+
+      structuri algebrice
+
+1. Identificarea legăturilor dintre o funcție              ELEMENTE DE ANALIZĂ MATEMATICĂ
+       continuă și derivata sau primitiva acesteia
+                                                           Primitive (antiderivate)
+2. Stabilirea unor proprietăți ale calculului
+       integral, prin analogie cu proprietăți ale          • Primitivele unei funcții definite pe un interval.
+       calculului diferențial
+                                                           Integrala nedefinită a unei funcții continue,
+3. Utilizarea algoritmilor pentru calcularea unor
+       integrale definite                                  proprietatea de liniaritate a integralei nedefinite.
+
+4. Explicarea opțiunilor de calcul al integralelor         Primitive uzuale
+       definite, în scopul optimizării soluțiilor
+                                                           Integrala definită
+6. Aplicarea calculului diferențial sau integral în
+       probleme practice                                   • Definirea integralei Riemann a unei funcții
+
+Notă: Se utilizează exprimarea „proprietate” sau           continue prin formula Leibniz-Newton
+„regulă”, pentru a sublinia faptul că se face referire la
+un rezultat matematic utilizat în aplicații, dar a cărui   • Proprietăți ale integralei definite: liniaritate,
+demonstrație este în afara programei.
+                                                           monotonie, aditivitate în raport cu intervalul de
+
+                                                           integrare
+
+                                                           • Metode de calcul al integralelor definite:
+
+                                                           integrarea prin părți, integrarea prin schimbare de
+
+                                                           variabilă. Calculul integralelor de forma
+
+                                                           b P(x)                       ≤
+                                                           ∫              dx  ,  gradQ     2
+                                                              Q  (  x  )
+                                                           a
+
+Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_tehnologic
+                                                                          22
+                                          PROGRAMA M_pedagogic
+
+Filiera vocaţională, profilul pedagogic, specializarea învăţător-educatoare
+
+                        COMPETENŢE DE EVALUAT ŞI CONŢINUTURI
+
+                                   CLASA a IX-a - 2 ore/săpt. (TC)
+
+    Competenţe specifice                                        Conţinuturi
+
+1.  Identificarea în limbaj cotidian sau în           Mulţimi şi elemente de logică matematică
+    probleme a unor noţiuni specifice logicii          Mulţimea numerelor reale: operaţii algebrice cu
+2.  matematice şi/sau a teoriei mulţimilor
+3.  Transcrierea unui enunţ în limbajul logicii           numere reale, ordonarea numerelor reale, modulul
+    matematice sau al teoriei mulţimilor                  unui număr real, aproximări prin lipsă sau prin
+4.  Utilizarea reprezentărilor grafice (diagrame,         adaos; operaţii cu intervale de numere reale
+5.  reprezentari pe axă), a tabelelor de adevăr,       Propoziţie, predicat, cuantificatori
+    pentru efectuarea unor operaţii                    Operaţii logice elementare (negaţie, conjuncţie,
+    Explicitarea caracteristicilor unor mulţimi           disjuncţie, implicaţie, echivalenţă), corelate cu
+    folosind limbajul logicii matematice                  operaţiile şi cu relaţiile dintre mulţimi
+    Redactarea rezolvării unor probleme, corelând         (complementară, intersecţie, reuniune,
+    limbajul uzual cu cel al logicii matematice           incluziune, egalitate)
+
+    şi/sau al teoriei mulţimilor
+
+6. Transpunerea unei situații cotidiene în limbaj
+
+    matematic, rezolvarea problemei obținute şi
+
+    interpretarea rezultatului
+
+1.  Recunoaşterea unor corespondenţe care sunt        Şiruri
+2.  şiruri, progresii aritmetice sau geometrice        Modalităţi de a descrie un şir; şiruri particulare:
+    Reprezentarea în diverse moduri a unor
+3.  corespondenţe, şiruri în scopul caracterizării        progresii aritmetice, progresii geometrice,
+    acestora                                              determinarea termenului general al unei progresii;
+    Identificarea unor formule de recurenţă pe            suma primilor n termeni ai unei progresii
+
+    bază de raţionamente de tip inductiv
+
+4. Exprimarea caracteristicilor unor șiruri
+
+    folosind diverse reprezentări (formule,
+
+    diagrame, grafice)
+
+5. Deducerea unor proprietăţi ale şirurilor
+
+    folosind diferite reprezentări sau raţionamente
+
+    de tip inductiv
+
+6. Asocierea unei situaţii-problemă cu un model
+
+    matematic de tip şir, progresie aritmetică sau
+
+    geometrică
+
+1.  Identificarea valorilor unei funcţii folosind     Funcţii; lecturi grafice
+2.  reprezentarea grafică a acesteia                   Reper cartezian, produs cartezian, reprezentarea
+3.  Identificarea unor puncte semnificative de pe
+    graficul unei funcţii                                  prin puncte a unui produs cartezian de mulţimi
+    Folosirea unor proprietăţi ale funcţiilor pentru       numerice; condiţii algebrice pentru puncte aflate
+    completarea graficului unei funcţii pare, impare       în cadrane; drepte în plan de forma x  m sau de
+
+    sau periodice                                     forma y  m, m
+
+4. Exprimarea proprietăţilor unor funcţii pe baza  Funcţia: definiţie, exemple, exemple de
+
+    lecturii grafice                                  corespondenţe care nu sunt funcţii, modalităţi de
+5. Reprezentarea graficului prin puncte şi            a descrie o funcţie, lectură grafică; egalitatea a
+
+    aproximarea acestuia printr-o curbă continuă      două funcţii, imaginea unei funcţii, graficul unei
+
+6. Deducerea unor proprietăţi ale funcţiilor          funcţii
+
+    numerice prin lectură grafică                      Funcţii numerice f : I  , I interval de numere
+
+                                                      reale; graficul unei funcții, reprezentarea
+                                                      geometrică a graficului, intersecţia graficului cu
+                                                      axele de coordonate, interpretarea grafică a unor
+
+                                                      ecuaţii de forma f  x  g  x ; proprietăţi ale
+
+                                                      funcţiilor numerice introduse prin lectură grafică:
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_pedagogic
+                                                                              23
+                                                            mărginire, monotonie, paritate/imparitate
+
+                                                            (simetria graficului faţă de axa Oy sau faţă de
+
+                                                            origine), periodicitate
+
+1.  Recunoaşterea funcţiei de gradul I descrisă în      Funcţia de gradul I                                  funcţiei
+2.  moduri diferite                                      Definiție; reprezentarea grafică a                a,b ,
+    Identificarea unor metode grafice pentru
+    rezolvarea ecuaţiilor, inecuaţiilor, sistemelor de      f :  , f  x  ax  b , unde
+
+    ecuații                                                 intersecţia graficului cu axele de coordonate,
+
+3. Descrierea unor proprietăţi desprinse din                ecuaţia f  x  0
+
+    rezolvarea ecuaţiilor, inecuaţiilor, sistemelor de     Interpretarea grafică a proprietăţilor algebrice ale
+    ecuații şi din reprezentarea grafică a funcţiei de      funcţiei: monotonie, semnul funcţiei
+                                                            Inecuaţii de forma ax  b 0,(,,), a, b
+4.  gradul I    în  limbaj      matematic     a  unor   
+    Exprimarea                                              studiate pe
+                                                            Poziţia relativă a două drepte; sisteme de tipul
+    situaţii concrete ce se pot descrie prin funcţii de
+    gradul I, ecuații, inecuaţii sau sisteme de 
+
+    ecuații                                                  ax  by  c
+5. Interpretarea cu ajutorul proporţionalităţii a           mx  ny  p , a,b,c,m,n, p 
+
+    condiţiilor pentru ca diverse date să fie
+
+    caracterizate cu ajutorul unei funcţii de gradul I
+
+6. Rezolvarea cu ajutorul funcţiilor a unei
+
+    situaţii-problemă şi interpretarea rezultatului
+
+1. Diferenţierea variaţiei liniare/pătratice prin       Funcţia de gradul al II-lea                         f:          ,
+    exemple                                              Reprezentarea grafică a funcţiei
+
+2. Completarea unor tabele de valori necesare
+
+    pentru trasarea graficului                              f  x  ax2  bx  c ,        a,b,c  ,            a0,
+
+3. Aplicarea unor algoritmi pentru trasarea                 intersecţia graficului cu axele de coordonate,
+    graficului (trasarea prin puncte semnificative)
+                                                            ecuaţia f  x  0 , simetria faţă de drepte de
+4. Exprimarea proprietăţilor unei funcţii prin
+    condiţii algebrice sau geometrice                       forma x  m , cu m
+
+5. Utilizarea relaţiilor lui Viète pentru  Relaţiile lui Viète, rezolvarea sistemelor de forma
+
+    caracterizarea soluţiilor şi rezolvarea unor            x    ys  ,  cu  s,  p
+    sisteme                                                       p
+6. Identificarea unor metode grafice de rezolvare             xy
+
+    a ecuaţiilor sau a sistemelor de ecuaţii
+
+1.  Recunoașterea corespondenței dintre seturi de       Interpretarea geometrică a proprietăţilor algebrice
+2.  date și reprezentări grafice                        ale funcţiei de gradul al II-lea
+3.  Reprezentarea grafică a unor date diverse în         Monotonie; punct de extrem, vârful parabolei,
+    vederea comparării variaţiei lor
+    Utilizarea lecturii grafice pentru rezolvarea de        interpretare geometrică
+
+    ecuaţii, inecuaţii şi sisteme de ecuații             Poziţionarea parabolei faţă de axa Ox , semnul
+
+4. Exprimarea prin reprezentări grafice a unor              funcţiei, inecuaţii de forma ax2  bx  c  0
+
+    condiţii algebrice; exprimarea prin condiţii            (,,) , cu a,b,c  , a  0 , interpretare
+
+    algebrice a unor reprezentări grafice                   geometrică
+
+5. Interpretarea unei configuraţii din perspectiva         Poziţia relativă a unei drepte faţă de o parabolă:
+    poziţiei relative a unei drepte faţă de o parabolă
+                                                            rezolvarea  sistemelor     de  forma   mx     n y     y  ,
+6. Utilizarea lecturilor grafice în vederea                                                       ax2   bx  c 
+    optimizării rezolvării unor probleme practice
+
+                                                            a,b,c,m,n , interpretare geometrică
+
+1.  Identificarea unor elemente de geometrie            Vectori în plan
+2.  vectorială în diferite contexte                      Segment orientat, vectori, vectori coliniari
+    Utilizarea reţelelor de pătrate pentru               Operaţii cu vectori: adunarea (regula triunghiului,
+    determinarea caracteristicilor unor segmente
+    orientate pe configuraţii date                          regula paralelogramului), proprietăţi ale operaţiei
+
+3. Efectuarea de operaţii cu vectori pe                     de adunare, înmulţirea cu un scalar, proprietăţi ale
+
+    configuraţii geometrice date                            înmulţirii cu un scalar, condiţia de coliniaritate,
+
+4. Utilizarea limbajului calculului vectorial               descompunerea după doi vectori necoliniari
+
+    pentru a descrie anumite configuraţii
+
+    geometrice
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_pedagogic
+
+                                                        24
+5. Identificarea condiţiilor necesare pentru
+
+    efectuarea operaţiilor cu vectori
+
+6. Aplicarea calculului vectorial în descrierea
+
+    proprietăţilor unor configurații geometrice date
+
+1.  Descrierea sintetică sau vectorială a               Coliniaritate, concurenţă, paralelism               –  calcul
+2.  proprietăţilor unor configuraţii geometrice în      vectorial în geometria plană
+    plan                                                 Vectorul de poziţie a unui punct
+    Reprezentarea prin intermediul vectorilor a
+                                                         Vectorul de poziţie a punctului care împarte un
+    unei configuraţii geometrice plane date
+                                                            segment într-un raport dat, teorema lui Thales
+3. Utilizarea calcului vectorial sau a metodelor
+                                                            (condiţii de paralelism)
+    sintetice în rezolvarea unor probleme de
+                                                         Vectorul de poziţie a centrului de greutate al unui
+    geometrie metrică
+                                                            triunghi (concurenţa medianelor unui triunghi)
+4. Trecerea de la caracterizarea sintetică la cea
+
+    vectorială (şi invers) a unei configuraţii
+
+    geometrice date
+
+5. Determinarea condiţiilor necesare pentru
+
+    coliniaritate, concurenţă sau paralelism
+
+6. Analizarea comparativă a rezolvărilor
+
+    vectorială şi sintetică ale aceleiaşi probleme
+
+1.  Identificarea elementelor necesare pentru           Aplicaţii ale trigonometriei în geometrie
+    calcularea unor lungimi de segmente şi a unor        Rezolvarea triunghiului dreptunghic
+    măsuri de unghiuri
+2. Utilizarea unor tabele și a unor formule pentru  Formulele (fără demonstraţie):
+                                                            cos180  x  cos x ; sin180  x  sin x
+    calcule în trigonometrie şi în geometrie
+
+3. Aplicarea teoremelor şi a formulelor pentru  Modalităţi de calcul a lungimii unui segment şi a
+
+    determinarea unor măsuri (lungimi sau                   măsurii unui unghi: teorema sinusurilor şi teorema
+
+    unghiuri)                                               cosinusului
+
+4. Transpunerea într-un limbaj specific
+
+    trigonometriei şi/sau geometriei a unor
+
+    probleme practice
+
+5. Utilizarea unor elemente de trigonometrie în
+
+    rezolvarea triunghiului dreptunghic/oarecare
+
+6. Analizarea şi interpretarea rezultatelor
+
+    obţinute prin rezolvarea unor probleme practice
+
+                                       CLASA a X-a - 2ore/săpt. (TC)
+
+               Competenţe specifice                                      Conţinuturi
+
+1.  Identificarea caracteristicilor tipurilor de        Numere reale
+    numere utilizate în algebră şi a formei de scriere   Numere reale: proprietăţi ale puterilor cu
+2.  a unui număr real în contexte variate
+3.  Compararea şi ordonarea numerelor reale                 exponent raţional, iraţional şi real ale unui număr
+    utilizând metode variate                                pozitiv nenul, aproximări raţionale pentru
+    Aplicarea unor algoritmi specifici calculului cu        numere reale
+
+    puteri, radicali și logaritmi în contexte variate  Radical dintr-un număr (ordin 2 sau ordin 3),
+                                                            proprietăţi ale radicalilor
+4. Alegerea formei de reprezentare a unui număr
+                                                         Noţiunea de logaritm, proprietăţi ale logaritmilor,
+    real pentru optimizarea calculelor
+                                                            calcule cu logaritmi, operaţia de logaritmare
+5. Alegerea strategiilor de rezolvare în vederea
+
+    optimizării calculelor
+
+6. Analizarea validităţii unor afirmaţii prin
+
+    utilizarea aproximărilor, a proprietăţilor sau a
+
+    regulilor de calcul
+
+1. Exprimarea relaţiilor de tip funcţional în Funcţii şi ecuaţii
+
+    diverse moduri                                           Funcţia putere: f :  D , f  x  xn, n ,
+
+2. Prelucrarea informaţiilor ilustrate prin graficul        n  2 şi
+
+    unei funcţii în scopul deducerii unor proprietăţi       funcţia radical: f : D  , f  x  n x ,
+
+    algebrice ale acesteia (monotonie, bijectivitate,
+
+    semn, convexitate)                                      n  2,3 , unde D  0, pentru n par şi
+3. Utilizarea de proprietăţi ale funcţiilor în calcule
+                                                            D  pentru n impar
+    şi aproximări, prin metode diverse
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_pedagogic
+
+                                                        25
+4. Exprimarea în limbaj matematic a unor situaţii              Funcţia exponenţială                        f :  0, ,
+    concrete ce se pot descrie printr-o funcţie de o
+    variabilă                                                 f  x  ax , a 0, , a  1 şi
+
+5. Interpretarea unor probleme de calcul în                   funcţia  logaritmică                          f : 0,  ,
+    vederea optimizării rezultatului
+                                                                  f  x  loga x , a 0,
+6. Utilizarea echivalenţei dintre bijectivitate şi
+    inversabilitate în trasarea unor grafice şi în             Rezolvări de ecuaţii folosind proprietăţile
+    rezolvarea unor ecuaţii                                       funcţiilor:
+                                                                  - Ecuaţii care conţin radicali de ordinul 2 sau
+Notă: Pentru toate tipurile de funcţii se vor studia:                  de ordinul 3
+                                                                  - Ecuaţii exponenţiale, ecuaţii logaritmice,
+intersecţia cu axele de coordonate, ecuaţia f  x  0 ,               utilizarea unor substituţii care conduc la
+                                                                       rezolvarea unor ecuaţii algebrice
+reprezentarea grafică prin puncte, simetrie, lectura
+grafică a proprietăţilor algebrice ale funcţiilor:            Matematici financiare
+monotonie, bijectivitate, inversabilitate, semn, convexitate   Probleme de numărare: permutări, aranjamente,
+
+1. Recunoaşterea unor date de tip probabilistic sau                combinări
+    statistic în situaţii concrete                             Elemente de calcul financiar: procente, dobânzi,
+
+2. Interpretarea primară a datelor statistice sau                  TVA
+    probabilistice cu ajutorul calculului financiar, al        Culegerea, clasificarea şi prelucrarea datelor
+    graficelor şi al diagramelor
+                                                                   statistice: date statistice, reprezentarea grafică a
+3. Utilizarea unor algoritmi specifici calculului                  datelor statistice. Interpretarea datelor statistice
+    financiar, statisticii sau probabilităţilor pentru         Evenimente aleatoare egal probabile, operaţii cu
+    analiza de caz                                                 evenimente, probabilitatea unui eveniment
+                                                                   compus din evenimente egal probabile
+4. Transpunerea în limbaj matematic prin
+    mijloace statistice sau probabilistice a unor             Notă: Aplicaţiile vor fi din domeniul financiar: profit,
+    probleme practice                                         calcularea preţului de cost al unui produs, amortizări de
+                                                              investiţii, tipuri de credite, metode de finanţare, buget
+5. Analizarea şi interpretarea unor situaţii                  personal, buget familial.
+    practice cu ajutorul conceptelor statistice sau
+    probabilistice                                            Geometrie
+                                                               Reper cartezian în plan, coordonatele unui
+6. Corelarea datelor statistice sau probabilistice în
+    scopul predicţiei comportării unui sistem prin                 vector în plan; coordonatele sumei vectoriale,
+    analogie cu modul de comportare în situaţii                    coordonatele produsului dintre un vector şi un
+    studiate                                                       număr real coordonate carteziene ale unui punct
+                                                                   din plan, distanţa dintre două puncte în plan
+1. Descrierea unor configuraţii geometrice analitic            Ecuaţii ale dreptei în plan determinată de un
+    sau utilizând vectori                                          punct şi de o direcţie dată şi ale dreptei
+                                                                   determinată de două puncte distincte date
+2. Descrierea analitică, sintetică sau vectorială a            Condiţii de paralelism, condiţii de
+    relaţiilor de paralelism şi de perpendicularitate              perpendicularitate a două drepte din plan,
+                                                                   calcularea unor distanţe şi a unor arii
+3. Utilizarea informaţiilor oferite de o configuraţie
+    geometrică pentru deducerea unor proprietăţi ale
+    acesteia şi calcularea unor distanţe şi a unor arii
+
+4. Exprimarea analitică, sintetică sau vectorială a
+    caracteristicilor matematice ale unei configuraţii
+    geometrice
+
+5. Interpretarea perpendicularităţii în relaţie cu
+    paralelismul şi minimul distanţei
+
+6. Modelarea unor configuraţii geometrice analitic,
+    sintetic sau vectorial
+
+    CLASA a XI-a -1 oră/săpt. (TC)
+
+    Competenţe specifice                                               Conţinuturi
+
+1.  Recunoaşterea şi diferenţierea mulţimilor de              Structuri algebrice
+2.  numere şi a structurilor algebrice                         Legi de compoziţie, proprietăţi
+    Identificarea unei structuri algebrice prin
+                                                               Structuri algebrice: monoid, grup, inel, corp.
+    verificarea proprietăţilor acesteia
+                                                              Exemple: mulţimile , , n, ,
+3. Compararea proprietăţilor algebrice sau
+
+    aritmetice ale operaţiilor definite pe diverse
+
+    mulţimi în scopul identificării unor algoritmi
+
+4. Exprimarea proprietăţilor mulţimilor înzestrate
+
+    cu operaţii prin identificarea organizării
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_pedagogic
+                                                                              26
+     structurale a acestora
+5. Utilizarea similarității operațiilor definite pe
+
+     mulțimi diferite în deducerea unor proprietăți
+     algebrice
+
+    CLASA a XII-a - 1 oră/săpt. (TC)
+
+    Competențe specifice                             Conținuturi
+
+1.  Identificarea unor situații practice concrete,   Elemente de calcul matriceal și sisteme de
+    care necesită asocierea unui tabel de date cu    ecuații liniare
+2.  reprezentarea sa matriceală                      Matrice
+3.  Asocierea unui tabel de date cu reprezentarea    • Tabel de tip matriceal. Matrice, mulțimi de
+4.  matriceală a unui proces
+    Aplicarea, în situații practice, a algoritmilor      matrice
+    de calcul cu matrice                             • Operații cu matrice: adunarea, înmulțirea,
+    Rezolvarea unor sisteme, utilizând metode
+    diferite de rezolvare și compararea acestor          înmulțirea unei matrice cu un scalar,
+    metode                                               proprietăți
+                                                     Determinanți
+
+                                                     • Determinantul unei matrice pătratice de ordin
+
+                                                     cel mult 3, proprietăți
+
+                                                     Sisteme de ecuații liniare
+
+                                                     • Matrice inversabile din n () , n = 2,3
+
+                                                     Ecuații matriceale
+
+    Programa pentru simularea examenului național de bacalaureat 2026, disciplina Matematică – M_pedagogic
+                                                                              27
+
