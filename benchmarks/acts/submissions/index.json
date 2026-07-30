@@ -1,0 +1,4 @@
+{
+  "comment": "Submission manifest. A static site has no directory listing, so this file is how the gallery finds entries. Add one object per submission; `entry` is the page the viewer loads. See SPEC.md for what a submission must contain.",
+  "submissions": []
+}

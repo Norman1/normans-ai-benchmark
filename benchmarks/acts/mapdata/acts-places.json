@@ -1,0 +1,766 @@
+{
+ "note": "Places named in Acts. Names are the common English forms; every coordinate, title and description comes from Pleiades (CC-BY 3.0). Regions carry a representative point, not a centroid.",
+ "count": 76,
+ "places": [
+  {
+   "acts_name": "Achaia",
+   "pleiades_title": "Achaea/Achaia (region)",
+   "pleiades_id": "570028",
+   "lat": 38.25441,
+   "lon": 21.77934,
+   "feature_types": "region",
+   "description": "An ancient Greek region on the northern coast of the Peloponnese.",
+   "uri": "https://pleiades.stoa.org/places/570028"
+  },
+  {
+   "acts_name": "Adramyttium",
+   "pleiades_title": "Adramyttium",
+   "pleiades_id": "550403",
+   "lat": 39.49864,
+   "lon": 26.9361,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient city of Aeolis, located on the modern Karataş peninsula at Ören in Turkey's Balıkesir province.",
+   "uri": "https://pleiades.stoa.org/places/550403"
+  },
+  {
+   "acts_name": "Alexandria",
+   "pleiades_title": "Alexandria",
+   "pleiades_id": "727070",
+   "lat": 31.20144,
+   "lon": 29.90977,
+   "feature_types": "settlement, port",
+   "description": "The ancient port city in Egypt's Nile Delta, founded by Alexander the Great in 332/331 BCE.",
+   "uri": "https://pleiades.stoa.org/places/727070"
+  },
+  {
+   "acts_name": "Amphipolis",
+   "pleiades_title": "Amphipolis",
+   "pleiades_id": "501347",
+   "lat": 40.82581,
+   "lon": 23.84158,
+   "feature_types": "city-wall, settlement, fort",
+   "description": "A Greek city in Thrace located on the east bank of the Strymon river, Amphipolis was originally founded as an Athenian colony.",
+   "uri": "https://pleiades.stoa.org/places/501347"
+  },
+  {
+   "acts_name": "Antioch",
+   "pleiades_title": "Antiochia/Theoupolis",
+   "pleiades_id": "658381",
+   "lat": 36.22255,
+   "lon": 36.18321,
+   "feature_types": "urban, settlement, amphitheatre",
+   "description": "A city founded ca. 300 BC by Seleucus I Nicator, a successor of Alexander the Great. Antioch was a great trading center and numbered as one of the four cities of the Syrian tetrapolis. Justinian I renamed the city 'Theoupolis' in the sixth century AD.",
+   "uri": "https://pleiades.stoa.org/places/658381"
+  },
+  {
+   "acts_name": "Antipatris",
+   "pleiades_title": "Pegai/Antipatris/Arethousa?",
+   "pleiades_id": "687996",
+   "lat": 32.10524,
+   "lon": 34.93097,
+   "feature_types": "settlement, archaeological-site",
+   "description": "A series of settlements and fortifications localized in and around the mound known today as Tel Afek/Râs el-'Ain in Israel. The mound itself is dominated today by the remains of an Ottoman fort, built on Crusader foundations, but an excavated Roman-era odeon can also be seen.",
+   "uri": "https://pleiades.stoa.org/places/687996"
+  },
+  {
+   "acts_name": "Apollonia",
+   "pleiades_title": "Apollonia",
+   "pleiades_id": "491526",
+   "lat": 40.6237,
+   "lon": 23.46968,
+   "feature_types": "settlement, station",
+   "description": "An ancient road station and settlement along the Via Egnatia in Mygdonia, between Amphipolis and Thessaoniki. Located near the modern municipality of Nea Apollonia in the Thessaloniki province of Greece. Possibly at a location now called Polina (Papazoglou) or a site between Nea Apollonia and Kokkalou excavated by Hatzopoulos in the early 1990s.",
+   "uri": "https://pleiades.stoa.org/places/491526"
+  },
+  {
+   "acts_name": "Asia",
+   "pleiades_title": "Asia (Roman province)",
+   "pleiades_id": "981509",
+   "lat": 38.46072,
+   "lon": 27.7761,
+   "feature_types": "province-2",
+   "description": "The Roman province of Asia, located on the eastern coast of the Aegean Sea. The region was bequeathed to the Roman Republic by Attalus III of Pergamum in 133 BCE. It was divided into seven smaller provinces by Diocletian in the 4th century CE.",
+   "uri": "https://pleiades.stoa.org/places/981509"
+  },
+  {
+   "acts_name": "Assos",
+   "pleiades_title": "Assos/Apollonia",
+   "pleiades_id": "550463",
+   "lat": 39.49014,
+   "lon": 26.33635,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient place, cited: BAtlas 56 C3 Assos/Apollonia",
+   "uri": "https://pleiades.stoa.org/places/550463"
+  },
+  {
+   "acts_name": "Athens",
+   "pleiades_title": "Athenae",
+   "pleiades_id": "579885",
+   "lat": 37.97164,
+   "lon": 23.72391,
+   "feature_types": "settlement",
+   "description": "A major Greek city-state and the principal city of Attika. Modern Athens in Greece.",
+   "uri": "https://pleiades.stoa.org/places/579885"
+  },
+  {
+   "acts_name": "Attalia",
+   "pleiades_title": "Attalea",
+   "pleiades_id": "638778",
+   "lat": 36.89031,
+   "lon": 30.69997,
+   "feature_types": "settlement",
+   "description": "Now the modern Antalya, Attalea was established in 150 B.C. on the coast of Pamphylia by Attalus II.",
+   "uri": "https://pleiades.stoa.org/places/638778"
+  },
+  {
+   "acts_name": "Azotus",
+   "pleiades_title": "Ashdod/Azotos (Mesogeios)",
+   "pleiades_id": "687838",
+   "lat": 31.75594,
+   "lon": 34.65806,
+   "feature_types": "settlement, archaeological-site, tell",
+   "description": "An ancient settlement of the Philistines.",
+   "uri": "https://pleiades.stoa.org/places/687838"
+  },
+  {
+   "acts_name": "Berea",
+   "pleiades_title": "Ber(r)oia",
+   "pleiades_id": "491546",
+   "lat": 40.52213,
+   "lon": 22.20149,
+   "feature_types": "settlement",
+   "description": "An ancient place, cited: BAtlas 50 B3 Ber(r)oia",
+   "uri": "https://pleiades.stoa.org/places/491546"
+  },
+  {
+   "acts_name": "Bithynia",
+   "pleiades_title": "Bithynia (region)",
+   "pleiades_id": "511189",
+   "lat": 40.56286,
+   "lon": 30.72018,
+   "feature_types": "region, label",
+   "description": "Bithynia was an ancient region, kingdom, and Roman province of northwestern Asia Minor.",
+   "uri": "https://pleiades.stoa.org/places/511189"
+  },
+  {
+   "acts_name": "Caesarea",
+   "pleiades_title": "Stratonos Pyrgos/Caesarea",
+   "pleiades_id": "678401",
+   "lat": 32.50184,
+   "lon": 34.89245,
+   "feature_types": "settlement",
+   "description": "An ancient place, cited: BAtlas 69 A4 Stratonos Pyrgos/Caesarea",
+   "uri": "https://pleiades.stoa.org/places/678401"
+  },
+  {
+   "acts_name": "Cappadocia",
+   "pleiades_title": "Cappadocia (region)",
+   "pleiades_id": "628949",
+   "lat": 38.63387,
+   "lon": 35.84912,
+   "feature_types": "region, label",
+   "description": "A region that stretched from Lake Tatta in the east to the upper Euphrates River and from the Black Sea southward to Cilicia.",
+   "uri": "https://pleiades.stoa.org/places/628949"
+  },
+  {
+   "acts_name": "Cauda",
+   "pleiades_title": "Kaudos (island)",
+   "pleiades_id": "589858",
+   "lat": 34.84166,
+   "lon": 24.0901,
+   "feature_types": "island",
+   "description": "An ancient place, cited: BAtlas 60 B3 Kaudos Ins.",
+   "uri": "https://pleiades.stoa.org/places/589858"
+  },
+  {
+   "acts_name": "Cenchreae",
+   "pleiades_title": "Kenchreai",
+   "pleiades_id": "570347",
+   "lat": 37.88239,
+   "lon": 22.99253,
+   "feature_types": "settlement, port",
+   "description": "The ancient Saronic Gulf port of Corinth (near modern Kechries in Greece).",
+   "uri": "https://pleiades.stoa.org/places/570347"
+  },
+  {
+   "acts_name": "Chios",
+   "pleiades_title": "Chios (settlement)",
+   "pleiades_id": "550496",
+   "lat": 38.37224,
+   "lon": 26.13298,
+   "feature_types": "settlement, settlement-modern",
+   "description": "The principal ancient city on the Aegean island of Chios.",
+   "uri": "https://pleiades.stoa.org/places/550496"
+  },
+  {
+   "acts_name": "Cilicia",
+   "pleiades_title": "Cilicia (Roman province)",
+   "pleiades_id": "981514",
+   "lat": 37.03815,
+   "lon": 34.18127,
+   "feature_types": "province-2",
+   "description": "A Roman province, first established in 102 BCE coincident with the region of the same name on the southern coast of Asia Minor, which by Roman times at least was said to be bounded by the Taurus mountains to the north, the river Melas in the west, and the Amanus mountains in the east.",
+   "uri": "https://pleiades.stoa.org/places/981514"
+  },
+  {
+   "acts_name": "Cnidus",
+   "pleiades_title": "Cnidus (Tekir)",
+   "pleiades_id": "599575",
+   "lat": 36.68818,
+   "lon": 27.37284,
+   "feature_types": "settlement",
+   "description": "An ancient settlement located at Tekir on the western tip of the modern Datça peninsula in Turkey (ancient Knidia), which extends from the southwest corner of Asia Minor. In the later fourth century BCE, it grew markedly, succeeding the site at Burgaz as the political center of the peninsula and attracting the name Cnidus to itself. It is often referred to as \"New Cnidus\" in recognition of this change.",
+   "uri": "https://pleiades.stoa.org/places/599575"
+  },
+  {
+   "acts_name": "Corinth",
+   "pleiades_title": "Corinthus/Korinthos",
+   "pleiades_id": "570182",
+   "lat": 37.90564,
+   "lon": 22.87861,
+   "feature_types": "settlement, archaeological-site",
+   "description": "The ancient Greek and Roman city of Corinth, located in the Peloponnese, Greece. Also known today as Archaia Korinthos and not to be confused with the nearby modern town.",
+   "uri": "https://pleiades.stoa.org/places/570182"
+  },
+  {
+   "acts_name": "Cos",
+   "pleiades_title": "Kos (settlement)",
+   "pleiades_id": "599728",
+   "lat": 36.8936,
+   "lon": 27.28991,
+   "feature_types": "settlement",
+   "description": "An ancient city, located on the Aegean island of the same name.",
+   "uri": "https://pleiades.stoa.org/places/599728"
+  },
+  {
+   "acts_name": "Crete",
+   "pleiades_title": "Creta (island)",
+   "pleiades_id": "589748",
+   "lat": 35.21485,
+   "lon": 25.07408,
+   "feature_types": "island",
+   "description": "The island of Crete is the largest of the Greek islands and the fifth-largest island in the Mediterranean Sea.",
+   "uri": "https://pleiades.stoa.org/places/589748"
+  },
+  {
+   "acts_name": "Cyprus",
+   "pleiades_title": "Cyprus (island)",
+   "pleiades_id": "707498",
+   "lat": 34.99544,
+   "lon": 33.22247,
+   "feature_types": "island",
+   "description": "Cyprus is the third largest island in the Mediterranean Sea.",
+   "uri": "https://pleiades.stoa.org/places/707498"
+  },
+  {
+   "acts_name": "Cyrene",
+   "pleiades_title": "Cyrene",
+   "pleiades_id": "373778",
+   "lat": 32.82003,
+   "lon": 21.85654,
+   "feature_types": "settlement",
+   "description": "An ancient Greek city founded in eastern Libya ca. 630 B.C., Cyrene later became part of the Roman Empire (ca. 74 B.C.). The site was added to the UNESCO World Heritage List in 1982.",
+   "uri": "https://pleiades.stoa.org/places/373778"
+  },
+  {
+   "acts_name": "Damascus",
+   "pleiades_title": "Damascus",
+   "pleiades_id": "678106",
+   "lat": 33.51161,
+   "lon": 36.3091,
+   "feature_types": "settlement",
+   "description": "The ancient city of Damascus, located in modern Syria, with some 125 monuments dating back to the Roman period. Inscribed as a UNESCO World Heritage Site in 1979.",
+   "uri": "https://pleiades.stoa.org/places/678106"
+  },
+  {
+   "acts_name": "Derbe",
+   "pleiades_title": "Derbe/Claudioderbe",
+   "pleiades_id": "648620",
+   "lat": 37.34921,
+   "lon": 33.36178,
+   "feature_types": "settlement",
+   "description": "An ancient place, cited: BAtlas 66 C2 Derbe/Claudioderbe",
+   "uri": "https://pleiades.stoa.org/places/648620"
+  },
+  {
+   "acts_name": "Egypt",
+   "pleiades_title": "Aegyptus (Roman imperial province)",
+   "pleiades_id": "766",
+   "lat": 31.20144,
+   "lon": 29.90977,
+   "feature_types": "province-2",
+   "description": "The Roman province of Egypt (Aegyptus) was established in 30 BC after the defeat of Marcus Antonius and Cleopatra VII at the Battle of Actium.",
+   "uri": "https://pleiades.stoa.org/places/766"
+  },
+  {
+   "acts_name": "Ephesus",
+   "pleiades_title": "Ephesus/Arsinoe(ia)",
+   "pleiades_id": "599612",
+   "lat": 37.94016,
+   "lon": 27.3424,
+   "feature_types": "settlement, archaeological-site",
+   "description": "Ephesus/Arsinoe(ia) was the most important ancient metropolis of Ionian Asia Minor.",
+   "uri": "https://pleiades.stoa.org/places/599612"
+  },
+  {
+   "acts_name": "Fair Havens",
+   "pleiades_title": "Kaloi Limenes",
+   "pleiades_id": "589834",
+   "lat": 34.93182,
+   "lon": 24.81228,
+   "feature_types": "bay",
+   "description": "An embayment of the Mediterranean Sea on the southern coastline of Crete, some 7 km east of Cape Lithinon, 2 km west of Lasaia, and 10 km west of Lebena. The location is noted for the visit of the Christian apostle St. Paul in ca. 47 CE.",
+   "uri": "https://pleiades.stoa.org/places/589834"
+  },
+  {
+   "acts_name": "Galatia",
+   "pleiades_title": "Galatia",
+   "pleiades_id": "619161",
+   "lat": 39.93381,
+   "lon": 32.42744,
+   "feature_types": "province, region, label",
+   "description": "An ancient place, cited: BAtlas 63 B1 Galatia",
+   "uri": "https://pleiades.stoa.org/places/619161"
+  },
+  {
+   "acts_name": "Galilee",
+   "pleiades_title": "Galilaea",
+   "pleiades_id": "678145",
+   "lat": 32.75,
+   "lon": 35.25,
+   "feature_types": "region, label",
+   "description": "Galilaea was the northernmost region of Palaestina. Galilaea became a Seleucid territory after the conquests of Alexander the Great.",
+   "uri": "https://pleiades.stoa.org/places/678145"
+  },
+  {
+   "acts_name": "Gaza",
+   "pleiades_title": "Gaza",
+   "pleiades_id": "687902",
+   "lat": 31.52021,
+   "lon": 34.45172,
+   "feature_types": "settlement, port",
+   "description": "An important ancient settlement on the coast of Palestine.",
+   "uri": "https://pleiades.stoa.org/places/687902"
+  },
+  {
+   "acts_name": "Iconium",
+   "pleiades_title": "Iconium/Claudiconium",
+   "pleiades_id": "648647",
+   "lat": 37.87246,
+   "lon": 32.4923,
+   "feature_types": "settlement, archaeological-site",
+   "description": "Iconium/Claudiconium (modern Konya) was an important city in Lycaonia that later became part of the Roman province of Galatia.",
+   "uri": "https://pleiades.stoa.org/places/648647"
+  },
+  {
+   "acts_name": "Italy",
+   "pleiades_title": "Italia",
+   "pleiades_id": "1052",
+   "lat": 43.69415,
+   "lon": 11.09495,
+   "feature_types": "region",
+   "description": "The Italian peninsula extending northward to the Alps as recognized by the Romans.",
+   "uri": "https://pleiades.stoa.org/places/1052"
+  },
+  {
+   "acts_name": "Jerusalem",
+   "pleiades_title": "Ierusalem/Hierosolyma/Col. Aelia Capitolina",
+   "pleiades_id": "687928",
+   "lat": 31.77719,
+   "lon": 35.23498,
+   "feature_types": "settlement, archaeological-site, findspot",
+   "description": "The city of Jerusalem.",
+   "uri": "https://pleiades.stoa.org/places/687928"
+  },
+  {
+   "acts_name": "Joppa",
+   "pleiades_title": "Ioppe",
+   "pleiades_id": "687931",
+   "lat": 32.05308,
+   "lon": 34.74993,
+   "feature_types": "settlement, port",
+   "description": "Ioppe (Jaffa) is an ancient port city in Iudaea.",
+   "uri": "https://pleiades.stoa.org/places/687931"
+  },
+  {
+   "acts_name": "Judaea",
+   "pleiades_title": "Iudaea (region)",
+   "pleiades_id": "687934",
+   "lat": 31.73417,
+   "lon": 35.00172,
+   "feature_types": "region",
+   "description": "Iudaea was an historical region of the Levant located in the mountainous southern part of the Land of Palestine, roughly corresponding to the southern West Bank. The region's name derives from the biblical tribe of Judah and the associated Kingdom of Judah (ca. 934 until 586 BC).",
+   "uri": "https://pleiades.stoa.org/places/687934"
+  },
+  {
+   "acts_name": "Lycia",
+   "pleiades_title": "Lycia",
+   "pleiades_id": "638965",
+   "lat": 36.63412,
+   "lon": 29.57514,
+   "feature_types": "region, label",
+   "description": "Lycia was a region of southwestern Asia Minor.",
+   "uri": "https://pleiades.stoa.org/places/638965"
+  },
+  {
+   "acts_name": "Lydda",
+   "pleiades_title": "Lydda/Diospolis/Georgioupolis",
+   "pleiades_id": "687953",
+   "lat": 31.95825,
+   "lon": 34.89238,
+   "feature_types": "settlement",
+   "description": "An ancient place, cited: BAtlas 70 F2 Lydda/Diospolis/Georgioupolis",
+   "uri": "https://pleiades.stoa.org/places/687953"
+  },
+  {
+   "acts_name": "Lystra",
+   "pleiades_title": "Lystra/Col. Iulia Felix Gemina",
+   "pleiades_id": "648699",
+   "lat": 37.58828,
+   "lon": 32.34447,
+   "feature_types": "settlement",
+   "description": "An ancient place, cited: BAtlas 66 A1 Lystra/Col. Iulia Felix Gemina",
+   "uri": "https://pleiades.stoa.org/places/648699"
+  },
+  {
+   "acts_name": "Macedonia",
+   "pleiades_title": "Macedonia (Roman province)",
+   "pleiades_id": "981531",
+   "lat": 40.74384,
+   "lon": 22.02066,
+   "feature_types": "province-2",
+   "description": "A province of the Roman empire, formed in the mid-second century BCE, becoming a senatorial province in the mid-first century CE.",
+   "uri": "https://pleiades.stoa.org/places/981531"
+  },
+  {
+   "acts_name": "Malta",
+   "pleiades_title": "Melita",
+   "pleiades_id": "462310",
+   "lat": 35.88517,
+   "lon": 14.40012,
+   "feature_types": "settlement",
+   "description": "A capital town founded by Carthaginians.",
+   "uri": "https://pleiades.stoa.org/places/462310"
+  },
+  {
+   "acts_name": "Mesopotamia",
+   "pleiades_title": "Mesopotamia (region)",
+   "pleiades_id": "874602",
+   "lat": 37.69894,
+   "lon": 40.65169,
+   "feature_types": "region, label",
+   "description": "An important region surrounding the Tigris–Euphrates river system, in the northern part of the Fertile Crescent, roughly corresponding to most of modern Iraq and Kuwait, eastern Syria, and Southeastern Turkey. Mesopotamia was a critical part of many empires and kingdoms, including the Sumerians, Akkadians, Assyrians, Babylonians, the Achaemenids, Alexander the Great, and the Seleucids. It was also a site of intense conflict between the Roman, Parthian, and Sassanid Empires until the 7th century Muslim conquest.",
+   "uri": "https://pleiades.stoa.org/places/874602"
+  },
+  {
+   "acts_name": "Miletus",
+   "pleiades_title": "Miletus",
+   "pleiades_id": "599799",
+   "lat": 37.53046,
+   "lon": 27.27881,
+   "feature_types": "settlement, port, archaeological-site",
+   "description": "A major ancient city in Ionia.",
+   "uri": "https://pleiades.stoa.org/places/599799"
+  },
+  {
+   "acts_name": "Mitylene",
+   "pleiades_title": "Mytilene",
+   "pleiades_id": "550763",
+   "lat": 39.11048,
+   "lon": 26.54705,
+   "feature_types": "settlement",
+   "description": "An ancient settlement. The early fortified core of the city was located on an islet off the east coast of Lesbos, now joined to the mainland. That site is dominated by the remains of a Byzantine fortress with Ottoman and Genoese repairs and additions. This original city later expanded onto the main island.",
+   "uri": "https://pleiades.stoa.org/places/550763"
+  },
+  {
+   "acts_name": "Myra",
+   "pleiades_title": "Myra",
+   "pleiades_id": "639005",
+   "lat": 36.25856,
+   "lon": 29.98545,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient Lycian town",
+   "uri": "https://pleiades.stoa.org/places/639005"
+  },
+  {
+   "acts_name": "Mysia",
+   "pleiades_title": "Mysia (region)",
+   "pleiades_id": "550759",
+   "lat": 39.59969,
+   "lon": 27.834,
+   "feature_types": "region, label",
+   "description": "A region of northwestern Asia Minor that ancient sources associate with the Mysi, a people who had migrated there from Thrace, probably late in the second millennium BCE. Sources vary on the extent and subdivisions of the region, but in general it seems to have been at least roughly bounded on the north by the Hellespont and Propontis, on the east by the Rhyndacus river (modern Mustafakemalpaşa) and mount Olympus (Ulu Dağ), and on the west either by the Aisepos river (Gönen Çayı) or (if the Troad is taken to be part of Mysia) the Aegean Sea.",
+   "uri": "https://pleiades.stoa.org/places/550759"
+  },
+  {
+   "acts_name": "Neapolis",
+   "pleiades_title": "Neapolis (Kavalla)",
+   "pleiades_id": "501523",
+   "lat": 40.93432,
+   "lon": 24.41404,
+   "feature_types": "settlement, port",
+   "description": "An ancient port city on the coast of Thrace, Neapolis (modern Kavalla in the Decentralized Administration of Macedonia and Thrace in Greece) was probably founded from Thasos in the seventh century BCE. It served as the port for Philippi in Hellenistic and Roman times, and was refortified by Justinian in the sixth century CE.",
+   "uri": "https://pleiades.stoa.org/places/501523"
+  },
+  {
+   "acts_name": "Pamphylia",
+   "pleiades_title": "Pamphylia (region)",
+   "pleiades_id": "639034",
+   "lat": 36.92194,
+   "lon": 30.94796,
+   "feature_types": "region, label",
+   "description": "Ancient region on the south-central coast of Asia Minor, stretching from the vicinity of modern Antalya in the west to the vicinity of modern Selimiye in the east.",
+   "uri": "https://pleiades.stoa.org/places/639034"
+  },
+  {
+   "acts_name": "Paphos",
+   "pleiades_title": "(Nea) Paphos",
+   "pleiades_id": "707586",
+   "lat": 34.75721,
+   "lon": 32.40659,
+   "feature_types": "settlement, archaeological-site",
+   "description": "The legendary birthplace of the goddess Aphrodite, (Nea) Paphos has been a center of activity since the Final Bronze Age when Mycenaeans honored the goddess there. The site was listed on the UNESCO World Heritage List in 1980.",
+   "uri": "https://pleiades.stoa.org/places/707586"
+  },
+  {
+   "acts_name": "Patara",
+   "pleiades_title": "Patara/Arsinoe",
+   "pleiades_id": "639042",
+   "lat": 36.26179,
+   "lon": 29.3145,
+   "feature_types": "settlement, port",
+   "description": "Patara/Arsinoe was an ancient maritime center of southwest Lycia.",
+   "uri": "https://pleiades.stoa.org/places/639042"
+  },
+  {
+   "acts_name": "Perga",
+   "pleiades_title": "Perge",
+   "pleiades_id": "639048",
+   "lat": 36.96447,
+   "lon": 30.85326,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient Greek city of Asia Minor and capital of Pamphylia.",
+   "uri": "https://pleiades.stoa.org/places/639048"
+  },
+  {
+   "acts_name": "Philippi",
+   "pleiades_title": "Krenides/Philippi/Col. Augusta Iulia Philippensis",
+   "pleiades_id": "501482",
+   "lat": 41.01265,
+   "lon": 24.28464,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient city founded as Philippi by the king of Macedon, Philip II of Macedon on the site of the Thasian colony of Krinides.",
+   "uri": "https://pleiades.stoa.org/places/501482"
+  },
+  {
+   "acts_name": "Phrygia",
+   "pleiades_title": "Phrygia",
+   "pleiades_id": "609502",
+   "lat": 38.78304,
+   "lon": 30.47301,
+   "feature_types": "region, label",
+   "description": "Phrygia was a region of west-central Anatolia.",
+   "uri": "https://pleiades.stoa.org/places/609502"
+  },
+  {
+   "acts_name": "Pisidian Antioch",
+   "pleiades_title": "Antiochia/Col. Caesarea",
+   "pleiades_id": "609307",
+   "lat": 38.30537,
+   "lon": 31.18987,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient city in Pisidia.",
+   "uri": "https://pleiades.stoa.org/places/609307"
+  },
+  {
+   "acts_name": "Pontus",
+   "pleiades_title": "Pontus",
+   "pleiades_id": "857287",
+   "lat": 40.22136,
+   "lon": 37.92342,
+   "feature_types": "region, label",
+   "description": "A region of northeastern Anatolia consisting of the southeastern coast of the Black Sea and the surrounding inland region.",
+   "uri": "https://pleiades.stoa.org/places/857287"
+  },
+  {
+   "acts_name": "Ptolemais",
+   "pleiades_title": "Ake/Ptolemais",
+   "pleiades_id": "678010",
+   "lat": 32.92129,
+   "lon": 35.07984,
+   "feature_types": "settlement",
+   "description": "The Phoenician city of Akko was re-founded by Ptolemy II Philadelphos from ca. 285-246 B.C.",
+   "uri": "https://pleiades.stoa.org/places/678010"
+  },
+  {
+   "acts_name": "Puteoli",
+   "pleiades_title": "Dikaiarcheia/Puteoli",
+   "pleiades_id": "432815",
+   "lat": 40.82584,
+   "lon": 14.12174,
+   "feature_types": "settlement",
+   "description": "A maritime city of Campania situated on the Phlegrean Peninsula. The settlement started as a Greek colony and became a Roman colony under the name Puteoli in 194 B.C.",
+   "uri": "https://pleiades.stoa.org/places/432815"
+  },
+  {
+   "acts_name": "Rhegium",
+   "pleiades_title": "Rhegion/Regium",
+   "pleiades_id": "452416",
+   "lat": 38.10928,
+   "lon": 15.64393,
+   "feature_types": "settlement",
+   "description": "A site with settlement origins in the Bronze and Iron Ages, Rhegion was eventually colonized by Chalcis in either 743 or 730 BCE.",
+   "uri": "https://pleiades.stoa.org/places/452416"
+  },
+  {
+   "acts_name": "Rhodes",
+   "pleiades_title": "Rhodos (settlement)",
+   "pleiades_id": "590030",
+   "lat": 36.44311,
+   "lon": 28.22761,
+   "feature_types": "settlement",
+   "description": "A settlement on the island of Rhodes.",
+   "uri": "https://pleiades.stoa.org/places/590030"
+  },
+  {
+   "acts_name": "Rome",
+   "pleiades_title": "Roma",
+   "pleiades_id": "423025",
+   "lat": 41.88995,
+   "lon": 12.49143,
+   "feature_types": "urban, settlement",
+   "description": "The capital of the Roman Republic and Empire.",
+   "uri": "https://pleiades.stoa.org/places/423025"
+  },
+  {
+   "acts_name": "Salamis",
+   "pleiades_title": "Salamis/Konstantia",
+   "pleiades_id": "707617",
+   "lat": 35.17958,
+   "lon": 33.90286,
+   "feature_types": "settlement, archaeological-site",
+   "description": "An ancient settlement on the east coast of Cyprus, located northwest of Ammokhostos.",
+   "uri": "https://pleiades.stoa.org/places/707617"
+  },
+  {
+   "acts_name": "Samaria",
+   "pleiades_title": "Samaria/Sebaste",
+   "pleiades_id": "678370",
+   "lat": 32.27645,
+   "lon": 35.19008,
+   "feature_types": "settlement, archaeological-site, findspot",
+   "description": "Samaria/Sebaste was an ancient city of Iudaea. In 30 B.C., it passed under the control of Herod the Great and was renamed Sebaste in honor of the emperor Augustus.",
+   "uri": "https://pleiades.stoa.org/places/678370"
+  },
+  {
+   "acts_name": "Samos",
+   "pleiades_title": "Samos (island)",
+   "pleiades_id": "599926",
+   "lat": 37.73246,
+   "lon": 26.83913,
+   "feature_types": "island",
+   "description": "The island of Samos.",
+   "uri": "https://pleiades.stoa.org/places/599926"
+  },
+  {
+   "acts_name": "Samothrace",
+   "pleiades_title": "Samothrace (island)",
+   "pleiades_id": "501597",
+   "lat": 40.45231,
+   "lon": 25.57624,
+   "feature_types": "island",
+   "description": "Samothrace is an island of the northern Aegean Sea.",
+   "uri": "https://pleiades.stoa.org/places/501597"
+  },
+  {
+   "acts_name": "Seleucia",
+   "pleiades_title": "Hydatos Potamoi/Seleukeia Pieria",
+   "pleiades_id": "658483",
+   "lat": 36.12126,
+   "lon": 35.9286,
+   "feature_types": "settlement, port",
+   "description": "The capital city of Seleucus I Nicator, established ca. 300 BC.",
+   "uri": "https://pleiades.stoa.org/places/658483"
+  },
+  {
+   "acts_name": "Sidon",
+   "pleiades_title": "Sidon/Col. Aurelia Pia",
+   "pleiades_id": "678393",
+   "lat": 33.56195,
+   "lon": 35.37279,
+   "feature_types": "settlement, archaeological-site, settlement-modern, findspot",
+   "description": "Sidon/Col. Aurelia Pia is an ancient maritime city and Phoenician metropolis",
+   "uri": "https://pleiades.stoa.org/places/678393"
+  },
+  {
+   "acts_name": "Syracuse",
+   "pleiades_title": "Syracusae/Syrakousai",
+   "pleiades_id": "462503",
+   "lat": 37.07008,
+   "lon": 15.28334,
+   "feature_types": "settlement",
+   "description": "An important ancient city on the island of Sicily.",
+   "uri": "https://pleiades.stoa.org/places/462503"
+  },
+  {
+   "acts_name": "Syria",
+   "pleiades_title": "Syria (Roman imperial province)",
+   "pleiades_id": "981550",
+   "lat": 37.5,
+   "lon": 37.5,
+   "feature_types": "province-2",
+   "description": "The Roman imperial province of Syria.",
+   "uri": "https://pleiades.stoa.org/places/981550"
+  },
+  {
+   "acts_name": "Tarsus",
+   "pleiades_title": "Tarsus/Antiochia ad Cydnum",
+   "pleiades_id": "648789",
+   "lat": 36.91404,
+   "lon": 34.89647,
+   "feature_types": "city-center, settlement, archaeological-site",
+   "description": "An important city and river port on the Cydnus river located in Cilicia Pedias.",
+   "uri": "https://pleiades.stoa.org/places/648789"
+  },
+  {
+   "acts_name": "Thessalonica",
+   "pleiades_title": "Thessalonica",
+   "pleiades_id": "491741",
+   "lat": 40.62834,
+   "lon": 22.95288,
+   "feature_types": "settlement",
+   "description": "A city of northern Greece founded by Cassander of Macedon ca. 315 BCE; an important center of the Roman and Late Antique worlds.",
+   "uri": "https://pleiades.stoa.org/places/491741"
+  },
+  {
+   "acts_name": "Three Taverns",
+   "pleiades_title": "Tres Tabernae",
+   "pleiades_id": "423106",
+   "lat": 41.56168,
+   "lon": 12.87428,
+   "feature_types": "station, archaeological-site",
+   "description": "A statio at the point where the Via Appia crosses the Via Ninfina.",
+   "uri": "https://pleiades.stoa.org/places/423106"
+  },
+  {
+   "acts_name": "Troas",
+   "pleiades_title": "Antigoneia/(Col. Augusta) Alexandria Troas",
+   "pleiades_id": "550434",
+   "lat": 39.7517,
+   "lon": 26.15756,
+   "feature_types": "settlement",
+   "description": "An ancient city of the Troad, founded as Antigoneia by Antigonos Monophthalmos. Lysimachos renamed the city Alexandria after 301 BCE. The city became part of the kingdom of Pergamon and, later, the Roman Empire.",
+   "uri": "https://pleiades.stoa.org/places/550434"
+  },
+  {
+   "acts_name": "Tyre",
+   "pleiades_title": "Tyrus/Col. Septimia Severa",
+   "pleiades_id": "678437",
+   "lat": 33.26934,
+   "lon": 35.20183,
+   "feature_types": "settlement, settlement-modern, findspot",
+   "description": "The ancient city of Tyre (modern es-Sur on the coast of Lebanon). A UNESCO World Heritage Site, in part because of its \"important archaeological remains, mainly from Roman times.\"",
+   "uri": "https://pleiades.stoa.org/places/678437"
+  }
+ ]
+}
