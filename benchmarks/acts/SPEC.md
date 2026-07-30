@@ -62,6 +62,20 @@ places named in Acts with coordinates from Pleiades, the ancient coastline,
 Roman province borders, region names, the road network, and Herod's kingdom.
 All clipped to the world of Acts and simplified for the browser.
 
+`mapdata/js/` holds every one of those files as a **classic script** that
+assigns into `window.ACTS_MAPDATA` — `places`, `coastline`, `provinceBorders`,
+`regionLabels`, `roads`, `herodsKingdom`. Use those, not the `.geojson`
+originals, which your page cannot load at all (see the constraints below).
+
+```html
+<script src="../../mapdata/js/acts-places.js"></script>
+<script src="../../mapdata/js/coastline.js"></script>
+<script>
+  const { places } = window.ACTS_MAPDATA.places;   // 76 entries, lat/lon each
+  const coast = window.ACTS_MAPDATA.coastline;     // GeoJSON FeatureCollection
+</script>
+```
+
 You should not need to look up a single coordinate. Guessing where Lystra is
 puts it tens of kilometres off, or in the sea, and the map is quietly wrong in a
 way that looks fine.
@@ -90,14 +104,28 @@ passes a glance. What separates a real submission:
 ## Hard constraints
 
 - **Self-contained.** No CDN scripts, external fonts, or remote assets. No
-  network requests of any kind. Everything ships in your folder or is inlined —
-  copy what you need from `mapdata/` into your own folder.
+  network requests of any kind. Everything ships in your folder or is inlined.
+  The one exception is `mapdata/js/`, which you can reference in place with
+  `<script src="../../mapdata/js/coastline.js">` — verified working from inside
+  a submission, so there is no need to copy it.
 - **Runs from a static file.** No build step, no server, no bundler.
 - The viewer frames your page with
-  `sandbox="allow-scripts allow-pointer-lock allow-downloads"`, so
-  `localStorage`, `sessionStorage`, `indexedDB`, `fetch` and `XMLHttpRequest`
-  are all unavailable. Relative `<script>`, `<img>` and `<link>` loads work
-  normally.
+  `sandbox="allow-scripts allow-pointer-lock allow-downloads"`. There is no
+  `allow-same-origin`, so your page runs on an **opaque origin**. That has one
+  consequence worth reading twice, because it is measured, not guessed:
+
+  | How you might load data | Result |
+  |---|---|
+  | Classic `<script src="./data.js">` setting a global | **works** |
+  | ES modules — `type="module"`, `import()` | **fails** |
+  | `fetch` | exists, every call **fails** |
+  | `XMLHttpRequest` | exists, every call **fails** |
+  | `localStorage`, `sessionStorage`, `indexedDB` | **unavailable** |
+
+  So **ship data as classic scripts that assign to a global.** `fetch` and
+  `import` will not throw at parse time — they fail at runtime, which is a
+  slow and annoying way to find this out. Relative `<img>` and `<link>` loads
+  work normally.
 
 ## Deliverable
 

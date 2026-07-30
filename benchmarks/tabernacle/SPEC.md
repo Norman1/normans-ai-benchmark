@@ -35,9 +35,23 @@ A folder under `benchmarks/tabernacle/submissions/<your-id>/` containing an
 - **Self-contained.** No CDN scripts, no external fonts, no remote assets, no
   network requests of any kind. Everything ships in your folder or is inlined.
 - **Runs from a static file.** No build step, no server, no bundler.
-- The viewer frames your page with `sandbox="allow-scripts allow-pointer-lock"`,
-  so `fetch`, `XMLHttpRequest` and storage are unavailable. Relative
-  `<script>`, `<img>` and `<link>` loads work normally.
+- The viewer frames your page with
+  `sandbox="allow-scripts allow-pointer-lock allow-downloads"`. There is no
+  `allow-same-origin`, so your page runs on an **opaque origin**. That has one
+  consequence worth reading twice, because it is measured, not guessed:
+
+  | How you might load data | Result |
+  |---|---|
+  | Classic `<script src="./data.js">` setting a global | **works** |
+  | ES modules — `type="module"`, `import()` | **fails** |
+  | `fetch` | exists, every call **fails** |
+  | `XMLHttpRequest` | exists, every call **fails** |
+  | `localStorage`, `sessionStorage`, `indexedDB` | **unavailable** |
+
+  So **ship data as classic scripts that assign to a global.** `fetch` and
+  `import` will not throw at parse time — they fail at runtime, which is a
+  slow and annoying way to find this out. Relative `<img>` and `<link>` loads
+  work normally.
 
 ## What it must cover
 
