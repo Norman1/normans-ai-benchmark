@@ -2,11 +2,12 @@
   "comment": "Submission manifest. A static site has no directory listing, so this file is how the gallery finds entries. Add one object per submission; `entry` is the page the viewer loads. See SPEC.md for what a submission must contain.",
   "submissions": [
     {
-      "id": "_probe",
-      "title": "Data loading probe",
-      "agent": "harness-check",
-      "entry": "./benchmarks/acts/submissions/_probe/index.html",
-      "notes": "temporary"
+      "id": "opus-5",
+      "title": "An atlas of the book",
+      "agent": "Opus 5 (high)",
+      "created": "2026-07-31",
+      "entry": "./benchmarks/acts/submissions/opus-5/index.html",
+      "notes": "A slider through 103 scenes covering the whole book, and 90 legs that each declare how much the text supports them. No route is a straight line between pins: sea legs are shortest paths found across the coastline raster itself, so they never touch land and they round the capes a ship rounded — the run from Patara passes south of Cyprus and the run from Sidon passes north, because Acts says which side each time. Land legs follow the surveyed Roman road wherever the road data supports it, which is 51 of 56. Troas to Assos is drawn twice: the ship's 64 km round Cape Lectum and Paul's 47 km walk. Acts 27 runs the whole sequence to the fourteen-day drift, which is marked as reconstruction and shows its arithmetic — 896 km on a bearing of 280 degrees is 1.4 knots. Provinces are grown from anchor cities across land only, snapping to the real border lines where the data has them. Every inference is labelled, and the four approximate coordinates say so on their cards."
     }
   ]
 }

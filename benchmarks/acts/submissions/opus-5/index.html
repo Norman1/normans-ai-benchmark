@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Acts — an atlas of the book</title>
+<link rel="stylesheet" href="./css/app.css">
+</head>
+<body>
+
+<div class="app">
+
+  <aside class="side">
+    <header class="brand">
+      <h1>Acts</h1>
+      <p>An atlas of the book, in the order it happens.</p>
+    </header>
+
+    <div class="scroller">
+      <section id="story" class="story"></section>
+      <div id="note" class="note" hidden></div>
+    </div>
+
+    <div id="actions" class="actions"></div>
+
+    <nav class="side-foot">
+      <button data-panel="legend" class="linky">How to read the map</button>
+      <button data-panel="about" class="linky">Sources &amp; method</button>
+    </nav>
+  </aside>
+
+  <main class="stage">
+    <canvas id="map" aria-label="Map of the eastern Mediterranean in the first century"></canvas>
+
+    <div class="layers">
+      <label><input type="checkbox" data-layer="provinces"> Provinces</label>
+      <label><input type="checkbox" data-layer="roads"> Roman roads</label>
+      <label><input type="checkbox" data-layer="spread"> Spread</label>
+      <label><input type="checkbox" data-layer="herod"> Herod's kingdom</label>
+      <label><input type="checkbox" data-layer="labels"> Ancient names</label>
+      <button id="whole" class="whole">Whole map</button>
+    </div>
+
+    <button id="follow-stop" class="follow-stop" hidden>Stop following</button>
+
+    <aside id="card" class="card" hidden></aside>
+
+    <section id="legend" class="sheet" hidden>
+      <button class="sheet-close" aria-label="Close">&times;</button>
+      <h3>How to read the map</h3>
+
+      <h5>The lines</h5>
+      <ul class="key">
+        <li><i class="k-land"></i> By land — every one of these that the road data can support follows the surveyed Roman road, not a straight line between dots.</li>
+        <li><i class="k-sea"></i> By sea — a track found across the coastline itself, so it never crosses land and it rounds the capes a ship would have rounded.</li>
+        <li><i class="k-foot"></i> On foot, where Acts says someone walked while the ship sailed.</li>
+        <li><i class="k-drift"></i> Adrift — not a course anyone steered.</li>
+        <li><i class="k-refused"></i> A direction taken and refused. The bar across the end means they never arrived.</li>
+        <li><i class="k-past"></i> Already travelled, earlier in the book.</li>
+      </ul>
+
+      <h5>How much the book actually says</h5>
+      <p>Click any leg in the panel on the left and it will tell you which of these it is.</p>
+      <dl class="key-dl">
+        <dt>Stated</dt><dd>Acts names the stop and makes the mode of travel clear.</dd>
+        <dt>Implied</dt><dd>Acts names the stop but not whether it was reached by land or by sea.</dd>
+        <dt>Reconstructed</dt><dd>Acts leaves a gap. The line fills it in and says so.</dd>
+      </dl>
+
+      <h5>The regions</h5>
+      <p>Roman provinces are drawn as approximate regions, because that is what
+         they were — and because the border data available here is dated about a
+         century and a half after the events. Names in italics inside them are
+         the older countries Acts also uses: Phrygia, Mysia, Lycaonia, Galilee.</p>
+
+      <h5>The places</h5>
+      <p>Red is where the story is now, dark brown is somewhere it has already
+         been, faint is everywhere else. Click any of them for a card. Modern
+         names are on the cards and never on the map.</p>
+    </section>
+
+    <section id="about" class="sheet" hidden>
+      <button class="sheet-close" aria-label="Close">&times;</button>
+      <h3>Sources &amp; method</h3>
+
+      <h5>Where the geography comes from</h5>
+      <p>Coordinates for the seventy-six places Acts names are from
+         <b>Pleiades</b> (CC-BY 3.0). The coastline, the Roman road network, the
+         province borders and Herod's kingdom are from the <b>Ancient World
+         Mapping Center</b> at UNC Chapel Hill, under the ODC Open Database
+         Licence, derived from the <i>Barrington Atlas</i>. Both were supplied
+         with the brief; nothing here was traced by hand or guessed.</p>
+      <p>The shoreline is the <b>ancient</b> one. Ephesus, Miletus and Troas
+         were working ports whose harbours have since silted up — Ephesus now
+         sits some eight kilometres inland — and on a modern coastline half the
+         sailing in this book stops making sense.</p>
+
+      <h5>How the sea routes were found</h5>
+      <p>The coastline is burned into a grid of about eight and a half million
+         cells, roughly a kilometre across, and the sea is flooded outward from
+         open water. Each voyage is then a shortest path across water cells
+         only. That is why no line crosses land, why ships round Cape Lectum and
+         thread the Strait of Messina, and why the run from Patara passes south
+         of Cyprus while the run from Sidon passes north — Acts says which side
+         each time, and the two waypoints are the only thing steering it.</p>
+
+      <h5>How the provinces were drawn</h5>
+      <p>The bundled border file is bare linework with no names and no closed
+         shapes, so a province cannot simply be read off it. Each one here is
+         grown outward from anchor cities across land only, with a heavy toll
+         for crossing one of the real border lines. Where the data has a border
+         the region snaps to it; where it does not, neighbouring provinces
+         divide the ground between them. The result is an approximation and is
+         meant to be.</p>
+
+      <h5>What is guesswork, and marked as such</h5>
+      <ul>
+        <li>Four places Acts names are not in the supplied coordinate set —
+            Phoenix, Lasea, the Forum of Appius and the Mount of Olives. Their
+            positions are approximate and every card says so.</li>
+        <li>Cape Salmone is not guessed: it is taken as the easternmost point of
+            Crete in the supplied coastline.</li>
+        <li>Five land legs are drawn as plain arcs because no road survives in
+            the source data for that ground — Attica and the Peloponnese have
+            none at all. Each says so when you click it.</li>
+        <li>The fourteen-day drift from Cauda to Malta is a reconstruction, and
+            the panel at that point in the story shows the arithmetic.</li>
+      </ul>
+
+      <h5>Dates</h5>
+      <p>The slider moves through the narrative, not through years. Acts gives
+         very few absolute dates; Gallio at Corinth is the firmest, and even the
+         famine under Claudius and Festus replacing Felix are argued over. A
+         slider labelled in years would have to pick one chronology and present
+         it as fact.</p>
+
+      <h5>The words</h5>
+      <p>There are no quotations from scripture anywhere in this page. Every
+         description of what happens is written for it.</p>
+    </section>
+  </main>
+
+  <footer class="timebar">
+    <button id="prev" class="step" aria-label="Previous">‹</button>
+    <div class="track">
+      <div id="ticks" class="ticks"></div>
+      <input id="slider" type="range" min="0" max="1" value="0" step="1" aria-label="Timeline">
+    </div>
+    <button id="next" class="step" aria-label="Next">›</button>
+    <div id="readout" class="readout"></div>
+  </footer>
+
+</div>
+
+<!-- Bundled reference data, referenced in place. Classic scripts: this page
+     runs on an opaque origin, where modules and fetch do not work. -->
+<script src="../../mapdata/js/acts-places.js"></script>
+<script src="../../mapdata/js/herods-kingdom.js"></script>
+
+<!-- Generated by tools/build-geo.mjs from that same data. -->
+<script src="./js/data-land.js"></script>
+<script src="./js/data-provinces.js"></script>
+<script src="./js/data-routes.js"></script>
+<script src="./js/data-labels.js"></script>
+<script src="./js/data-roads.js"></script>
+
+<!-- Written for this page. -->
+<script src="./js/extras.js"></script>
+<script src="./js/narrative.js"></script>
+<script src="./js/places.js"></script>
+<script src="./js/map.js"></script>
+<script src="./js/app.js"></script>
+</body>
+</html>
